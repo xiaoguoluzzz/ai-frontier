@@ -10,8 +10,8 @@ GitHub Actions（每天 08:00 北京时间定时触发，公开仓库免费）
     ├─ scripts/build-data.js
     │    ├─ ① 抓新闻 RSS × 4（TechCrunch AI / Google AI Blog / The Verge AI / MIT News AI）
     │    ├─ ② 抓研究论文（arXiv cs.AI + cs.LG、Semantic Scholar API）
-    │    ├─ ③ 抓真实榜单（LMArena 社区投票 + Artificial Analysis 智能指数/基准）
-    │    └─ ④ 生成 data/news.json、data/papers.json、data/leaderboards.json
+    │    ├─ ③ 抓真实榜单与模型库（LMArena 社区投票 + Artificial Analysis 智能指数/基准/模型数据）
+    │    └─ ④ 生成 data/news.json、data/papers.json、data/leaderboards.json、data/models.json
     │
     ├─ 与上次成功的数据合并（抓取失败的板块保留旧数据并标注 stale，绝不写空）
     ├─ 自动 commit + push（GITHUB_TOKEN，permissions: contents: write）
@@ -55,6 +55,7 @@ GitHub Actions（每天 08:00 北京时间定时触发，公开仓库免费）
 | 数学推理榜 | 同上 | Artificial Analysis（AIME 25；缺测时用智能指数近似并标注） |
 | 编程能力榜 | 同上 | Artificial Analysis（LiveCodeBench / FrontierCode） |
 | 通用推理榜 | 同上 | Artificial Analysis（GPQA / HLE） |
+| 模型数据库 | `data/models.json` | Artificial Analysis 模型数据（名称/公司/开闭源/上下文/发布时间/参数量/智能指数/价格/模态，自动生成中文描述） |
 
 新闻按标题自动分类（模型发布 / 行业动态 / 技术突破 / 开源项目）；论文按关键词自动归类（数学推理 / 模型架构 / 多模态 / 对齐安全 / 其它）。
 

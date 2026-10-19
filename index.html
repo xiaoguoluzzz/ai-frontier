@@ -477,7 +477,14 @@ var MODELS = [
     features:['10M 超长上下文','轻量高效','多模态支持','开源可商用'],
     modalities:['文本','图像'] }
 ];
-var COMPANIES = ['全部','OpenAI','Anthropic','Google','DeepSeek','阿里云','Meta'];
+/* 公司筛选列表：从当前 MODELS 动态生成 */
+function companyList(){
+  var seen = {}, out = ['全部'];
+  MODELS.forEach(function(m){
+    if(m.company && !seen[m.company]){ seen[m.company] = 1; out.push(m.company); }
+  });
+  return out;
+}
 
 /* 内置兜底榜单：data/leaderboards.json 加载失败时使用（来源标注为内置数据） */
 var LEADERBOARDS = [
@@ -609,6 +616,18 @@ function applyLeaderboardsData(json){
   }
   return false;
 }
+function applyModelsData(json){
+  if(json && json.items && json.items.length){
+    MODELS.length = 0; Array.prototype.push.apply(MODELS, json.items);
+    DATA_META.models = { updatedAt: json.updatedAt || json.builtAt, stale: !!json.stale };
+    // 当前公司筛选若已不存在则重置
+    if(state.modelCompany !== '全部' && !MODELS.some(function(m){ return m.company === state.modelCompany; })){
+      state.modelCompany = '全部';
+    }
+    return true;
+  }
+  return false;
+}
 
 function fetchJson(url, bust){
   return fetch(bust ? url + '?t=' + Date.now() : url, { cache:'no-cache' }).then(function(r){
@@ -621,7 +640,8 @@ function loadStaticData(bust){
   var jobs = [
     { kind:'news', url:'./data/news.json', apply: applyNewsData },
     { kind:'papers', url:'./data/papers.json', apply: applyPapersData },
-    { kind:'leaderboards', url:'./data/leaderboards.json', apply: applyLeaderboardsData }
+    { kind:'leaderboards', url:'./data/leaderboards.json', apply: applyLeaderboardsData },
+    { kind:'models', url:'./data/models.json', apply: applyModelsData }
   ];
   var ok = 0;
   return Promise.all(jobs.map(function(j){
@@ -1020,8 +1040,8 @@ function renderNewsDetail(slug){
 
 function renderModels(){
   var list = state.modelCompany==='全部' ? MODELS : MODELS.filter(function(m){return m.company===state.modelCompany;});
-  var filters = COMPANIES.map(function(c){
-    return '<button class="filter-btn'+(state.modelCompany===c?' active':'')+'" onclick="setModelCompany(\''+c+'\')">'+c+'</button>';
+  var filters = companyList().map(function(c){
+    return '<button class="filter-btn'+(state.modelCompany===c?' active':'')+'" onclick="setModelCompany(\''+c+'\')">'+esc(c)+'</button>';
   }).join('');
 
   var body;
@@ -1042,7 +1062,7 @@ function renderModels(){
   }
 
   return '<section class="section"><div class="container">'+
-    '<div class="section-head" style="align-items:center"><div><h2 class="section-title">模型 <span class="t">数据库</span></h2><p class="section-desc">探索全球主流 AI 大语言模型</p></div></div>'+
+    '<div class="section-head" style="align-items:center"><div><h2 class="section-title">模型 <span class="t">数据库</span></h2><p class="section-desc">探索全球主流 AI 大语言模型 · 每日自动同步 '+freshnessHtml('models')+'</p></div></div>'+
     '<div class="filters">'+filters+'</div>'+body+
   '</div></section>';
 }
@@ -1231,7 +1251,7 @@ function route(){
 function updateFooterFreshness(){
   var el = document.getElementById('footFresh');
   if(!el) return;
-  var kinds = ['news','papers','leaderboards'];
+  var kinds = ['news','papers','leaderboards','models'];
   var times = kinds.map(function(k){ return DATA_META[k] && DATA_META[k].updatedAt; }).filter(Boolean);
   if(!times.length){ el.textContent = '· 数据更新时间：内置兜底数据'; return; }
   times.sort();

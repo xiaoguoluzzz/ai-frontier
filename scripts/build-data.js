@@ -6,6 +6,7 @@
  *   data/news.json         AI 新闻（TechCrunch / Google AI Blog / The Verge / MIT News 的 RSS）
  *   data/papers.json       最新研究论文（arXiv cs.AI + cs.LG、Semantic Scholar API）
  *   data/leaderboards.json 真实榜单（LMArena 社区投票 + Artificial Analysis 智能指数/基准）
+ *   data/models.json       模型库（Artificial Analysis 模型数据：开闭源/上下文/指数/价格等）
  *
  * 容错策略（与《AI-Frontier-整改方案》一致）：
  *   - 每个数据源独立 try/catch，单源失败不影响其它源
@@ -213,7 +214,7 @@ async function grabFeed(src, collector, label) {
 }
 
 async function buildNews(prev) {
-  console.log("\n[1/3] 抓取新闻 RSS ...");
+  console.log("\n[1/4] 抓取新闻 RSS ...");
   const news = [];
   const models = [];
   for (const src of NEWS_SOURCES) await grabFeed(src, news, "新闻");
@@ -301,7 +302,7 @@ function classifyPaper(title, summary) {
 }
 
 async function buildPapers(prev) {
-  console.log("\n[2/3] 抓取研究论文 ...");
+  console.log("\n[2/4] 抓取研究论文 ...");
   const collected = [];
 
   for (const src of ARXIV_SOURCES) {
@@ -455,9 +456,20 @@ async function scrapeArtificialAnalysis() {
       return {
         name: m.shortName || m.name,
         fullName: m.name,
+        slug: m.slug || "",
         company: creator || "",
         releaseDate: m.releaseDate || "",
         isOpenWeights: !!m.isOpenWeights,
+        isReasoning: !!m.isReasoning,
+        contextWindowTokens: numOrNull(m.contextWindowTokens),
+        parameters: numOrNull(m.parameters),
+        activeParams: numOrNull(m.inferenceParametersActiveBillions),
+        inputModalities: [
+          m.inputModalityText ? "文本" : null,
+          m.inputModalityImage ? "图像" : null,
+          m.inputModalitySpeech ? "音频" : null,
+          m.inputModalityVideo ? "视频" : null
+        ].filter(Boolean),
         intelligenceIndex: numOrNull(m.intelligenceIndex),
         aime25: numOrNull(m.aime25),
         livecodebench: numOrNull(m.livecodebench),
@@ -556,21 +568,8 @@ function toBoardEntries(list, metricKey, limit) {
   });
 }
 
-async function buildLeaderboards(prev) {
-  console.log("\n[3/3] 抓取模型排行榜 ...");
-  let aa = null;
-  let arena = null;
-
-  try {
-    aa = await scrapeArtificialAnalysis();
-  } catch (e) {
-    console.log("  ✗ Artificial Analysis 失败: " + e.message);
-  }
-  try {
-    arena = await scrapeLMArena();
-  } catch (e) {
-    console.log("  ✗ LMArena 失败: " + e.message);
-  }
+async function buildLeaderboards(prev, aa, arena) {
+  console.log("\n[3/4] 组装模型排行榜 ...");
 
   const freshBoards = [];
   const builtAt = nowIso();
@@ -713,6 +712,89 @@ async function buildLeaderboards(prev) {
   };
 }
 
+// ── ④ 模型库（Artificial Analysis 模型数据） ────────────
+
+/** 上下文窗口格式化：1000000 → "1M"，200000 → "200K" */
+function formatContext(tokens) {
+  if (!tokens || typeof tokens !== "number" || !isFinite(tokens)) return "";
+  if (tokens >= 1000000) {
+    const m = tokens / 1000000;
+    return (Number.isInteger(m) ? String(m) : m.toFixed(1).replace(/\.0$/, "")) + "M";
+  }
+  if (tokens >= 1000) return String(Math.round(tokens / 1000)) + "K";
+  return String(tokens);
+}
+
+/** 由真实字段生成简短中文描述 */
+function describeModel(m) {
+  const bits = [];
+  bits.push((m.company ? m.company + " " : "") + (m.isOpenWeights ? "开源" : "闭源") + "大模型");
+  if (m.releaseDate) bits.push(m.releaseDate.slice(0, 7) + " 发布");
+  const ctx = formatContext(m.contextWindowTokens);
+  if (ctx) bits.push("上下文 " + ctx + " tokens");
+  if (m.intelligenceIndex != null) bits.push("Artificial Analysis 智能指数 " + m.intelligenceIndex.toFixed(1));
+  return bits.join("，") + "。";
+}
+
+/** 由真实字段生成特性列表 */
+function modelFeatures(m) {
+  const feats = [];
+  if (m.parameters != null) {
+    feats.push(
+      m.activeParams != null
+        ? Math.round(m.parameters) + "B 总参数 / " + m.activeParams + "B 激活参数"
+        : Math.round(m.parameters) + "B 参数"
+    );
+  }
+  if (m.intelligenceIndex != null) feats.push("智能指数 " + m.intelligenceIndex.toFixed(1));
+  if (m.isReasoning) feats.push("支持深度推理模式");
+  if (m.priceIn != null) {
+    feats.push(
+      "输入 $" + m.priceIn + " / 1M tokens" + (m.priceOut != null ? "，输出 $" + m.priceOut : "")
+    );
+  }
+  feats.push(m.isOpenWeights ? "开源权重" : "闭源商用");
+  return feats.slice(0, 5);
+}
+
+function buildModelsFrom(prev, aa) {
+  if (!aa || !aa.length) {
+    console.log("  ✗ 模型库无源数据");
+    return prev;
+  }
+  const items = aa
+    .slice()
+    .sort(function (a, b) {
+      return (b.releaseDate || "").localeCompare(a.releaseDate || "") || (b.intelligenceIndex || 0) - (a.intelligenceIndex || 0);
+    })
+    .slice(0, 30)
+    .map(function (m, i) {
+      return {
+        id: String(i + 1),
+        slug: m.slug || slugify(m.fullName || m.name, i + 1),
+        name: m.name,
+        company: m.company || "未知",
+        openWeights: !!m.isOpenWeights,
+        contextLength: formatContext(m.contextWindowTokens),
+        releaseDate: (m.releaseDate || "").slice(0, 7),
+        description: describeModel(m),
+        features: modelFeatures(m),
+        modalities: m.inputModalities && m.inputModalities.length ? m.inputModalities : ["文本"]
+      };
+    });
+
+  const merged = mergeSection(prev && prev.items, items);
+  console.log("  ✓ 模型库 " + merged.items.length + " 个模型" + (merged.stale ? "（沿用旧数据）" : ""));
+  return {
+    updatedAt: merged.stale && prev && prev.updatedAt ? prev.updatedAt : nowIso(),
+    builtAt: nowIso(),
+    stale: merged.stale,
+    source: "Artificial Analysis",
+    sourceUrl: "https://artificialanalysis.ai/models",
+    items: merged.items
+  };
+}
+
 // ── 主流程 ─────────────────────────────────────────────
 
 async function run() {
@@ -722,10 +804,27 @@ async function run() {
   const prevNews = readJson(path.join(DATA_DIR, "news.json"));
   const prevPapers = readJson(path.join(DATA_DIR, "papers.json"));
   const prevBoards = readJson(path.join(DATA_DIR, "leaderboards.json"));
+  const prevModels = readJson(path.join(DATA_DIR, "models.json"));
+
+  // 榜单与模型库共享同一次 Artificial Analysis 抓取
+  console.log("\n[0/4] 抓取榜单/模型源 ...");
+  let aa = null;
+  let arena = null;
+  try {
+    aa = await scrapeArtificialAnalysis();
+  } catch (e) {
+    console.log("  ✗ Artificial Analysis 失败: " + e.message);
+  }
+  try {
+    arena = await scrapeLMArena();
+  } catch (e) {
+    console.log("  ✗ LMArena 失败: " + e.message);
+  }
 
   const news = await buildNews(prevNews);
   const papers = await buildPapers(prevPapers);
-  let leaderboards = await buildLeaderboards(prevBoards);
+  const leaderboards = await buildLeaderboards(prevBoards, aa, arena);
+  const models = buildModelsFrom(prevModels, aa);
 
   // 写文件（板块为空时保留旧文件不覆盖）
   if (news.items && news.items.length) writeJson(path.join(DATA_DIR, "news.json"), news);
@@ -738,6 +837,12 @@ async function run() {
     writeJson(path.join(DATA_DIR, "leaderboards.json"), leaderboards);
   } else {
     console.log("· leaderboards.json 无可用数据，保持原文件不变");
+  }
+
+  if (models && models.items && models.items.length) {
+    writeJson(path.join(DATA_DIR, "models.json"), models);
+  } else {
+    console.log("· models.json 无可用数据，保持原文件不变");
   }
 
   console.log("\n构建完成。");
