@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-19T12:30:50.957Z",
-  "builtAt": "2026-10-19T12:30:50.957Z",
+  "updatedAt": "2026-10-19T13:17:54.605Z",
+  "builtAt": "2026-10-19T13:17:54.605Z",
   "stale": false,
   "boards": [
     {
@@ -10,7 +10,7 @@
       "source": "Artificial Analysis 智能指数",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "智能指数",
-      "updatedAt": "2026-10-19T12:30:50.957Z",
+      "updatedAt": "2026-10-19T13:17:54.605Z",
       "stale": false,
       "entries": [
         {
@@ -86,7 +86,7 @@
       "source": "Artificial Analysis 智能指数（近似）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "智能指数",
-      "updatedAt": "2026-10-19T12:30:50.957Z",
+      "updatedAt": "2026-10-19T13:17:54.605Z",
       "stale": false,
       "entries": [
         {
@@ -163,7 +163,7 @@
       "source": "Artificial Analysis（FrontierCode）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "FrontierCode",
-      "updatedAt": "2026-10-19T12:30:50.957Z",
+      "updatedAt": "2026-10-19T13:17:54.605Z",
       "stale": false,
       "entries": [
         {
@@ -239,7 +239,7 @@
       "source": "Artificial Analysis（GPQA）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "GPQA",
-      "updatedAt": "2026-10-19T12:30:50.957Z",
+      "updatedAt": "2026-10-19T13:17:54.605Z",
       "stale": false,
       "entries": [
         {
@@ -276,14 +276,6 @@
         },
         {
           "rank": 5,
-          "model": "MiniMax-M3",
-          "company": "MiniMax",
-          "score": 0.929292929292929,
-          "displayScore": "92.9%",
-          "barPct": 97
-        },
-        {
-          "rank": 6,
           "model": "Qwen3.8 Max (0902)",
           "company": "Alibaba",
           "score": 0.928282828282828,
@@ -291,7 +283,7 @@
           "barPct": 97
         },
         {
-          "rank": 7,
+          "rank": 6,
           "model": "GLM-5.3 (max)",
           "company": "Z AI",
           "score": 0.917171717171717,
@@ -299,12 +291,20 @@
           "barPct": 95
         },
         {
-          "rank": 8,
+          "rank": 7,
           "model": "GLM-5.3-Flash",
           "company": "Z AI",
           "score": 0.912121212121212,
           "displayScore": "91.2%",
           "barPct": 95
+        },
+        {
+          "rank": 8,
+          "model": "Qwen3.8 27B (xhigh)",
+          "company": "Alibaba",
+          "score": 0.905050505050505,
+          "displayScore": "90.5%",
+          "barPct": 94
         }
       ]
     }
