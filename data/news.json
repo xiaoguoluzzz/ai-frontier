@@ -1,0 +1,330 @@
+{
+  "updatedAt": "2026-10-19T11:45:11.366Z",
+  "builtAt": "2026-10-19T11:45:11.366Z",
+  "stale": false,
+  "sources": [
+    "TechCrunch AI",
+    "Google AI Blog",
+    "The Verge AI",
+    "MIT News AI"
+  ],
+  "items": [
+    {
+      "id": "2",
+      "slug": "stack-overflow-for-agents-triples-signups-with-cha-2",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "GPT-5.5 相关动态：Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "category": "model-release",
+      "publishedAt": "2026-10-16",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "relatedModels": [
+        "gpt-5-5"
+      ],
+      "content": [
+        [
+          "p",
+          "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
+        ],
+        [
+          "p",
+          "来源：OpenAI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "3",
+      "slug": "anthropic-says-it-s-committing-5-of-its-shares-to--3",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "category": "industry",
+      "publishedAt": "2026-10-18",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Anthropic said that it will commit 5% of its shares to the fund."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "4",
+      "slug": "disney-agrees-to-hire-the-majority-of-character-ai-4",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "category": "industry",
+      "publishedAt": "2026-10-18",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "5",
+      "slug": "a-woman-was-arrested-in-philly-for-blocking-a-deli-5",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers",
+      "category": "industry",
+      "publishedAt": "2026-10-18",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "6",
+      "slug": "giving-ai-a-crystal-clear-view-of-the-materials-wo-6",
+      "title": "Giving AI a “crystal clear” view of the materials world",
+      "summary": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
+      "category": "breakthrough",
+      "publishedAt": "2026-10-18",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "New research can help AI models understand crystalline materials in 3D and reason about their properties."
+        ],
+        [
+          "p",
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "7",
+      "slug": "meta-removes-language-that-raised-scraping-and-ai--7",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "category": "industry",
+      "publishedAt": "2026-10-17",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "8",
+      "slug": "anthropic-says-its-workforce-has-become-less-junio-8",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "category": "industry",
+      "publishedAt": "2026-10-17",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "9",
+      "slug": "replit-makes-openai-its-default-over-anthropic-ceo-9",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "category": "industry",
+      "publishedAt": "2026-10-17",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "10",
+      "slug": "meta-removes-language-that-may-have-allowed-it-to--10",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms pag",
+      "category": "industry",
+      "publishedAt": "2026-10-17",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms pag"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "11",
+      "slug": "websites-are-closing-their-doors-to-ai-agents-11",
+      "title": "Websites are closing their doors to AI agents",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new",
+      "category": "industry",
+      "publishedAt": "2026-10-17",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "12",
+      "slug": "a-week-with-rtx-spark-everything-we-ve-learned-usi-12",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and sma",
+      "category": "industry",
+      "publishedAt": "2026-10-16",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and sma"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "13",
+      "slug": "meta-s-new-terms-may-allow-it-to-train-ai-on-news--13",
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on ",
+      "category": "industry",
+      "publishedAt": "2026-10-16",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on "
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "14",
+      "slug": "fostering-community-amid-kendall-square-s-innovati-14",
+      "title": "Fostering community amid Kendall Square’s innovation",
+      "summary": "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society.",
+      "category": "breakthrough",
+      "publishedAt": "2026-10-16",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society."
+        ],
+        [
+          "p",
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "15",
+      "slug": "state-of-supply-chain-sustainability-report-finds--15",
+      "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
+      "summary": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution.",
+      "category": "breakthrough",
+      "publishedAt": "2026-10-15",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution."
+        ],
+        [
+          "p",
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "16",
+      "slug": "ai-model-decodes-the-language-cells-use-to-communi-16",
+      "title": "AI model decodes the language cells use to communicate",
+      "summary": "A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies.",
+      "category": "breakthrough",
+      "publishedAt": "2026-10-15",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies."
+        ],
+        [
+          "p",
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    }
+  ]
+}

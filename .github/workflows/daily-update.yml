@@ -1,0 +1,50 @@
+# AI Frontier — 每日数据自动更新
+#
+# 每天 08:00（北京时间，UTC 00:00）自动运行 scripts/build-data.js，
+# 更新 data/news.json、data/papers.json、data/leaderboards.json 并提交推送，
+# GitHub Pages 随后自动重新部署（1~2 分钟生效）。
+# 也可在 Actions 页手动触发（workflow_dispatch）验证全链路。
+#
+# 权限：自动 commit 需要 contents: write（使用内置 GITHUB_TOKEN）。
+
+name: Daily Data Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-data-update
+  cancel-in-progress: true
+
+jobs:
+  build-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Build data (news / papers / leaderboards)
+        run: node scripts/build-data.js
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "data/ 无变化，跳过提交"
+          else
+            git commit -m "chore: daily data update $(date -u +%F)"
+            git push
+          fi

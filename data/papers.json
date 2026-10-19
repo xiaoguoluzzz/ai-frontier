@@ -1,0 +1,144 @@
+{
+  "updatedAt": "2026-10-19T11:45:13.246Z",
+  "builtAt": "2026-10-19T11:45:13.246Z",
+  "stale": false,
+  "sources": [
+    "arXiv cs.AI",
+    "arXiv cs.LG",
+    "Semantic Scholar"
+  ],
+  "items": [
+    {
+      "id": "p1",
+      "slug": "structured-authority-injection-persistent-human-co-1",
+      "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
+      "authors": "arXiv cs.AI",
+      "venue": "2026-10-19 · arXiv cs.AI",
+      "link": "https://arxiv.org/abs/2610.22373",
+      "date": "2026-10-19",
+      "summary": "arXiv:2610.22373v1 Announce Type: new Abstract: LLM-based agents are increasingly used as autonomous orchestrators in distributed and multi-agent systems, yet a control gap remains: no protocol-level mechanism allows human operators to inje",
+      "category": "其它"
+    },
+    {
+      "id": "p2",
+      "slug": "rethinking-user-encoders-routing-diffusion-states--2",
+      "title": "Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation",
+      "authors": "arXiv cs.AI",
+      "venue": "2026-10-19 · arXiv cs.AI",
+      "link": "https://arxiv.org/abs/2610.22400",
+      "date": "2026-10-19",
+      "summary": "arXiv:2610.22400v1 Announce Type: new Abstract: Existing large language model (LLM)-based user encoders serialize heterogeneous behavioral logs and compress them into static representations through autoregressive (AR) prediction. However, t",
+      "category": "其它"
+    },
+    {
+      "id": "p3",
+      "slug": "from-events-to-reasoning-hierarchical-rule-composi-3",
+      "title": "From Events to Reasoning: Hierarchical Rule Composition over Explicit States",
+      "authors": "arXiv cs.AI",
+      "venue": "2026-10-19 · arXiv cs.AI",
+      "link": "https://arxiv.org/abs/2610.22403",
+      "date": "2026-10-19",
+      "summary": "arXiv:2610.22403v1 Announce Type: new Abstract: What a reasoning system emits is a conclusion; what it owes is a justification. Producing one requires every operation to be admissible on the facts actually available, the dependencies of int",
+      "category": "数学推理"
+    },
+    {
+      "id": "p4",
+      "slug": "echoes-seeing-beyond-the-current-image-via-recursi-4",
+      "title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
+      "authors": "arXiv cs.AI",
+      "venue": "2026-10-19 · arXiv cs.AI",
+      "link": "https://arxiv.org/abs/2610.22408",
+      "date": "2026-10-19",
+      "summary": "arXiv:2610.22408v1 Announce Type: new Abstract: Long-horizon GUI agents rely on visual history to maintain task states, but retaining historical screenshots increases visual-token usage and inference costs, while textual summaries can disca",
+      "category": "数学推理"
+    },
+    {
+      "id": "p5",
+      "slug": "sensitivity-analysis-of-decision-rules-in-an-agent-5",
+      "title": "Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model",
+      "authors": "arXiv cs.AI",
+      "venue": "2026-10-19 · arXiv cs.AI",
+      "link": "https://arxiv.org/abs/2610.22420",
+      "date": "2026-10-19",
+      "summary": "arXiv:2610.22420v1 Announce Type: new Abstract: Agent-based models are well-suited for modelling agro-ecological systems for decision-making, yet turning their simulations into actionable insight requires identifying which decisions actuall",
+      "category": "其它"
+    },
+    {
+      "id": "p6",
+      "slug": "prime-towards-verifiable-evidence-grounded-reasoni-6",
+      "title": "PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents",
+      "authors": "arXiv cs.AI",
+      "venue": "2026-10-19 · arXiv cs.AI",
+      "link": "https://arxiv.org/abs/2610.22426",
+      "date": "2026-10-19",
+      "summary": "arXiv:2610.22426v1 Announce Type: new Abstract: LLM agents are used to check records against an organization's requirements, for example whether a vulnerability report is ready for investigation. Requirements often allow several ways to be ",
+      "category": "数学推理"
+    },
+    {
+      "id": "p7",
+      "slug": "from-natural-language-intent-to-executable-control-7",
+      "title": "From Natural Language Intent to Executable Control: Hierarchical Feedback-Guided LLM Planning for Multi-component Cyber-Physical Systems",
+      "authors": "arXiv cs.AI",
+      "venue": "2026-10-19 · arXiv cs.AI",
+      "link": "https://arxiv.org/abs/2610.22441",
+      "date": "2026-10-19",
+      "summary": "arXiv:2610.22441v1 Announce Type: new Abstract: Large language models (LLMs) provide a convenient interface for translating natural language commands into task plans for cyber-physical systems (CPSs). However, two gaps hinder their use for ",
+      "category": "对齐安全"
+    },
+    {
+      "id": "p8",
+      "slug": "null-controls-are-necessary-but-not-sufficient-eva-8",
+      "title": "Null Controls Are Necessary but Not Sufficient: Evaluating Acceptance Guards for Scientific Discovery and Interpretability",
+      "authors": "arXiv cs.AI",
+      "venue": "2026-10-19 · arXiv cs.AI",
+      "link": "https://arxiv.org/abs/2610.22445",
+      "date": "2026-10-19",
+      "summary": "arXiv:2610.22445v1 Announce Type: new Abstract: Automated discovery systems propose scientific explanations and test which to accept. Does passing a test establish the intended claim? We develop four executable operations for changing physi",
+      "category": "对齐安全"
+    },
+    {
+      "id": "p9",
+      "slug": "when-is-a-large-language-model-a-good-calibration--9",
+      "title": "When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration",
+      "authors": "arXiv cs.LG",
+      "venue": "2026-10-19 · arXiv cs.LG",
+      "link": "https://arxiv.org/abs/2610.22379",
+      "date": "2026-10-19",
+      "summary": "arXiv:2610.22379v1 Announce Type: new Abstract: Calibrating expensive engineering simulators requires tuning model parameters to match reference data, a process heavily constrained by computational costs. This study investigates whether Lar",
+      "category": "模型架构"
+    },
+    {
+      "id": "p10",
+      "slug": "trust-but-verify-designing-region-inhomogeneous-fo-10",
+      "title": "Trust but Verify: Designing Region-Inhomogeneous Forward Dynamics for Discrete Diffusion",
+      "authors": "arXiv cs.LG",
+      "venue": "2026-10-19 · arXiv cs.LG",
+      "link": "https://arxiv.org/abs/2610.22380",
+      "date": "2026-10-19",
+      "summary": "arXiv:2610.22380v1 Announce Type: new Abstract: Continuous diffusion treats the forward process as a design space; discrete language diffusion often uses absorbing corruption, leaving context fully trusted throughout generation. This makes ",
+      "category": "模型架构"
+    },
+    {
+      "id": "p11",
+      "slug": "binding-specific-relearning-savings-for-test-time--11",
+      "title": "Binding-Specific Relearning Savings for Test-Time Continual Learning",
+      "authors": "arXiv cs.LG",
+      "venue": "2026-10-19 · arXiv cs.LG",
+      "link": "https://arxiv.org/abs/2610.22381",
+      "date": "2026-10-19",
+      "summary": "arXiv:2610.22381v1 Announce Type: new Abstract: When a fact becomes harder to elicit from a language model, has the model lost it, or has it merely become less accessible? Parameter-updating test-time continual learning agents are usually e",
+      "category": "模型架构"
+    },
+    {
+      "id": "p12",
+      "slug": "cgdt-cesn-correlation-guided-and-dynamics-trained--12",
+      "title": "CGDT-CESN: Correlation-Guided and Dynamics-Trained Clustered Echo State Network for Multivariate Time-Series Prediction",
+      "authors": "arXiv cs.LG",
+      "venue": "2026-10-19 · arXiv cs.LG",
+      "link": "https://arxiv.org/abs/2610.22430",
+      "date": "2026-10-19",
+      "summary": "arXiv:2610.22430v1 Announce Type: new Abstract: Accurate prediction of multivariate time series requires models that simultaneously capture variable-specific dynamics and cross-variable interactions. In this work, a Correlation-Guided and D",
+      "category": "模型架构"
+    }
+  ]
+}

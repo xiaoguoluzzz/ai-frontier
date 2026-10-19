@@ -1,0 +1,1277 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Frontier — 全球 AI 大模型资讯平台</title>
+<meta name="description" content="AI Frontier 汇聚全球 AI 大模型资讯：最新 AI 新闻、主流模型数据库、能力排行榜与数学科研究突破。">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<style>
+/* ============ 主题变量 ============ */
+:root{
+  --blue-700:#1d4ed8; --blue-800:#1e40af; --blue-900:#1e3a5f;
+  --accent:#2563eb; --accent-dark:#1d4ed8;
+  --ink:#0f172a; --ink-soft:#334155; --muted:#64748b; --faint:#94a3b8;
+  --bg:#f8fafc; --card:#ffffff; --line:#e2e8f0; --line-soft:#eef2f7;
+  --blue-bg:#eff6ff; --green-bg:#ecfdf5; --purple-bg:#f5f3ff; --orange-bg:#fff7ed;
+  --green:#059669; --purple:#7c3aed; --orange:#ea580c;
+  --radius:12px; --shadow:0 1px 3px rgba(15,23,42,.08),0 1px 2px rgba(15,23,42,.04);
+  --shadow-lg:0 10px 30px rgba(15,23,42,.10),0 4px 8px rgba(15,23,42,.06);
+  --font:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+img,svg{display:block}
+button{font-family:inherit;cursor:pointer;border:none;background:none;color:inherit}
+input{font-family:inherit}
+
+/* ============ 布局 ============ */
+.container{max-width:1200px;margin:0 auto;padding:0 20px}
+.icon{width:20px;height:20px;flex-shrink:0}
+
+/* ============ 顶部导航 ============ */
+.header{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.85);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.header-inner{display:flex;align-items:center;justify-content:space-between;height:64px}
+.brand{display:flex;align-items:center;gap:10px}
+.brand-mark{width:34px;height:34px;border-radius:9px;background:linear-gradient(135deg,var(--accent),var(--blue-800));display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:15px}
+.brand-name{font-size:20px;font-weight:800;letter-spacing:-.01em}
+.nav{display:flex;align-items:center;gap:4px}
+.nav a{padding:8px 14px;border-radius:8px;font-size:15px;font-weight:500;color:var(--ink-soft);transition:.15s}
+.nav a:hover{color:var(--accent);background:var(--blue-bg)}
+.nav a.active{color:var(--accent);background:var(--blue-bg);font-weight:600}
+.nav-search{display:flex;align-items:center;gap:8px;padding:8px 14px;border-radius:8px;background:var(--bg);color:var(--muted);font-size:14px;transition:.15s}
+.nav-search:hover{background:var(--line-soft);color:var(--ink)}
+.menu-btn{display:none;padding:8px;color:var(--ink-soft)}
+.mobile-menu{display:none;border-top:1px solid var(--line);padding:8px 0 12px;background:#fff}
+.mobile-menu a{display:block;padding:12px 16px;border-radius:8px;font-size:16px;color:var(--ink-soft)}
+.mobile-menu a:hover{background:var(--blue-bg);color:var(--accent)}
+.mobile-menu.open{display:block}
+
+/* ============ Hero ============ */
+.hero{background:linear-gradient(135deg,var(--blue-bg) 0%,#ffffff 55%,var(--blue-bg) 100%);border-bottom:1px solid var(--line)}
+.hero-inner{text-align:center;padding:72px 20px;max-width:820px;margin:0 auto}
+.hero-badge{display:inline-flex;align-items:center;gap:8px;padding:6px 16px;border-radius:999px;background:#dbeafe;color:var(--blue-800);font-size:14px;font-weight:600;margin-bottom:20px}
+.hero-title{font-size:56px;font-weight:900;letter-spacing:-.02em;background:linear-gradient(120deg,var(--blue-900),var(--accent));-webkit-background-clip:text;background-clip:text;color:transparent;margin-bottom:16px}
+.hero-sub{font-size:19px;color:var(--ink-soft);max-width:640px;margin:0 auto 32px}
+.hero-actions{display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
+
+/* ============ 按钮 ============ */
+.btn{display:inline-flex;align-items:center;gap:8px;padding:12px 26px;border-radius:10px;font-size:15px;font-weight:600;transition:.15s}
+.btn-primary{background:var(--accent);color:#fff}
+.btn-primary:hover{background:var(--accent-dark)}
+.btn-outline{background:#fff;color:var(--ink);border:2px solid var(--line)}
+.btn-outline:hover{border-color:var(--accent);color:var(--accent)}
+
+/* ============ 统计条 ============ */
+.stats{background:#fff;border-bottom:1px solid var(--line)}
+.stats-inner{display:grid;grid-template-columns:repeat(4,1fr);gap:24px;padding:36px 20px;text-align:center}
+.stat-num{font-size:34px;font-weight:800;color:var(--accent)}
+.stat-label{font-size:14px;color:var(--muted)}
+
+/* ============ Section ============ */
+.section{padding:56px 0}
+.section.alt{background:#fff}
+.section-head{display:flex;align-items:flex-end;justify-content:space-between;margin-bottom:28px;gap:16px;flex-wrap:wrap}
+.section-title{font-size:30px;font-weight:800;letter-spacing:-.01em}
+.section-title .t{color:var(--accent)}
+.section-desc{color:var(--muted);margin-top:6px;font-size:15px}
+.section-link{color:var(--accent);font-weight:600;font-size:15px;display:inline-flex;align-items:center;gap:4px;white-space:nowrap}
+.section-link:hover{color:var(--accent-dark)}
+
+/* ============ 卡片网格 ============ */
+.grid{display:grid;gap:20px}
+.grid-3{grid-template-columns:repeat(3,1fr)}
+.grid-4{grid-template-columns:repeat(4,1fr)}
+.grid-2{grid-template-columns:repeat(2,1fr)}
+
+/* ============ 新闻卡片 ============ */
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px;transition:.2s;cursor:pointer;display:flex;flex-direction:column}
+.card:hover{border-color:#bfdbfe;box-shadow:var(--shadow-lg);transform:translateY(-2px)}
+.card-meta{display:flex;align-items:center;gap:8px;margin-bottom:12px;flex-wrap:wrap}
+.card-title{font-size:17px;font-weight:700;line-height:1.35;margin-bottom:10px;transition:.15s}
+.card:hover .card-title{color:var(--accent)}
+.card-summary{font-size:14px;color:var(--muted);flex:1;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.card-foot{display:flex;align-items:center;justify-content:space-between;margin-top:16px;padding-top:14px;border-top:1px solid var(--line-soft);font-size:13px;color:var(--faint)}
+.card-foot .go{color:var(--accent);font-weight:600;font-size:14px}
+
+/* ============ 标签 ============ */
+.tag{display:inline-flex;align-items:center;gap:5px;padding:3px 10px;border-radius:6px;font-size:12px;font-weight:600}
+.tag-blue{background:#dbeafe;color:var(--blue-800)}
+.tag-green{background:#d1fae5;color:#065f46}
+.tag-purple{background:#ede9fe;color:#5b21b6}
+.tag-orange{background:#ffedd5;color:#9a3412}
+.tag-gray{background:#f1f5f9;color:var(--muted)}
+.chip{display:inline-flex;align-items:center;padding:4px 12px;border-radius:6px;font-size:13px;font-weight:500;background:var(--blue-bg);color:var(--accent)}
+
+/* ============ 模型卡片 ============ */
+.model-top{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:12px;gap:10px}
+.model-name{font-size:19px;font-weight:800;margin-bottom:3px}
+.model-company{display:flex;align-items:center;gap:6px;font-size:13px;color:var(--muted)}
+.model-open{display:inline-flex;align-items:center;gap:5px;padding:4px 10px;border-radius:6px;font-size:12px;font-weight:600}
+.model-open.yes{background:var(--green-bg);color:var(--green)}
+.model-open.no{background:#f1f5f9;color:var(--muted)}
+.model-desc{font-size:14px;color:var(--muted);margin-bottom:14px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.kv{display:flex;align-items:center;justify-content:space-between;font-size:13px;padding:6px 0;border-top:1px dashed var(--line-soft)}
+.kv .k{color:var(--faint)} .kv .v{color:var(--ink-soft);font-weight:600}
+
+/* ============ 排行榜 ============ */
+.tabs{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:20px}
+.tab{padding:11px 22px;border-radius:10px;font-size:15px;font-weight:600;background:#fff;border:1px solid var(--line);color:var(--ink-soft);transition:.15s}
+.tab:hover{border-color:var(--accent);color:var(--accent)}
+.tab.active{background:var(--accent);border-color:var(--accent);color:#fff}
+.table-wrap{background:#fff;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow)}
+table{width:100%;border-collapse:collapse}
+thead th{text-align:left;padding:14px 20px;font-size:12px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;background:var(--bg);border-bottom:1px solid var(--line)}
+tbody td{padding:14px 20px;border-bottom:1px solid var(--line-soft);font-size:15px}
+tbody tr:last-child td{border-bottom:none}
+tbody tr:hover{background:var(--blue-bg)}
+.rank{display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;font-size:14px;font-weight:800}
+.rank-1{background:#fbbf24;color:#fff}
+.rank-2{background:#94a3b8;color:#fff}
+.rank-3{background:#fb923c;color:#fff}
+.rank-n{background:#e2e8f0;color:var(--ink-soft)}
+.score-cell{display:flex;align-items:center;gap:14px;justify-content:flex-end}
+.score-num{font-size:17px;font-weight:800;color:var(--accent);min-width:44px;text-align:right}
+.score-bar{width:140px;height:8px;background:var(--line-soft);border-radius:999px;overflow:hidden}
+.score-bar i{display:block;height:100%;border-radius:999px;background:linear-gradient(90deg,var(--accent),#60a5fa)}
+.note{background:var(--blue-bg);border:1px solid #bfdbfe;border-radius:10px;padding:12px 16px;font-size:14px;color:var(--blue-900);margin-bottom:20px}
+.disclaimer{margin-top:20px;text-align:center;font-size:13px;color:var(--faint)}
+
+/* ============ 研究卡片 ============ */
+.research-card{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:26px;transition:.2s}
+.research-card:hover{border-color:#c4b5fd;box-shadow:var(--shadow-lg)}
+.research-title{font-size:21px;font-weight:800;margin:12px 0 8px}
+.research-desc{font-size:15px;color:var(--muted);margin-bottom:16px}
+.highlights{list-style:none;display:grid;grid-template-columns:1fr 1fr;gap:8px 16px;margin-bottom:18px}
+.highlights li{display:flex;gap:8px;font-size:14px;color:var(--ink-soft)}
+.highlights li::before{content:"•";color:var(--accent);font-weight:700}
+.paper{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;padding:12px 14px;background:var(--bg);border-radius:8px;margin-top:10px}
+.paper .pt{font-weight:600;font-size:14px;line-height:1.4}
+.paper .pa{font-size:12px;color:var(--faint);margin-top:3px}
+.paper a{color:var(--accent);font-size:13px;font-weight:600;display:inline-flex;align-items:center;gap:4px;white-space:nowrap;margin-top:4px}
+.paper a:hover{color:var(--accent-dark)}
+
+/* ============ 筛选按钮 ============ */
+.filters{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:24px}
+.filter-btn{padding:9px 18px;border-radius:9px;font-size:14px;font-weight:500;background:#fff;border:1px solid var(--line);color:var(--ink-soft);transition:.15s}
+.filter-btn:hover{border-color:var(--accent);color:var(--accent)}
+.filter-btn.active{background:var(--accent);border-color:var(--accent);color:#fff}
+
+/* ============ 搜索 ============ */
+.search-box{position:relative;max-width:640px;margin:0 auto 28px}
+.search-box input{width:100%;padding:16px 20px 16px 52px;border-radius:12px;border:2px solid var(--line);font-size:17px;outline:none;transition:.15s;background:#fff}
+.search-box input:focus{border-color:var(--accent);box-shadow:0 0 0 4px rgba(37,99,235,.12)}
+.search-box .s-icon{position:absolute;left:18px;top:50%;transform:translateY(-50%);color:var(--faint)}
+.search-box .s-clear{position:absolute;right:16px;top:50%;transform:translateY(-50%);color:var(--faint);padding:4px;display:none}
+.search-box .s-clear.show{display:block}
+.result-group{margin-top:28px}
+.result-group h3{font-size:18px;font-weight:800;margin-bottom:14px;color:var(--ink)}
+.result-item{display:block;background:#fff;border:1px solid var(--line);border-radius:10px;padding:18px;margin-bottom:12px;transition:.15s;cursor:pointer}
+.result-item:hover{border-color:#bfdbfe;box-shadow:var(--shadow)}
+.result-item .rt{font-size:16px;font-weight:700;margin-bottom:6px}
+.result-item:hover .rt{color:var(--accent)}
+.result-item .rs{font-size:14px;color:var(--muted);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.result-item .rm{font-size:12px;color:var(--faint);margin-top:8px}
+.empty{padding:60px 20px;text-align:center;color:var(--muted)}
+.empty .icon{width:56px;height:56px;color:var(--line);margin:0 auto 16px}
+.empty h3{font-size:18px;font-weight:700;color:var(--ink-soft);margin-bottom:6px}
+
+/* ============ 详情页 ============ */
+.detail{max-width:820px;margin:0 auto;padding:40px 20px}
+.back{display:inline-flex;align-items:center;gap:6px;color:var(--accent);font-weight:600;margin-bottom:20px;font-size:15px}
+.back:hover{color:var(--accent-dark)}
+.article{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:36px;box-shadow:var(--shadow)}
+.article h1{font-size:34px;font-weight:900;letter-spacing:-.01em;line-height:1.25;margin:14px 0 18px}
+.article .lead{font-size:18px;color:var(--ink-soft);line-height:1.7;margin-bottom:20px}
+.article .src{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding:16px 0;border-top:1px solid var(--line-soft);border-bottom:1px solid var(--line-soft);margin-bottom:24px;font-size:14px;color:var(--muted)}
+.article .src a{color:var(--accent);font-weight:600;display:inline-flex;align-items:center;gap:4px}
+.article .body h2{font-size:22px;font-weight:800;margin:28px 0 12px}
+.article .body p{font-size:16px;color:var(--ink-soft);line-height:1.8;margin-bottom:14px}
+.article .body ul{list-style:none;margin-bottom:16px}
+.article .body ul li{display:flex;gap:8px;font-size:16px;color:var(--ink-soft);line-height:1.7;padding:3px 0}
+.article .body ul li::before{content:"•";color:var(--accent);font-weight:700}
+.detail-head{display:flex;align-items:flex-start;justify-content:space-between;gap:16px;margin-bottom:18px}
+.detail-head h1{font-size:34px;font-weight:900;margin-bottom:8px}
+.detail-company{display:flex;align-items:center;gap:8px;font-size:17px;color:var(--muted)}
+
+/* ============ 页脚 ============ */
+.footer{background:#0f172a;color:#cbd5e1;margin-top:auto}
+.footer-inner{display:grid;grid-template-columns:2fr 1fr 1fr;gap:40px;padding:48px 20px}
+.footer h4{color:#fff;font-size:14px;font-weight:700;margin-bottom:16px}
+.footer p{font-size:14px;line-height:1.7;color:#94a3b8}
+.footer-links{list-style:none}
+.footer-links li{margin-bottom:10px}
+.footer-links a{font-size:14px;color:#94a3b8;transition:.15s}
+.footer-links a:hover{color:#fff}
+.footer-bottom{border-top:1px solid rgba(255,255,255,.08);padding:20px;text-align:center;font-size:13px;color:#64748b}
+
+/* ============ 响应式 ============ */
+@media(max-width:900px){
+  .grid-3,.grid-4{grid-template-columns:repeat(2,1fr)}
+  .footer-inner{grid-template-columns:1fr;gap:28px}
+  .hero-title{font-size:42px}
+}
+@media(max-width:640px){
+  .nav{display:none}
+  .nav-search{display:none}
+  .menu-btn{display:block}
+  .grid-2,.grid-3,.grid-4{grid-template-columns:1fr}
+  .stats-inner{grid-template-columns:repeat(2,1fr);gap:20px}
+  .hero-title{font-size:34px}
+  .hero-sub{font-size:16px}
+  .section-title{font-size:24px}
+  .article,.research-card{padding:22px}
+  .article h1,.detail-head h1{font-size:26px}
+  .highlights{grid-template-columns:1fr}
+  .score-bar{width:80px}
+  .btn{padding:11px 20px;font-size:14px}
+}
+</style>
+</head>
+<body>
+
+<!-- ============ 顶部导航 ============ -->
+<header class="header">
+  <div class="container header-inner">
+    <a href="#/" class="brand">
+      <span class="brand-mark">AI</span>
+      <span class="brand-name">AI Frontier</span>
+    </a>
+    <nav class="nav" id="nav">
+      <a href="#/" data-nav="home">首页</a>
+      <a href="#/news" data-nav="news">AI 新闻</a>
+      <a href="#/models" data-nav="models">模型数据库</a>
+      <a href="#/leaderboards" data-nav="leaderboards">排行榜</a>
+      <a href="#/research" data-nav="research">研究与突破</a>
+    </nav>
+    <a href="#/search" class="nav-search">
+      <svg class="icon" style="width:16px;height:16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      搜索
+    </a>
+    <button class="menu-btn" id="menuBtn" aria-label="菜单">
+      <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="4" y1="6" x2="20" y2="6"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="18" x2="20" y2="18"/></svg>
+    </button>
+  </div>
+  <div class="mobile-menu" id="mobileMenu">
+    <a href="#/" class="m-link">首页</a>
+    <a href="#/news" class="m-link">AI 新闻</a>
+    <a href="#/models" class="m-link">模型数据库</a>
+    <a href="#/leaderboards" class="m-link">排行榜</a>
+    <a href="#/research" class="m-link">研究与突破</a>
+    <a href="#/search" class="m-link">搜索</a>
+  </div>
+</header>
+
+<!-- ============ 内容区 ============ -->
+<main id="app"></main>
+
+<!-- ============ 页脚 ============ -->
+<footer class="footer">
+  <div class="container footer-inner">
+    <div>
+      <h4>关于 AI Frontier</h4>
+      <p>全球 AI 大模型发展追踪平台，为您提供最新的 AI 资讯、模型动态、能力排行和技术突破。本网站仅用于课程作业展示。</p>
+    </div>
+    <div>
+      <h4>快速链接</h4>
+      <ul class="footer-links">
+        <li><a href="#/news">AI 新闻</a></li>
+        <li><a href="#/models">模型数据库</a></li>
+        <li><a href="#/leaderboards">排行榜</a></li>
+        <li><a href="#/research">研究与突破</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>内容板块</h4>
+      <ul class="footer-links">
+        <li><a href="#/news">近期 AI 要闻</a></li>
+        <li><a href="#/models">主流模型介绍</a></li>
+        <li><a href="#/leaderboards">能力排行榜</a></li>
+        <li><a href="#/research">数学与科学突破</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">© 2026 AI Frontier. 本网站仅用于课程作业展示目的。<span id="footFresh" style="margin-left:12px"></span></div>
+</footer>
+
+<script>
+/* ==================================================
+   图标库（内联 SVG，Lucide 风格）
+================================================== */
+function icon(name, size){
+  size = size || 20;
+  var paths = {
+    search:'<circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>',
+    arrowRight:'<line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/>',
+    arrowLeft:'<line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/>',
+    external:'<path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/>',
+    calendar:'<rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>',
+    building:'<rect x="4" y="2" width="16" height="20" rx="2"/><path d="M9 22v-4h6v4M8 6h8M8 10h8M8 14h8"/>',
+    check:'<path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/>',
+    xCircle:'<circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/>',
+    award:'<circle cx="12" cy="8" r="6"/><path d="M15.5 13l1.5 8-5-3-5 3 1.5-8"/>',
+    trending:'<polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/>',
+    book:'<path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>',
+    sparkles:'<path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9z"/><path d="M19 15l.7 1.8L21.5 18l-1.8.7L19 20.5l-.7-1.8L16.5 18l1.8-.7z"/>',
+    filter:'<polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/>',
+    menu:'<line x1="4" y1="6" x2="20" y2="6"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="18" x2="20" y2="18"/>'
+  };
+  return '<svg class="icon" style="width:'+size+'px;height:'+size+'px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'+(paths[name]||'')+'</svg>';
+}
+
+/* ==================================================
+   数据（信息截至 2026 年 10 月，按公开报道整理）
+================================================== */
+var NEWS = [
+  {
+    id:'1', slug:'deepseek-v4-preview',
+    title:'DeepSeek V4 发布：1M 上下文，推理与对话合一，训练成本再降 73%',
+    summary:'DeepSeek 发布新一代 V4 模型预览版，将推理与对话能力融合进单一模型，支持 1M 超长上下文，并宣布开源系统。',
+    category:'model-release', publishedAt:'2026-04-24', source:'DeepSeek', sourceUrl:'https://www.deepseek.com',
+    relatedModels:['deepseek-v4'],
+    content:[
+      ['p','时隔一年，DeepSeek 正式发布新一代 V4 模型预览版，再次引发行业关注。'],
+      ['h2','核心变化'],
+      ['p','与以往「推理模型 + 对话模型」分开的策略不同，DeepSeek V4 将推理与对话能力合并到同一个模型之中，简化了用户的调用流程。'],
+      ['h2','超长上下文'],
+      ['p','V4 支持 1M token 的超长上下文窗口，能够一次性处理整本书籍级别的内容。'],
+      ['h2','成本大幅下降'],
+      ['p','据多家媒体报道，DeepSeek V4 的训练成本相较前代下降了约 73%，延续了其在「高性价比」路线上的优势。'],
+      ['h2','开源与合作'],
+      ['p','DeepSeek 同步宣布开源相关系统，并据报道与华为、寒武纪等国产芯片厂商展开合作，进一步强化自主算力生态。']
+    ]
+  },
+  {
+    id:'2', slug:'gpt-5-5-release',
+    title:'OpenAI 发布 GPT-5.5：号称「最智能、最直观」的模型',
+    summary:'OpenAI 发布 GPT-5.5，是其自 GPT-4.5 以来首个完全重新训练的基础模型，进一步迈向 AI「超级应用」。',
+    category:'model-release', publishedAt:'2026-04-23', source:'OpenAI', sourceUrl:'https://openai.com',
+    relatedModels:['gpt-5-5'],
+    content:[
+      ['p','OpenAI 发布新一代旗舰模型 GPT-5.5，公司称其为「最智能、最直观易用的模型」。'],
+      ['h2','重新训练的基础模型'],
+      ['p','GPT-5.5 是 OpenAI 自 GPT-4.5 以来首个完全重新训练的基础模型，在理解复杂、模糊的提示词方面有显著提升。'],
+      ['h2','迈向超级应用'],
+      ['p','多家媒体分析认为，GPT-5.5 的发布标志着 OpenAI 正加速向一体化 AI「超级应用」迈进，将模型能力与更丰富的产品形态结合。'],
+      ['h2','后续版本'],
+      ['p','随后 OpenAI 又发布了 GPT-5.5 Instant，作为 ChatGPT 的新默认模型，在响应速度与成本之间取得平衡。']
+    ]
+  },
+  {
+    id:'3', slug:'claude-opus-4-7',
+    title:'Anthropic 发布 Claude Opus 4.7，重新夺回最强通用模型宝座',
+    summary:'Anthropic 发布 Claude Opus 4.7，在指令遵循和图像识别上进一步改进，价格维持不变，重回通用 LLM 榜首。',
+    category:'model-release', publishedAt:'2026-04-17', source:'Anthropic', sourceUrl:'https://www.anthropic.com',
+    relatedModels:['claude-opus-4-7'],
+    content:[
+      ['p','Anthropic 发布 Claude Opus 4.7，这是其最新一代旗舰模型。'],
+      ['h2','性能表现'],
+      ['p','据多家评测机构报道，Claude Opus 4.7 在多个基准上重新夺回「最强通用可用 LLM」的位置。'],
+      ['h2','改进重点'],
+      ['p','新模型在指令遵循（command tracking）和图像识别能力上有明显改进，同时价格与上一代 Opus 4.6 保持一致。'],
+      ['h2','产品定位'],
+      ['p','Claude Opus 4.7 面向需要深度推理、复杂编程和长文档分析的场景，继续强化 Anthropic 在企业级市场的地位。']
+    ]
+  },
+  {
+    id:'4', slug:'gemini-3-deep-think',
+    title:'Google 推出 Gemini 3 Deep Think：ARC-AGI-2 达 45.1% 的深度推理',
+    summary:'Google 为 Gemini 3 加入 Deep Think 深度推理模式，在 ARC-AGI-2 基准上取得 45.1% 的成绩，面向 AI Ultra 订阅用户。',
+    category:'breakthrough', publishedAt:'2025-12-05', source:'Google DeepMind', sourceUrl:'https://deepmind.google',
+    relatedModels:['gemini-3'],
+    content:[
+      ['p','Google 推出 Gemini 3 Deep Think 模式，为旗舰模型加入更长时间的深度推理能力。'],
+      ['h2','ARC-AGI-2 成绩'],
+      ['p','据相关报道，Gemini 3 Deep Think 在 ARC-AGI-2 基准上取得了 45.1% 的成绩，在抽象推理任务上表现突出。'],
+      ['h2','面向对象'],
+      ['p','该模式面向 Google AI Ultra 订阅用户开放，适合需要复杂多步推理的科学、数学和编程任务。'],
+      ['h2','意义'],
+      ['p','Deep Think 的推出标志着 Google 在「深度推理」路线上与 OpenAI、Anthropic 展开正面竞争。']
+    ]
+  },
+  {
+    id:'5', slug:'qwen3-max',
+    title:'阿里云发布 Qwen3-Max：万亿参数，指令与推理双版本',
+    summary:'阿里云在云栖大会上发布旗舰模型 Qwen3-Max，提供指令版和推理版两种形态，进入万亿参数模型第一梯队。',
+    category:'model-release', publishedAt:'2025-09-24', source:'阿里云', sourceUrl:'https://qwen.ai',
+    relatedModels:['qwen3-max'],
+    content:[
+      ['p','阿里云在 2025 云栖大会上正式发布通义千问旗舰模型 Qwen3-Max。'],
+      ['h2','万亿参数'],
+      ['p','Qwen3-Max 进入万亿参数模型的第一梯队，是 Qwen 系列迄今规模最大的模型。'],
+      ['h2','双版本设计'],
+      ['p','模型提供指令版与推理版两种形态：指令版响应直接，推理版则通过混合推理机制（hybrid reasoning）在复杂问题上表现更强。'],
+      ['h2','开源生态'],
+      ['p','Qwen 系列延续开源策略，Qwen3-Max 的发布进一步巩固了其在全球开源大模型生态中的地位。']
+    ]
+  },
+  {
+    id:'6', slug:'llama-4-release',
+    title:'Meta 发布 Llama 4 系列：开源多模态模型 Maverick 与 Scout',
+    summary:'Meta 发布 Llama 4 首批模型，Maverick 与 Scout 均为开源多模态模型，支持超长上下文。',
+    category:'open-source', publishedAt:'2025-04-05', source:'Meta', sourceUrl:'https://ai.meta.com',
+    relatedModels:['llama-4-maverick','llama-4-scout'],
+    content:[
+      ['p','Meta 发布 Llama 4 系列的首批两个模型：Maverick 和 Scout，均采用 MoE（混合专家）架构并原生支持多模态。'],
+      ['h2','Llama 4 Maverick'],
+      ['p','Maverick 拥有约 400B 总参数、17B 激活参数，支持 1M token 上下文，面向通用任务与多模态理解。'],
+      ['h2','Llama 4 Scout'],
+      ['p','Scout 是更轻量的版本，支持高达 10M token 的超长上下文，适合需要处理超长文档的场景。'],
+      ['h2','开源承诺'],
+      ['p','两款模型均开源权重并允许商业使用，延续了 Meta 的开源路线，与闭源模型阵营形成差异化竞争。']
+    ]
+  }
+];
+
+var CATEGORIES = [
+  {id:'all', label:'全部'},
+  {id:'model-release', label:'模型发布'},
+  {id:'industry', label:'行业动态'},
+  {id:'breakthrough', label:'技术突破'},
+  {id:'open-source', label:'开源项目'}
+];
+var CATEGORY_LABEL = { 'model-release':'模型发布','industry':'行业动态','breakthrough':'技术突破','open-source':'开源项目' };
+var CATEGORY_CLASS = { 'model-release':'tag-blue','industry':'tag-green','breakthrough':'tag-purple','open-source':'tag-orange' };
+
+var MODELS = [
+  { id:'1', slug:'gpt-5-5', name:'GPT-5.5', company:'OpenAI', openWeights:false, contextLength:'', releaseDate:'2026-04',
+    description:'OpenAI 最新旗舰模型，自 GPT-4.5 以来首个完全重新训练的基础模型，号称「最智能、最直观」。',
+    features:['重新训练的基础模型','复杂提示理解能力强','面向 AI「超级应用」','配套 Instant 快速版本'],
+    modalities:['文本','图像'] },
+  { id:'2', slug:'gpt-5', name:'GPT-5', company:'OpenAI', openWeights:false, contextLength:'', releaseDate:'2025-08',
+    description:'OpenAI 于 2025 年发布的一代旗舰模型，整合了推理与对话能力。',
+    features:['推理与对话整合','多任务综合能力强','广泛的产品生态','多模态支持'],
+    modalities:['文本','图像'] },
+  { id:'3', slug:'claude-opus-4-7', name:'Claude Opus 4.7', company:'Anthropic', openWeights:false, contextLength:'', releaseDate:'2026-04',
+    description:'Anthropic 最新旗舰模型，在通用能力上重新登顶，指令遵循与图像识别进一步改进。',
+    features:['通用能力第一梯队','指令遵循改进','图像识别增强','适合深度推理与长文档'],
+    modalities:['文本','图像'] },
+  { id:'4', slug:'claude-sonnet-4-6', name:'Claude Sonnet 4.6', company:'Anthropic', openWeights:false, contextLength:'1M（beta）', releaseDate:'2026-02',
+    description:'Anthropic 主打速度与智能平衡的中档模型，性价比高，适合大规模生产环境。',
+    features:['速度与智能平衡','1M 长上下文（beta）','代码与代理任务出色','成本更可控'],
+    modalities:['文本','图像'] },
+  { id:'5', slug:'gemini-3', name:'Gemini 3', company:'Google', openWeights:false, contextLength:'', releaseDate:'2025-11',
+    description:'Google 旗舰多模态模型，原生支持文本、图像、音频与视频，深度整合 Google 生态。',
+    features:['原生多模态','深度推理（Deep Think）','Google 生态整合','长上下文处理'],
+    modalities:['文本','图像','音频','视频'] },
+  { id:'6', slug:'gemini-3-deep-think', name:'Gemini 3 Deep Think', company:'Google', openWeights:false, contextLength:'', releaseDate:'2025-12',
+    description:'Gemini 3 的深度推理模式，在 ARC-AGI-2 上取得 45.1% 的成绩，面向复杂多步推理任务。',
+    features:['ARC-AGI-2 达 45.1%','深度多步推理','面向 AI Ultra 用户','科学数学推理强化'],
+    modalities:['文本','图像'] },
+  { id:'7', slug:'deepseek-v4', name:'DeepSeek V4', company:'DeepSeek', openWeights:true, contextLength:'1M', releaseDate:'2026-04',
+    description:'新一代模型，将推理与对话合二为一，训练成本再降 73%，并开源系统。',
+    features:['推理与对话合一','1M 超长上下文','训练成本大幅下降','开源系统'],
+    modalities:['文本'] },
+  { id:'8', slug:'qwen3-max', name:'Qwen3-Max', company:'阿里云', openWeights:true, contextLength:'', releaseDate:'2025-09',
+    description:'阿里云旗舰模型，万亿参数规模，提供指令版与推理版两种形态。',
+    features:['万亿参数规模','指令版 + 推理版','混合推理机制','开源生态'],
+    modalities:['文本','图像'] },
+  { id:'9', slug:'llama-4-maverick', name:'Llama 4 Maverick', company:'Meta', openWeights:true, contextLength:'1M', releaseDate:'2025-04',
+    description:'Meta 开源多模态旗舰，MoE 架构，约 400B 总参数、17B 激活参数。',
+    features:['MoE 架构','约 400B 总参数','1M 上下文','开源可商用'],
+    modalities:['文本','图像'] },
+  { id:'10', slug:'llama-4-scout', name:'Llama 4 Scout', company:'Meta', openWeights:true, contextLength:'10M', releaseDate:'2025-04',
+    description:'Meta 开源轻量多模态模型，支持高达 10M token 的超长上下文。',
+    features:['10M 超长上下文','轻量高效','多模态支持','开源可商用'],
+    modalities:['文本','图像'] }
+];
+var COMPANIES = ['全部','OpenAI','Anthropic','Google','DeepSeek','阿里云','Meta'];
+
+/* 内置兜底榜单：data/leaderboards.json 加载失败时使用（来源标注为内置数据） */
+var LEADERBOARDS = [
+  { id:'comprehensive', name:'综合能力', description:'综合评估模型在多个任务上的整体表现', source:'内置兜底数据', sourceUrl:'', scoreLabel:'综合分',
+    entries:[
+      {rank:1, model:'Claude Opus 4.7', company:'Anthropic', score:90.2, displayScore:'90.2', barPct:100},
+      {rank:2, model:'GPT-5.5', company:'OpenAI', score:89.8, displayScore:'89.8', barPct:99},
+      {rank:3, model:'Gemini 3', company:'Google', score:87.5, displayScore:'87.5', barPct:97},
+      {rank:4, model:'GPT-5', company:'OpenAI', score:86.1, displayScore:'86.1', barPct:95},
+      {rank:5, model:'DeepSeek V4', company:'DeepSeek', score:84.9, displayScore:'84.9', barPct:94},
+      {rank:6, model:'Qwen3-Max', company:'阿里云', score:83.4, displayScore:'83.4', barPct:92}
+    ]},
+  { id:'math', name:'数学推理', description:'评估模型在数学问题求解上的能力', source:'内置兜底数据', sourceUrl:'', scoreLabel:'综合分',
+    entries:[
+      {rank:1, model:'Gemini 3 Deep Think', company:'Google', score:88.6, displayScore:'88.6', barPct:100},
+      {rank:2, model:'GPT-5.5', company:'OpenAI', score:87.2, displayScore:'87.2', barPct:98},
+      {rank:3, model:'DeepSeek V4', company:'DeepSeek', score:84.5, displayScore:'84.5', barPct:95},
+      {rank:4, model:'Claude Opus 4.7', company:'Anthropic', score:83.1, displayScore:'83.1', barPct:94},
+      {rank:5, model:'Qwen3-Max', company:'阿里云', score:81.7, displayScore:'81.7', barPct:92},
+      {rank:6, model:'GPT-5', company:'OpenAI', score:80.3, displayScore:'80.3', barPct:91}
+    ]},
+  { id:'coding', name:'编程能力', description:'评估模型在代码生成和理解上的表现', source:'内置兜底数据', sourceUrl:'', scoreLabel:'综合分',
+    entries:[
+      {rank:1, model:'Claude Opus 4.7', company:'Anthropic', score:92.4, displayScore:'92.4', barPct:100},
+      {rank:2, model:'GPT-5.5', company:'OpenAI', score:90.8, displayScore:'90.8', barPct:98},
+      {rank:3, model:'DeepSeek V4', company:'DeepSeek', score:87.6, displayScore:'87.6', barPct:95},
+      {rank:4, model:'Qwen3-Max', company:'阿里云', score:85.2, displayScore:'85.2', barPct:92},
+      {rank:5, model:'Gemini 3', company:'Google', score:84.9, displayScore:'84.9', barPct:92},
+      {rank:6, model:'Claude Sonnet 4.6', company:'Anthropic', score:83.5, displayScore:'83.5', barPct:90}
+    ]},
+  { id:'reasoning', name:'通用推理', description:'评估模型的逻辑推理和问题求解能力', source:'内置兜底数据', sourceUrl:'', scoreLabel:'综合分',
+    entries:[
+      {rank:1, model:'GPT-5.5', company:'OpenAI', score:91.6, displayScore:'91.6', barPct:100},
+      {rank:2, model:'Claude Opus 4.7', company:'Anthropic', score:90.4, displayScore:'90.4', barPct:99},
+      {rank:3, model:'Gemini 3 Deep Think', company:'Google', score:88.9, displayScore:'88.9', barPct:97},
+      {rank:4, model:'GPT-5', company:'OpenAI', score:86.3, displayScore:'86.3', barPct:94},
+      {rank:5, model:'DeepSeek V4', company:'DeepSeek', score:85.1, displayScore:'85.1', barPct:93},
+      {rank:6, model:'Qwen3-Max', company:'阿里云', score:83.8, displayScore:'83.8', barPct:91}
+    ]}
+];
+
+var RESEARCH = [
+  { id:'1', slug:'alphaproof-imo', title:'AlphaProof：AI 在数学奥赛中的突破', category:'数学竞赛',
+    description:'Google DeepMind 的 AlphaProof 系统在国际数学奥林匹克（IMO）中达到银牌水平，标志着 AI 在数学推理上的重大进展。',
+    highlights:['在 IMO 2024 中解决 4/6 道题目','总分 28 分，达到银牌分数线','成功解决最难的第 3 题和第 6 题','结合 LLM 和形式化验证系统'],
+    papers:[{title:'AI achieves silver-medal standard solving IMO problems', authors:'Google DeepMind', link:'https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/'}] },
+  { id:'2', slug:'arc-agi', title:'ARC-AGI：通向通用智能的基准', category:'通用推理',
+    description:'ARC-AGI 是衡量 AI 抽象推理与泛化能力的重要基准，o3 与 Gemini 3 Deep Think 先后在此取得突破。',
+    highlights:['o3 曾在 ARC-AGI 上达到 75.7%','Gemini 3 Deep Think 在 ARC-AGI-2 达 45.1%','测试抽象推理和泛化能力','被视为迈向 AGI 的重要指标'],
+    papers:[{title:'On the Measure of Intelligence', authors:'François Chollet', link:'https://arxiv.org/abs/1911.01547'}] },
+  { id:'3', slug:'lean-proving', title:'Lean 形式化定理证明', category:'自动定理证明',
+    description:'AI 模型与 Lean 证明助手的结合，为自动化数学证明开辟新道路。',
+    highlights:['将自然语言转换为形式化证明','验证数学定理的正确性','加速数学研究进程','多个 AI 系统已集成 Lean'],
+    papers:[{title:'Solving olympiad geometry without human demonstrations', authors:'DeepMind AlphaGeometry', link:'https://www.nature.com/articles/s41586-023-06747-5'}] },
+  { id:'4', slug:'alphafold-3', title:'AlphaFold 3：蛋白质结构预测新突破', category:'科学发现',
+    description:'AlphaFold 3 扩展到预测蛋白质与 DNA、RNA 和小分子的相互作用，为药物发现带来革命。',
+    highlights:['预测蛋白质-配体复合物结构','支持 DNA、RNA 和小分子','大幅提升预测准确度','加速药物研发进程'],
+    papers:[{title:'Accurate structure prediction of biomolecular interactions with AlphaFold 3', authors:'DeepMind & Isomorphic Labs', link:'https://www.nature.com/articles/s41586-024-07487-w'}] },
+  { id:'5', slug:'moe-training', title:'MoE 架构：大模型训练的新范式', category:'大模型训练',
+    description:'混合专家（MoE）架构通过稀疏激活实现更高效的大规模模型训练，成为新一代模型的主流选择。',
+    highlights:['仅激活部分参数，降低计算成本','支持超大规模模型','DeepSeek、Llama 4 等均采用 MoE','训练和推理效率提升'],
+    papers:[] },
+  { id:'6', slug:'long-context', title:'长上下文模型：突破记忆限制', category:'大模型训练',
+    description:'新一代模型支持 1M 乃至 10M token 的超长上下文，能够处理整本书籍甚至整套文档库。',
+    highlights:['Llama 4 Scout 支持 10M token','DeepSeek V4 支持 1M token','多个模型突破 100K','实现长文档理解和生成'],
+    papers:[] }
+];
+var RESEARCH_CATEGORIES = ['全部','数学推理','数学竞赛','自动定理证明','科学发现','大模型训练','通用推理'];
+
+var PAPERS = [
+  {title:'Accurate structure prediction of biomolecular interactions with AlphaFold 3', authors:'DeepMind & Isomorphic Labs', venue:'Nature, 2024', link:'https://www.nature.com/articles/s41586-024-07487-w'},
+  {title:'Solving olympiad geometry without human demonstrations', authors:'DeepMind AlphaGeometry', venue:'Nature, 2024', link:'https://www.nature.com/articles/s41586-023-06747-5'},
+  {title:'AI achieves silver-medal standard solving IMO problems', authors:'Google DeepMind', venue:'DeepMind Blog, 2024', link:'https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/'},
+  {title:'On the Measure of Intelligence', authors:'François Chollet', venue:'arXiv, 2019', link:'https://arxiv.org/abs/1911.01547'}
+];
+
+/* ==================================================
+   工具函数
+================================================== */
+var state = { newsCategory:'all', modelCompany:'全部', leaderboardId:'comprehensive', researchCategory:'全部', searchQuery:'' };
+
+/* —— 数据加载：主路径为同源 data/*.json（GitHub Actions 每日构建） ——
+   优先 fetch('./data/*.json')，失败时回退内置数据（永不白屏）；
+   「刷新资讯」按钮先重新拉取 JSON，仍失败时再尝试浏览器端实时抓取（备选）。 —— */
+var DATA_META = { news:null, papers:null, leaderboards:null }; // {updatedAt, stale}
+var DATA_SOURCE = 'builtin'; // builtin | json
+var RSS_PROXY = 'https://api.allorigins.win/raw?url=';
+
+function fmtTime(iso){
+  if(!iso) return '';
+  var d = new Date(iso);
+  if(isNaN(d.getTime())) return String(iso).replace('T',' ').slice(0,16);
+  var p = function(n){ return (n<10?'0':'')+n; };
+  return d.getFullYear()+'-'+p(d.getMonth()+1)+'-'+p(d.getDate())+' '+p(d.getHours())+':'+p(d.getMinutes());
+}
+
+function freshnessText(kind){
+  var meta = DATA_META[kind];
+  if(!meta) return '内置兜底数据 · 等待自动抓取';
+  return (meta.stale ? '数据截至 ' : '数据更新时间：') + fmtTime(meta.updatedAt) + (meta.stale ? '（沿用历史数据）' : '');
+}
+
+function freshnessHtml(kind){
+  return '<span style="font-size:12px;color:var(--faint);font-weight:400;display:inline-flex;align-items:center;gap:4px">'+
+    icon('calendar',13)+esc(freshnessText(kind))+'</span>';
+}
+
+function applyNewsData(json){
+  if(json && json.items && json.items.length){
+    NEWS.length = 0; Array.prototype.push.apply(NEWS, json.items);
+    DATA_META.news = { updatedAt: json.updatedAt || json.builtAt, stale: !!json.stale };
+    return true;
+  }
+  return false;
+}
+function applyPapersData(json){
+  if(json && json.items && json.items.length){
+    PAPERS.length = 0; Array.prototype.push.apply(PAPERS, json.items);
+    DATA_META.papers = { updatedAt: json.updatedAt || json.builtAt, stale: !!json.stale };
+    return true;
+  }
+  return false;
+}
+function applyLeaderboardsData(json){
+  if(json && json.boards && json.boards.length){
+    LEADERBOARDS.length = 0; Array.prototype.push.apply(LEADERBOARDS, json.boards);
+    DATA_META.leaderboards = { updatedAt: json.updatedAt || json.builtAt, stale: !!json.stale };
+    return true;
+  }
+  return false;
+}
+
+function fetchJson(url, bust){
+  return fetch(bust ? url + '?t=' + Date.now() : url, { cache:'no-cache' }).then(function(r){
+    if(!r.ok) throw new Error('HTTP ' + r.status);
+    return r.json();
+  });
+}
+
+function loadStaticData(bust){
+  var jobs = [
+    { kind:'news', url:'./data/news.json', apply: applyNewsData },
+    { kind:'papers', url:'./data/papers.json', apply: applyPapersData },
+    { kind:'leaderboards', url:'./data/leaderboards.json', apply: applyLeaderboardsData }
+  ];
+  var ok = 0;
+  return Promise.all(jobs.map(function(j){
+    return fetchJson(j.url, bust).then(function(json){
+      if(j.apply(json)) ok++;
+    }).catch(function(){ /* 单文件失败不影响其它 */ });
+  })).then(function(){
+    if(ok > 0){ DATA_SOURCE = 'json'; route(); }
+    return ok;
+  });
+}
+
+function refreshData(){
+  setStatus('正在加载最新数据…', true);
+  loadStaticData(true).then(function(ok){
+    if(ok > 0){
+      setStatus('✓ 已更新 '+ok+' 个板块 · '+fmtTime(new Date().toISOString()));
+      setTimeout(function(){ setStatus(''); }, 6000);
+    } else {
+      // 备选路径：浏览器端实时抓取（allorigins 代理）
+      refreshAll();
+    }
+  });
+}
+
+function parseFeed(xml){
+  var items = [];
+  var reItem = /<item[\s>]([\s\S]*?)<\/item>/g, m;
+  var reEntry = /<entry[\s>]([\s\S]*?)<\/entry>/g, e2;
+  while((m=reItem.exec(xml))) items.push(m[1]);
+  while((e2=reEntry.exec(xml))) items.push(e2[1]);
+  return items;
+}
+function feedTag(block, tag){
+  var re = new RegExp('<'+tag+'[^>]*>([\\s\\S]*?)</'+tag+'>','i');
+  var m = block.match(re);
+  return m ? m[1].replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g,'$1').replace(/<[^>]+>/g,' ').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#039;/g,"'").replace(/&nbsp;/g,' ').replace(/\s+/g,' ').trim() : '';
+}
+function feedLink(block){
+  var a = block.match(/<link[^>]*href=["']([^"']+)["']/); if(a) return a[1];
+  var l = block.match(/<link[^>]*>([\s\S]*?)<\/link>/i); return l ? l[1].trim() : '';
+}
+function feedDate(block){
+  var d = feedTag(block,'pubDate') || feedTag(block,'published') || feedTag(block,'updated');
+  if(!d) return '';
+  var t = Date.parse(d);
+  return isNaN(t) ? '' : new Date(t).toISOString().slice(0,10);
+}
+function classifyNews(title){
+  var t = title.toLowerCase();
+  if(/open[- ]?source|open weights|weights released|apache|mit license/.test(t)) return 'open-source';
+  if(/release|launch|unveil|debut|introduce|announce|new model|gpt|claude|gemini|llama|deepseek|qwen|mistral|opus|sonnet/.test(t)) return 'model-release';
+  if(/breakthrough|research|paper|benchmark|reasoning|math|science|discovery|achieves|solve|proof/.test(t)) return 'breakthrough';
+  return 'industry';
+}
+function slugifyNews(title, i){
+  var s = title.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'').slice(0,50);
+  return (s || 'news') + '-' + i;
+}
+function detectModel(title){
+  var t = title.toLowerCase();
+  var candidates = [
+    {k:/gpt-?5\.5|gpt-?5\b|chatgpt/i, slug:'gpt-5-5', name:'GPT-5.5', company:'OpenAI'},
+    {k:/gpt-?5\b/i, slug:'gpt-5', name:'GPT-5', company:'OpenAI'},
+    {k:/claude.*opus|opus.*4\.7/i, slug:'claude-opus-4-7', name:'Claude Opus 4.7', company:'Anthropic'},
+    {k:/claude.*sonnet|sonnet.*4\.6/i, slug:'claude-sonnet-4-6', name:'Claude Sonnet 4.6', company:'Anthropic'},
+    {k:/gemini.*3.*deep|deep think/i, slug:'gemini-3-deep-think', name:'Gemini 3 Deep Think', company:'Google'},
+    {k:/gemini.*3\b|gemini/i, slug:'gemini-3', name:'Gemini 3', company:'Google'},
+    {k:/deepseek.*v4|deepseek/i, slug:'deepseek-v4', name:'DeepSeek V4', company:'DeepSeek'},
+    {k:/qwen.*3.*max|qwen3/i, slug:'qwen3-max', name:'Qwen3-Max', company:'阿里云'},
+    {k:/llama.*4.*maverick|maverick/i, slug:'llama-4-maverick', name:'Llama 4 Maverick', company:'Meta'},
+    {k:/llama.*4.*scout|scout/i, slug:'llama-4-scout', name:'Llama 4 Scout', company:'Meta'}
+  ];
+  for(var i=0;i<candidates.length;i++){
+    if(candidates[i].k.test(t)) return candidates[i];
+  }
+  return null;
+}
+function sourceName(url){
+  if(url.indexOf('openai')>=0) return 'OpenAI';
+  if(url.indexOf('techcrunch')>=0) return 'TechCrunch AI';
+  if(url.indexOf('blog.google')>=0) return 'Google AI Blog';
+  if(url.indexOf('theverge')>=0) return 'The Verge AI';
+  if(url.indexOf('mit.edu')>=0) return 'MIT News AI';
+  if(url.indexOf('arxiv')>=0) return 'arXiv';
+  return 'AI Frontier';
+}
+
+function mergeNews(fresh){
+  var map = {};
+  fresh.forEach(function(n){
+    var k = (n.title||'').toLowerCase().slice(0,50);
+    if(!map[k]) map[k] = n;
+  });
+  var out = Object.keys(map).map(function(k){ return map[k]; });
+  out.sort(function(a,b){ return (b.publishedAt||'').localeCompare(a.publishedAt||''); });
+  return out.slice(0,18);
+}
+function mergePapers(fresh){
+  var map = {};
+  fresh.forEach(function(p){
+    var k = (p.title||'').toLowerCase().slice(0,50);
+    if(!map[k]) map[k] = p;
+  });
+  return Object.keys(map).map(function(k){ return map[k]; }).slice(0,12);
+}
+
+function setStatus(msg, spinning){
+  var el = document.getElementById('newsStatus');
+  if(!el) return;
+  el.textContent = msg;
+  el.style.opacity = msg ? 1 : 0;
+  var btn = document.getElementById('refreshBtn');
+  if(btn) btn.disabled = !!spinning;
+}
+
+function fetchFeed(url){
+  return fetch(RSS_PROXY + encodeURIComponent(url))
+    .then(function(r){ if(!r.ok) throw new Error('HTTP '+r.status); return r.text(); });
+}
+
+/* —— 浏览器端实时抓取（备选路径，仅在 JSON 加载失败后的「刷新资讯」时触发） —— */
+var NEWS_SOURCES = [
+  'https://techcrunch.com/category/artificial-intelligence/feed/',
+  'https://blog.google/technology/ai/rss/',
+  'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',
+  'https://news.mit.edu/rss/topic/artificial-intelligence2'
+];
+var MODEL_SOURCES = [
+  'https://openai.com/blog/rss.xml',
+  'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',
+  'https://techcrunch.com/category/artificial-intelligence/feed/'
+];
+var RESEARCH_SOURCES = [
+  'https://export.arxiv.org/rss/cs.AI',
+  'https://news.mit.edu/rss/topic/artificial-intelligence2'
+];
+
+function refreshAll(){
+  setStatus('正在实时抓取资讯…', true);
+  var newsItems = [], researchItems = [], modelSignals = [];
+  var totalTasks = NEWS_SOURCES.length + MODEL_SOURCES.length + RESEARCH_SOURCES.length;
+  var done = 0, errors = 0;
+
+  function finish(){
+    if(done < totalTasks) return;
+    // 更新新闻
+    if(newsItems.length){
+      NEWS.length = 0;
+      Array.prototype.push.apply(NEWS, mergeNews(newsItems));
+    }
+    // 更新研究论文
+    if(researchItems.length){
+      PAPERS.length = 0;
+      Array.prototype.push.apply(PAPERS, mergePapers(researchItems));
+    }
+    // 更新模型动态信号（附加为最新新闻条目）
+    modelSignals.forEach(function(sig){
+      NEWS.unshift(sig);
+    });
+    if(NEWS.length > 20) NEWS.length = 20;
+
+    route();
+
+    if(newsItems.length || researchItems.length || modelSignals.length){
+      var n = newsItems.length + researchItems.length + modelSignals.length;
+      setStatus('✓ 已更新 ' + n + ' 条 · ' + new Date().toLocaleTimeString('zh-CN'));
+    } else if(errors){
+      setStatus('抓取失败，显示预置内容（可能需联网）');
+    }
+    setTimeout(function(){ setStatus(''); }, 6000);
+  }
+
+  function parseInto(url, raw, target){
+    parseFeed(raw).slice(0,5).forEach(function(item, i){
+      var title = feedTag(item, 'title');
+      if(!title) return;
+      var summary = feedTag(item,'description') || feedTag(item,'summary') || feedTag(item,'content') || title;
+      var link = feedLink(item);
+      var date = feedDate(item);
+      var src = sourceName(url);
+      var entry = {
+        id: target+'-'+Date.now()+'-'+i,
+        slug: slugifyNews(title, i+1),
+        title: title.slice(0,120),
+        summary: summary.slice(0,240),
+        category: target==='research' ? 'breakthrough' : classifyNews(title),
+        publishedAt: date || new Date().toISOString().slice(0,10),
+        source: src,
+        sourceUrl: link,
+        relatedModels: [],
+        content: [['p', summary], ['p', '来源：'+src+'。']]
+      };
+      if(target==='news') newsItems.push(entry);
+      else if(target==='research') researchItems.push({
+        title: title.slice(0,120), authors: src, venue: date || '', link: link
+      });
+      else if(target==='model'){
+        var m = detectModel(title);
+        if(m){
+          modelSignals.push(Object.assign({}, entry, {
+            category: 'model-release',
+            relatedModels: [m.slug],
+            summary: (m.name + ' 相关动态：' + summary).slice(0,240)
+          }));
+        }
+      }
+    });
+  }
+
+  function runList(list, target){
+    list.forEach(function(url){
+      fetchFeed(url)
+        .then(function(xml){ parseInto(url, xml, target); })
+        .catch(function(){ errors++; })
+        .finally(function(){ done++; finish(); });
+    });
+  }
+
+  runList(NEWS_SOURCES, 'news');
+  runList(MODEL_SOURCES, 'model');
+  runList(RESEARCH_SOURCES, 'research');
+}
+
+// 兼容旧调用
+function refreshNews(){ return refreshAll(); }
+
+function initData(){
+  // 主路径：同源 data/*.json（GitHub Actions 每日构建）。失败时保留内置数据，页面不白屏。
+  loadStaticData(false);
+}
+
+function esc(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+
+function findNews(slug){ for(var i=0;i<NEWS.length;i++) if(NEWS[i].slug===slug) return NEWS[i]; return null; }
+function findModel(slug){ for(var i=0;i<MODELS.length;i++) if(MODELS[i].slug===slug) return MODELS[i]; return null; }
+
+function categoryTag(cat){ return '<span class="tag '+CATEGORY_CLASS[cat]+'">'+CATEGORY_LABEL[cat]+'</span>'; }
+
+/* 分数单元格：优先使用 JSON 里的 displayScore / barPct */
+function scoreCell(e){
+  var label = (e.displayScore != null) ? e.displayScore :
+    (typeof e.score === 'number' ? e.score.toFixed(1) : String(e.score));
+  var bar = (e.barPct != null) ? e.barPct :
+    (typeof e.score === 'number' ? Math.min(100, Math.max(6, e.score)) : 50);
+  return '<div class="score-cell"><span class="score-num">'+esc(String(label))+'</span>'+
+    '<div class="score-bar"><i style="width:'+bar+'%"></i></div></div>';
+}
+
+/* 榜单来源说明行 */
+function boardNoteHtml(lb){
+  var meta = DATA_META.leaderboards;
+  var isBuiltin = !meta;
+  var src = lb.source || (isBuiltin ? '内置兜底数据' : '自动抓取');
+  var time = lb.updatedAt || (meta && meta.updatedAt);
+  var stale = lb.stale || (meta && meta.stale);
+  var html = '<div class="note"><strong>数据来源：</strong>'+esc(src)+
+    (lb.scoreLabel ? '（'+esc(lb.scoreLabel)+'）' : '')+
+    (time ? ' · '+(stale?'数据截至 ':'抓取时间 ')+esc(fmtTime(time)) : '')+
+    (stale ? '（本次抓取失败，沿用历史数据）' : '')+
+    (isBuiltin ? ' · 当前为内置兜底数据，自动抓取接入后将展示真实榜单' : '')+
+    '</div>';
+  return html;
+}
+
+/* ==================================================
+   页面渲染
+================================================== */
+function renderHome(){
+  var news = NEWS.slice(0,3).map(function(n){
+    return '<div class="card" onclick="location.hash=\'#/news/'+n.slug+'\'">'+
+      '<div class="card-meta">'+categoryTag(n.category)+'<span style="font-size:12px;color:var(--faint);display:inline-flex;align-items:center;gap:4px">'+icon('calendar',14)+n.publishedAt+'</span></div>'+
+      '<div class="card-title">'+esc(n.title)+'</div>'+
+      '<p class="card-summary">'+esc(n.summary)+'</p>'+
+      '<div class="card-foot"><span>'+esc(n.source)+'</span><span class="go">查看详情 →</span></div>'+
+    '</div>';
+  }).join('');
+
+  var models = MODELS.slice(0,4).map(function(m){
+    var open = m.openWeights ? '<span class="model-open yes">'+icon('check',13)+'开源</span>' : '<span class="model-open no">'+icon('xCircle',13)+'闭源</span>';
+    return '<div class="card" onclick="location.hash=\'#/models/'+m.slug+'\'">'+
+      '<div class="model-top"><div><div class="model-name">'+esc(m.name)+'</div><div class="model-company">'+icon('building',14)+esc(m.company)+'</div></div>'+open+'</div>'+
+      '<p class="model-desc">'+esc(m.description)+'</p>'+
+      '<div><div class="kv"><span class="k">支持模态</span><span class="v">'+m.modalities.map(function(x){return '<span class="chip">'+x+'</span>';}).join(' ')+'</span></div>'+
+      (m.contextLength?'<div class="kv"><span class="k">上下文长度</span><span class="v">'+m.contextLength+'</span></div>':'')+'</div>'+
+      '<div class="card-foot" style="border-bottom:none;padding-bottom:0"><span></span><span class="go">查看详情 →</span></div>'+
+    '</div>';
+  }).join('');
+
+  var lb = LEADERBOARDS[0];
+  var lbRows = lb.entries.slice(0,5).map(function(e){
+    var rankCls = e.rank<=3 ? 'rank-'+e.rank : 'rank-n';
+    return '<tr><td><span class="rank '+rankCls+'">'+e.rank+'</span></td><td style="font-weight:600">'+esc(e.model)+'</td><td style="color:var(--muted)">'+esc(e.company)+'</td>'+
+      '<td>'+scoreCell(e)+'</td></tr>';
+  }).join('');
+
+  var papers = PAPERS.map(function(p){
+    return '<div class="paper"><div><div class="pt">'+esc(p.title)+'</div><div class="pa">'+esc(p.authors)+(p.venue?' · '+esc(p.venue):'')+(p.category?' · '+esc(p.category):'')+'</div></div>'+
+      (p.link?'<a href="'+p.link+'" target="_blank" rel="noopener">查看'+icon('external',13)+'</a>':'')+'</div>';
+  }).join('');
+
+  return '<section class="hero"><div class="hero-inner">'+
+    '<div class="hero-badge">'+icon('sparkles',16)+'追踪全球 AI 大模型最新动态</div>'+
+    '<h1 class="hero-title">AI Frontier</h1>'+
+    '<p class="hero-sub">全球 AI 大模型发展追踪平台，为您提供最新的模型发布、技术突破、能力排行和研究进展，探索人工智能的前沿阵地。</p>'+
+    '<div class="hero-actions"><a href="#/news" class="btn btn-primary">浏览 AI 新闻</a><a href="#/models" class="btn btn-outline">探索模型数据库</a></div>'+
+  '</div></section>'+
+
+  '<section class="stats"><div class="container stats-inner">'+
+    '<div><div class="stat-num">'+MODELS.length+'</div><div class="stat-label">收录 AI 模型</div></div>'+
+    '<div><div class="stat-num">'+NEWS.length+'</div><div class="stat-label">新闻资讯</div></div>'+
+    '<div><div class="stat-num">'+RESEARCH.length+'</div><div class="stat-label">研究专题</div></div>'+
+    '<div><div class="stat-num">'+LEADERBOARDS.length+'</div><div class="stat-label">排行维度</div></div>'+
+  '</div></section>'+
+
+  '<section class="section"><div class="container">'+
+    '<div class="section-head"><div><h2 class="section-title">今日 AI <span class="t">要闻</span></h2><p class="section-desc">最新的 AI 行业动态和技术突破 '+freshnessHtml('news')+'</p></div><a href="#/news" class="section-link">查看全部 '+icon('arrowRight',16)+'</a></div>'+
+    '<div class="grid grid-3">'+news+'</div>'+
+  '</div></section>'+
+
+  '<section class="section alt"><div class="container">'+
+    '<div class="section-head"><div><h2 class="section-title">主流模型 <span class="t">一览</span></h2><p class="section-desc">覆盖 GPT、Claude、Gemini、DeepSeek、Qwen、Llama 六大系列</p></div><a href="#/models" class="section-link">查看全部 '+icon('arrowRight',16)+'</a></div>'+
+    '<div class="grid grid-4">'+models+'</div>'+
+  '</div></section>'+
+
+  '<section class="section"><div class="container">'+
+    '<div class="section-head"><div><h2 class="section-title">AI 模型 <span class="t">能力排行榜</span></h2><p class="section-desc">'+esc(lb.description)+' '+freshnessHtml('leaderboards')+'</p></div><a href="#/leaderboards" class="section-link">查看全部 '+icon('arrowRight',16)+'</a></div>'+
+    '<div class="table-wrap"><table><thead><tr><th>排名</th><th>模型</th><th>公司</th><th style="text-align:right">'+esc(lb.scoreLabel||'分数')+'</th></tr></thead><tbody>'+lbRows+'</tbody></table></div>'+
+  '</div></section>'+
+
+  '<section class="section alt"><div class="container">'+
+    '<div class="section-head"><div><h2 class="section-title">数学与科学的 <span class="t">AI 突破</span></h2><p class="section-desc">AI 在数学、科学领域的最新进展</p></div><a href="#/research" class="section-link">查看全部 '+icon('arrowRight',16)+'</a></div>'+
+    '<div class="grid grid-3">'+
+      '<div class="research-card"><span class="tag tag-purple">数学竞赛</span><div class="research-title">AlphaProof 数学奥赛突破</div><p class="research-desc">在国际数学奥林匹克中达到银牌水平，标志 AI 数学推理的重大突破。</p><a href="#/research" style="color:var(--purple);font-weight:600;font-size:14px">了解更多 →</a></div>'+
+      '<div class="research-card"><span class="tag tag-blue">通用推理</span><div class="research-title">ARC-AGI 通向通用智能</div><p class="research-desc">o3 与 Gemini 3 Deep Think 先后在此基准上取得突破。</p><a href="#/research" style="color:var(--accent);font-weight:600;font-size:14px">了解更多 →</a></div>'+
+      '<div class="research-card"><span class="tag tag-green">科学发现</span><div class="research-title">AlphaFold 3 蛋白质预测</div><p class="research-desc">扩展到预测蛋白质与其他分子的相互作用，革新药物发现。</p><a href="#/research" style="color:var(--green);font-weight:600;font-size:14px">了解更多 →</a></div>'+
+    '</div>'+
+  '</div></section>'+
+
+  '<section class="section"><div class="container">'+
+    '<div class="section-head"><div><h2 class="section-title">最新 AI <span class="t">论文</span></h2><p class="section-desc">值得关注的重要论文与研究成果 '+freshnessHtml('papers')+'</p></div><a href="#/research" class="section-link">查看研究 '+icon('arrowRight',16)+'</a></div>'+
+    '<div style="max-width:820px">'+papers+'</div>'+
+  '</div></section>';
+}
+
+function renderNews(){
+  var list = state.newsCategory==='all' ? NEWS : NEWS.filter(function(n){return n.category===state.newsCategory;});
+  var filters = CATEGORIES.map(function(c){
+    return '<button class="filter-btn'+(state.newsCategory===c.id?' active':'')+'" onclick="setNewsCategory(\''+c.id+'\')">'+c.label+'</button>';
+  }).join('');
+
+  var body;
+  if(list.length===0){
+    body = '<div class="empty"><div>'+icon('search',56)+'</div><h3>该分类暂无新闻</h3><p>换个分类看看吧</p></div>';
+  } else {
+    body = '<div class="grid grid-3">'+list.map(function(n){
+      return '<div class="card" onclick="location.hash=\'#/news/'+n.slug+'\'">'+
+        '<div class="card-meta">'+categoryTag(n.category)+'<span style="font-size:12px;color:var(--faint);display:inline-flex;align-items:center;gap:4px">'+icon('calendar',14)+n.publishedAt+'</span></div>'+
+        '<div class="card-title">'+esc(n.title)+'</div>'+
+        '<p class="card-summary">'+esc(n.summary)+'</p>'+
+        '<div class="card-foot"><span>'+esc(n.source)+'</span><span class="go">查看详情 →</span></div>'+
+      '</div>';
+    }).join('')+'</div>';
+  }
+
+  return '<section class="section"><div class="container">'+
+    '<div class="section-head" style="align-items:center"><div><h2 class="section-title">AI <span class="t">新闻</span></h2><p class="section-desc">追踪全球 AI 行业最新动态和技术突破 · 每日自动更新 '+freshnessHtml('news')+'</p></div>'+
+    '<div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap"><span id="newsStatus" style="font-size:12px;color:var(--muted);opacity:0;transition:.3s"></span>'+
+    '<button id="refreshBtn" class="btn btn-outline" style="padding:9px 18px;font-size:14px" onclick="refreshData()">'+
+    '<svg class="icon" style="width:16px;height:16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg>'+
+    '刷新资讯</button></div></div>'+
+    '<div class="filters">'+filters+'</div>'+body+
+  '</div></section>';
+}
+
+function renderNewsDetail(slug){
+  var n = findNews(slug);
+  if(!n) return renderNotFound();
+  var body = n.content.map(function(seg){
+    if(seg[0]==='h2') return '<h2>'+esc(seg[1])+'</h2>';
+    if(seg[0]==='p') return '<p>'+esc(seg[1])+'</p>';
+    if(seg[0]==='ul') return '<ul>'+seg[1].map(function(li){return '<li>'+esc(li)+'</li>';}).join('')+'</ul>';
+    return '';
+  }).join('');
+  var related = n.relatedModels && n.relatedModels.length ? '<div style="margin-top:26px;padding-top:22px;border-top:1px solid var(--line-soft)"><h2 style="font-size:18px;font-weight:800;margin-bottom:14px">相关模型</h2><div style="display:flex;gap:8px;flex-wrap:wrap">'+n.relatedModels.map(function(s){var m=findModel(s);return m?'<a href="#/models/'+s+'" class="chip" style="cursor:pointer;text-decoration:none;padding:6px 14px;font-size:14px">'+esc(m.name)+'</a>':'';}).join('')+'</div></div>' : '';
+
+  return '<div class="detail"><a href="#/news" class="back">'+icon('arrowLeft',18)+'返回新闻列表</a>'+
+    '<article class="article">'+
+      '<div class="card-meta">'+categoryTag(n.category)+'<span style="font-size:13px;color:var(--faint);display:inline-flex;align-items:center;gap:4px">'+icon('calendar',14)+n.publishedAt+'</span></div>'+
+      '<h1>'+esc(n.title)+'</h1>'+
+      '<p class="lead">'+esc(n.summary)+'</p>'+
+      '<div class="src"><span>来源：<strong style="color:var(--ink)">'+esc(n.source)+'</strong></span>'+(n.sourceUrl?'<a href="'+n.sourceUrl+'" target="_blank" rel="noopener">查看原文 '+icon('external',14)+'</a>':'')+'</div>'+
+      '<div class="body">'+body+'</div>'+related+
+    '</article></div>';
+}
+
+function renderModels(){
+  var list = state.modelCompany==='全部' ? MODELS : MODELS.filter(function(m){return m.company===state.modelCompany;});
+  var filters = COMPANIES.map(function(c){
+    return '<button class="filter-btn'+(state.modelCompany===c?' active':'')+'" onclick="setModelCompany(\''+c+'\')">'+c+'</button>';
+  }).join('');
+
+  var body;
+  if(list.length===0){
+    body = '<div class="empty"><div>'+icon('search',56)+'</div><h3>该公司暂无模型</h3><p>换个公司看看吧</p></div>';
+  } else {
+    body = '<div class="grid grid-3">'+list.map(function(m){
+      var open = m.openWeights ? '<span class="model-open yes">'+icon('check',13)+'开源</span>' : '<span class="model-open no">'+icon('xCircle',13)+'闭源</span>';
+      return '<div class="card" onclick="location.hash=\'#/models/'+m.slug+'\'">'+
+        '<div class="model-top"><div><div class="model-name">'+esc(m.name)+'</div><div class="model-company">'+icon('building',14)+esc(m.company)+'</div></div>'+open+'</div>'+
+        '<p class="model-desc">'+esc(m.description)+'</p>'+
+        '<div style="margin-bottom:12px"><span style="font-size:12px;color:var(--faint);display:block;margin-bottom:6px">支持模态</span><div style="display:flex;gap:6px;flex-wrap:wrap">'+m.modalities.map(function(x){return '<span class="chip">'+x+'</span>';}).join('')+'</div></div>'+
+        (m.contextLength?'<div class="kv"><span class="k">上下文长度</span><span class="v">'+m.contextLength+'</span></div>':'')+
+        (m.releaseDate?'<div class="kv"><span class="k">发布时间</span><span class="v">'+m.releaseDate+'</span></div>':'')+
+        '<div class="card-foot" style="border-bottom:none;padding-bottom:0"><span></span><span class="go">查看详情 →</span></div>'+
+      '</div>';
+    }).join('')+'</div>';
+  }
+
+  return '<section class="section"><div class="container">'+
+    '<div class="section-head" style="align-items:center"><div><h2 class="section-title">模型 <span class="t">数据库</span></h2><p class="section-desc">探索全球主流 AI 大语言模型</p></div></div>'+
+    '<div class="filters">'+filters+'</div>'+body+
+  '</div></section>';
+}
+
+function renderModelDetail(slug){
+  var m = findModel(slug);
+  if(!m) return renderNotFound();
+  var open = m.openWeights ? '<span class="model-open yes" style="font-size:14px;padding:6px 14px">'+icon('check',15)+'开源模型</span>' : '<span class="model-open no" style="font-size:14px;padding:6px 14px">'+icon('xCircle',15)+'闭源模型</span>';
+  var related = NEWS.filter(function(n){return n.relatedModels && n.relatedModels.indexOf(m.slug)>=0;}).slice(0,3);
+
+  return '<div class="detail"><a href="#/models" class="back">'+icon('arrowLeft',18)+'返回模型数据库</a>'+
+    '<article class="article">'+
+      '<div class="detail-head"><div><h1>'+esc(m.name)+'</h1><div class="detail-company">'+icon('building',18)+esc(m.company)+'</div></div>'+open+'</div>'+
+      '<p class="lead">'+esc(m.description)+'</p>'+
+      '<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:20px;padding:20px 0;border-top:1px solid var(--line-soft);border-bottom:1px solid var(--line-soft);margin-bottom:24px">'+
+        (m.releaseDate?'<div><div style="font-size:13px;color:var(--faint);margin-bottom:4px">发布时间</div><div style="font-size:18px;font-weight:700">'+m.releaseDate+'</div></div>':'')+
+        (m.contextLength?'<div><div style="font-size:13px;color:var(--faint);margin-bottom:4px">上下文长度</div><div style="font-size:18px;font-weight:700">'+m.contextLength+'</div></div>':'')+
+      '</div>'+
+      '<div class="body">'+
+        '<h2>支持的模态</h2><div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:24px">'+m.modalities.map(function(x){return '<span class="chip" style="font-size:14px;padding:6px 16px">'+x+'</span>';}).join('')+'</div>'+
+        '<h2>主要特点</h2><ul>'+m.features.map(function(f){return '<li>'+esc(f)+'</li>';}).join('')+'</ul>'+
+      '</div>'+
+      (related.length?'<div style="margin-top:26px;padding-top:22px;border-top:1px solid var(--line-soft)"><h2 style="font-size:18px;font-weight:800;margin-bottom:14px">相关资讯</h2>'+related.map(function(n){
+        return '<a href="#/news/'+n.slug+'" class="result-item"><div class="rt">'+esc(n.title)+'</div><div class="rs">'+esc(n.summary)+'</div><div class="rm">'+esc(n.source)+' · '+n.publishedAt+'</div></a>';
+      }).join('')+'</div>':'')+
+    '</article></div>';
+}
+
+function renderLeaderboards(){
+  var tabs = LEADERBOARDS.map(function(lb){
+    return '<button class="tab'+(state.leaderboardId===lb.id?' active':'')+'" onclick="setLeaderboard(\''+lb.id+'\')">'+esc(lb.name)+'</button>';
+  }).join('');
+  var lb = null;
+  for(var i=0;i<LEADERBOARDS.length;i++) if(LEADERBOARDS[i].id===state.leaderboardId) lb=LEADERBOARDS[i];
+  if(!lb) lb=LEADERBOARDS[0];
+
+  var rows = lb.entries.map(function(e){
+    var rankCls = e.rank<=3 ? 'rank-'+e.rank : 'rank-n';
+    return '<tr><td><span class="rank '+rankCls+'">'+e.rank+'</span></td><td style="font-weight:600">'+esc(e.model)+'</td><td style="color:var(--muted)">'+esc(e.company)+'</td>'+
+      '<td>'+scoreCell(e)+'</td></tr>';
+  }).join('');
+
+  return '<section class="section"><div class="container">'+
+    '<div class="section-head" style="align-items:center"><div><h2 class="section-title">AI 模型 <span class="t">能力排行榜</span></h2><p class="section-desc">真实榜单数据，自动抓取更新 '+freshnessHtml('leaderboards')+'</p></div></div>'+
+    '<div class="tabs">'+tabs+'</div>'+
+    boardNoteHtml(lb)+
+    '<div class="table-wrap"><table><thead><tr><th>排名</th><th>模型</th><th>公司</th><th style="text-align:right">'+esc(lb.scoreLabel||'分数')+'</th></tr></thead><tbody>'+rows+'</tbody></table></div>'+
+    '<div class="disclaimer">* 榜单数据由脚本自动抓取自公开评测/社区投票平台，抓取时间见上方标注，仅供学习交流，非官方评测结论</div>'+
+  '</div></section>';
+}
+
+function renderResearch(){
+  var list = state.researchCategory==='全部' ? RESEARCH : RESEARCH.filter(function(r){return r.category===state.researchCategory;});
+  var filters = RESEARCH_CATEGORIES.map(function(c){
+    return '<button class="filter-btn'+(state.researchCategory===c?' active':'')+'" onclick="setResearchCategory(\''+c+'\')">'+c+'</button>';
+  }).join('');
+
+  var body;
+  if(list.length===0){
+    body = '<div class="empty"><div>'+icon('search',56)+'</div><h3>该分类暂无内容</h3><p>换个分类看看吧</p></div>';
+  } else {
+    body = list.map(function(r){
+      var papers = r.papers && r.papers.length ? r.papers.map(function(p){
+        return '<div class="paper"><div><div class="pt">'+esc(p.title)+'</div><div class="pa">'+esc(p.authors)+'</div></div>'+(p.link?'<a href="'+p.link+'" target="_blank" rel="noopener">查看论文 '+icon('external',13)+'</a>':'')+'</div>';
+      }).join('') : '';
+      return '<div class="research-card">'+
+        '<span class="tag tag-purple">'+esc(r.category)+'</span>'+
+        '<div class="research-title">'+esc(r.title)+'</div>'+
+        '<p class="research-desc">'+esc(r.description)+'</p>'+
+        '<ul class="highlights">'+r.highlights.map(function(h){return '<li>'+esc(h)+'</li>';}).join('')+'</ul>'+
+        (papers?'<div style="font-size:13px;font-weight:700;color:var(--ink-soft);margin-bottom:4px">相关论文</div>'+papers:'')+
+      '</div>';
+    }).join('');
+  }
+
+  // 最新研究动态：来自 data/papers.json 的每日论文流
+  var livePapers = PAPERS.length ? PAPERS.map(function(p){
+    var catTag = p.category ? '<span class="tag tag-blue" style="margin-right:8px">'+esc(p.category)+'</span>' : '';
+    return '<div class="paper" style="flex-direction:column;align-items:stretch;gap:6px">'+
+      '<div style="display:flex;justify-content:space-between;gap:12px;align-items:flex-start">'+
+        '<div><div class="pt">'+catTag+esc(p.title)+'</div>'+
+        '<div class="pa">'+esc(p.authors||'')+(p.venue?' · '+esc(p.venue):'')+(p.date?' · '+esc(p.date):'')+'</div>'+
+        (p.summary?'<div class="pa" style="margin-top:4px;line-height:1.5">'+esc(p.summary)+'</div>':'')+
+        '</div>'+
+        (p.link?'<a href="'+p.link+'" target="_blank" rel="noopener">查看论文 '+icon('external',13)+'</a>':'')+
+      '</div></div>';
+  }).join('') : '<div class="empty"><h3>暂无论文数据</h3><p>等待自动抓取后展示最新研究动态</p></div>';
+
+  return '<section class="section"><div class="container">'+
+    '<div class="section-head" style="align-items:center"><div><h2 class="section-title">AI 研究与 <span class="t">突破</span></h2><p class="section-desc">探索 AI 在数学、科学和推理领域的最新进展 '+freshnessHtml('papers')+'</p></div>'+
+    '<button class="btn btn-outline" style="padding:9px 18px;font-size:14px" onclick="refreshData()">刷新资讯</button></div>'+
+
+    '<h3 style="font-size:20px;font-weight:800;margin:8px 0 6px">最新研究动态</h3>'+
+    '<p class="section-desc" style="margin-bottom:16px">每日自动抓取 arXiv 与 Semantic Scholar 的最新 AI 论文，按主题自动归类</p>'+
+    '<div style="display:flex;flex-direction:column;gap:12px;margin-bottom:40px">'+livePapers+'</div>'+
+
+    '<h3 style="font-size:20px;font-weight:800;margin:8px 0 16px">经典突破专题</h3>'+
+    '<div class="filters">'+filters+'</div>'+
+    '<div style="display:flex;flex-direction:column;gap:18px">'+body+'</div>'+
+  '</div></section>';
+}
+
+function renderSearch(){
+  var q = state.searchQuery.trim().toLowerCase();
+  var results = {news:[],models:[],research:[]};
+  var total = 0;
+  if(q){
+    results.news = NEWS.filter(function(n){return n.title.toLowerCase().indexOf(q)>=0 || n.summary.toLowerCase().indexOf(q)>=0;});
+    results.models = MODELS.filter(function(m){return m.name.toLowerCase().indexOf(q)>=0 || m.company.toLowerCase().indexOf(q)>=0 || m.description.toLowerCase().indexOf(q)>=0 || m.features.some(function(f){return f.toLowerCase().indexOf(q)>=0;});});
+    results.research = RESEARCH.filter(function(r){return r.title.toLowerCase().indexOf(q)>=0 || r.description.toLowerCase().indexOf(q)>=0 || r.category.toLowerCase().indexOf(q)>=0;});
+    total = results.news.length + results.models.length + results.research.length;
+  }
+
+  var html = '<section class="section"><div class="container">'+
+    '<div class="section-head" style="align-items:center"><div><h2 class="section-title">全站 <span class="t">搜索</span></h2><p class="section-desc">搜索新闻、模型和研究内容</p></div></div>'+
+    '<div class="search-box"><span class="s-icon">'+icon('search',20)+'</span>'+
+    '<input type="text" id="searchInput" placeholder="输入关键词搜索..." value="'+esc(state.searchQuery)+'" oninput="onSearchInput(this.value)">'+
+    '<button class="s-clear'+(state.searchQuery?' show':'')+'" id="searchClear" onclick="clearSearch()">'+icon('xCircle',20)+'</button>'+
+    '</div>';
+
+  if(!q){
+    html += '<div class="empty"><div>'+icon('search',56)+'</div><h3>输入关键词开始搜索</h3><p>支持搜索新闻标题、模型名称、研究主题等</p></div>';
+  } else if(total===0){
+    html += '<div class="empty"><div>'+icon('search',56)+'</div><h3>未找到相关结果</h3><p>尝试使用其他关键词，如「GPT」「Gemini」「开源」等</p></div>';
+  } else {
+    html += '<p style="color:var(--muted);font-size:14px;margin-bottom:8px">找到 '+total+' 个结果</p>';
+    if(results.news.length){
+      html += '<div class="result-group"><h3>新闻（'+results.news.length+'）</h3>'+results.news.map(function(n){
+        return '<a href="#/news/'+n.slug+'" class="result-item"><div class="rt">'+esc(n.title)+'</div><div class="rs">'+esc(n.summary)+'</div><div class="rm">'+esc(n.source)+' · '+n.publishedAt+' · '+CATEGORY_LABEL[n.category]+'</div></a>';
+      }).join('')+'</div>';
+    }
+    if(results.models.length){
+      html += '<div class="result-group"><h3>模型（'+results.models.length+'）</h3>'+results.models.map(function(m){
+        return '<a href="#/models/'+m.slug+'" class="result-item"><div class="rt">'+esc(m.name)+' <span style="color:var(--faint);font-weight:400;font-size:13px">'+esc(m.company)+'</span></div><div class="rs">'+esc(m.description)+'</div></a>';
+      }).join('')+'</div>';
+    }
+    if(results.research.length){
+      html += '<div class="result-group"><h3>研究（'+results.research.length+'）</h3>'+results.research.map(function(r){
+        return '<a href="#/research" class="result-item"><div class="rt">'+esc(r.title)+' <span style="color:var(--purple);font-weight:600;font-size:12px">'+esc(r.category)+'</span></div><div class="rs">'+esc(r.description)+'</div></a>';
+      }).join('')+'</div>';
+    }
+  }
+  html += '</div></section>';
+  return html;
+}
+
+function renderNotFound(){
+  return '<div class="empty" style="padding:100px 20px"><div>'+icon('search',56)+'</div><h3>页面不存在</h3><p>您访问的内容不存在或已被移除</p><div style="margin-top:20px"><a href="#/" class="btn btn-primary">返回首页</a></div></div>';
+}
+
+/* ==================================================
+   路由
+================================================== */
+function parseHash(){
+  var h = location.hash.replace(/^#\/?/, '');
+  var parts = h.split('/');
+  if(!parts[0]) return {page:'home'};
+  if(parts[0]==='news') return parts[1] ? {page:'newsDetail', slug:parts[1]} : {page:'news'};
+  if(parts[0]==='models') return parts[1] ? {page:'modelDetail', slug:parts[1]} : {page:'models'};
+  if(parts[0]==='leaderboards') return {page:'leaderboards'};
+  if(parts[0]==='research') return {page:'research'};
+  if(parts[0]==='search') return {page:'search'};
+  return {page:'home'};
+}
+
+function route(){
+  var r = parseHash();
+  var app = document.getElementById('app');
+  switch(r.page){
+    case 'home': app.innerHTML = renderHome(); break;
+    case 'news': app.innerHTML = renderNews(); break;
+    case 'newsDetail': app.innerHTML = renderNewsDetail(r.slug); break;
+    case 'models': app.innerHTML = renderModels(); break;
+    case 'modelDetail': app.innerHTML = renderModelDetail(r.slug); break;
+    case 'leaderboards': app.innerHTML = renderLeaderboards(); break;
+    case 'research': app.innerHTML = renderResearch(); break;
+    case 'search': app.innerHTML = renderSearch(); break;
+    default: app.innerHTML = renderNotFound();
+  }
+  highlightNav(r.page);
+  updateFooterFreshness();
+  window.scrollTo(0,0);
+  closeMenu();
+}
+
+function updateFooterFreshness(){
+  var el = document.getElementById('footFresh');
+  if(!el) return;
+  var kinds = ['news','papers','leaderboards'];
+  var times = kinds.map(function(k){ return DATA_META[k] && DATA_META[k].updatedAt; }).filter(Boolean);
+  if(!times.length){ el.textContent = '· 数据更新时间：内置兜底数据'; return; }
+  times.sort();
+  el.textContent = '· 数据更新时间：' + fmtTime(times[times.length-1]);
+}
+
+function highlightNav(page){
+  var map = {home:'home', news:'news', newsDetail:'news', models:'models', modelDetail:'models', leaderboards:'leaderboards', research:'research', search:''};
+  var active = map[page] || '';
+  var links = document.querySelectorAll('#nav a');
+  for(var i=0;i<links.length;i++){
+    var key = links[i].getAttribute('data-nav');
+    if(key===active) links[i].classList.add('active'); else links[i].classList.remove('active');
+  }
+}
+
+/* ==================================================
+   交互处理
+================================================== */
+function setNewsCategory(c){ state.newsCategory=c; route(); }
+function setModelCompany(c){ state.modelCompany=c; route(); }
+function setLeaderboard(id){ state.leaderboardId=id; route(); }
+function setResearchCategory(c){ state.researchCategory=c; route(); }
+function onSearchInput(v){ state.searchQuery=v; route(); var el=document.getElementById('searchInput'); if(el){el.focus(); el.setSelectionRange(el.value.length, el.value.length);} }
+function clearSearch(){ state.searchQuery=''; route(); }
+
+function toggleMenu(){ document.getElementById('mobileMenu').classList.toggle('open'); }
+function closeMenu(){ document.getElementById('mobileMenu').classList.remove('open'); }
+
+/* ==================================================
+   初始化
+================================================== */
+document.getElementById('menuBtn').addEventListener('click', function(e){ e.stopPropagation(); toggleMenu(); });
+document.addEventListener('click', function(e){
+  var menu = document.getElementById('mobileMenu');
+  if(menu.classList.contains('open') && !e.target.closest('.header')) closeMenu();
+});
+window.addEventListener('hashchange', route);
+route();
+initData();
+</script>
+</body>
+</html>
