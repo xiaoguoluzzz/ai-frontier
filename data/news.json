@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-19T13:17:54.052Z",
-  "builtAt": "2026-10-19T13:17:54.052Z",
+  "updatedAt": "2026-10-20T02:12:21.541Z",
+  "builtAt": "2026-10-20T02:12:21.541Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -34,7 +34,196 @@
     },
     {
       "id": "3",
-      "slug": "democrats-think-cracking-down-on-ai-could-give-the-3",
+      "slug": "mamdani-says-feds-have-abdicated-on-ai-urges-new-y-3",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "category": "industry",
+      "publishedAt": "2026-10-20",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "4",
+      "slug": "nscale-and-anthropic-are-reportedly-in-talks-for-y-4",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "category": "industry",
+      "publishedAt": "2026-10-19",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "5",
+      "slug": "embedded-ai-evaluators-won-8217-t-be-an-easy-solut-5",
+      "title": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says",
+      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurr",
+      "category": "industry",
+      "publishedAt": "2026-10-19",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurr"
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "6",
+      "slug": "microsoft-says-ai-agents-are-like-insider-threats--6",
+      "title": "Microsoft says AI agents are like insider threats as &#8216;frontier models can&#8217;t be trusted&#8217;",
+      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "category": "industry",
+      "publishedAt": "2026-10-19",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "7",
+      "slug": "amazon-is-taking-its-biggest-shot-at-nvidia-yet-wi-7",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "category": "industry",
+      "publishedAt": "2026-10-19",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "8",
+      "slug": "the-fossil-fuel-comeback-is-here-8",
+      "title": "The fossil fuel comeback is here",
+      "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, fa",
+      "category": "industry",
+      "publishedAt": "2026-10-19",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, fa"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "9",
+      "slug": "coreweave-8217-s-debt-is-becoming-the-whole-ai-ind-9",
+      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapi",
+      "category": "industry",
+      "publishedAt": "2026-10-19",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapi"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "10",
+      "slug": "jb-pritzker-thinks-ai-could-help-us-live-to-100-or-10",
+      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind o",
+      "category": "industry",
+      "publishedAt": "2026-10-19",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind o"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "11",
+      "slug": "a-hacker-broke-into-john-deere-and-sharkninja-with-11",
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims in",
+      "category": "industry",
+      "publishedAt": "2026-10-19",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims in"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "12",
+      "slug": "democrats-think-cracking-down-on-ai-could-give-the-12",
       "title": "Democrats think cracking down on AI could give them an edge",
       "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Con",
       "category": "industry",
@@ -54,71 +243,29 @@
       ]
     },
     {
-      "id": "4",
-      "slug": "anthropic-says-it-s-committing-5-of-its-shares-to--4",
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
-      "category": "industry",
-      "publishedAt": "2026-10-18",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "id": "13",
+      "slug": "why-teaching-ai-about-symmetry-could-make-prenatal-13",
+      "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
+      "summary": "A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits.",
+      "category": "breakthrough",
+      "publishedAt": "2026-10-19",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Anthropic said that it will commit 5% of its shares to the fund."
+          "A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits."
         ],
         [
           "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
-      "id": "5",
-      "slug": "disney-agrees-to-hire-the-majority-of-character-ai-5",
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-      "category": "industry",
-      "publishedAt": "2026-10-18",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "6",
-      "slug": "a-woman-was-arrested-in-philly-for-blocking-a-deli-6",
-      "title": "A woman was arrested in Philly for blocking a delivery robot",
-      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers",
-      "category": "industry",
-      "publishedAt": "2026-10-18",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "7",
-      "slug": "giving-ai-a-crystal-clear-view-of-the-materials-wo-7",
+      "id": "14",
+      "slug": "giving-ai-a-crystal-clear-view-of-the-materials-wo-14",
       "title": "Giving AI a “crystal clear” view of the materials world",
       "summary": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
       "category": "breakthrough",
@@ -138,134 +285,8 @@
       ]
     },
     {
-      "id": "8",
-      "slug": "meta-removes-language-that-raised-scraping-and-ai--8",
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "category": "industry",
-      "publishedAt": "2026-10-17",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "9",
-      "slug": "anthropic-says-its-workforce-has-become-less-junio-9",
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-      "category": "industry",
-      "publishedAt": "2026-10-17",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "10",
-      "slug": "replit-makes-openai-its-default-over-anthropic-ceo-10",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "category": "industry",
-      "publishedAt": "2026-10-17",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "11",
-      "slug": "meta-removes-language-that-may-have-allowed-it-to--11",
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms pag",
-      "category": "industry",
-      "publishedAt": "2026-10-17",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms pag"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "12",
-      "slug": "websites-are-closing-their-doors-to-ai-agents-12",
-      "title": "Websites are closing their doors to AI agents",
-      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new",
-      "category": "industry",
-      "publishedAt": "2026-10-17",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "13",
-      "slug": "a-week-with-rtx-spark-everything-we-ve-learned-usi-13",
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and sma",
-      "category": "industry",
-      "publishedAt": "2026-10-16",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and sma"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "14",
-      "slug": "fostering-community-amid-kendall-square-s-innovati-14",
+      "id": "15",
+      "slug": "fostering-community-amid-kendall-square-s-innovati-15",
       "title": "Fostering community amid Kendall Square’s innovation",
       "summary": "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society.",
       "category": "breakthrough",
@@ -285,8 +306,8 @@
       ]
     },
     {
-      "id": "15",
-      "slug": "state-of-supply-chain-sustainability-report-finds--15",
+      "id": "16",
+      "slug": "state-of-supply-chain-sustainability-report-finds--16",
       "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
       "summary": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution.",
       "category": "breakthrough",
@@ -298,27 +319,6 @@
         [
           "p",
           "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "16",
-      "slug": "ai-model-decodes-the-language-cells-use-to-communi-16",
-      "title": "AI model decodes the language cells use to communicate",
-      "summary": "A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies.",
-      "category": "breakthrough",
-      "publishedAt": "2026-10-15",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies."
         ],
         [
           "p",

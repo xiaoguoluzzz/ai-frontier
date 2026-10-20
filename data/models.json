@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-19T13:17:54.605Z",
-  "builtAt": "2026-10-19T13:17:54.605Z",
+  "updatedAt": "2026-10-20T02:12:22.125Z",
+  "builtAt": "2026-10-20T02:12:22.125Z",
   "stale": false,
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/models",
@@ -13,9 +13,9 @@
       "openWeights": false,
       "contextLength": "1M",
       "releaseDate": "2026-10",
-      "description": "MiniMax 闭源大模型，2026-10 发布，上下文 1M tokens，Artificial Analysis 智能指数 42.4。",
+      "description": "MiniMax 闭源大模型，2026-10 发布，上下文 1M tokens，Artificial Analysis 智能指数 42.7。",
       "features": [
-        "智能指数 42.4",
+        "智能指数 42.7",
         "支持深度推理模式",
         "输入 $0.15 / 1M tokens，输出 $0.6",
         "闭源商用"
