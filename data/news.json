@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-20T02:12:21.541Z",
-  "builtAt": "2026-10-20T02:12:21.541Z",
+  "updatedAt": "2026-10-21T02:06:07.449Z",
+  "builtAt": "2026-10-21T02:06:07.449Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -11,20 +11,20 @@
   "items": [
     {
       "id": "2",
-      "slug": "stack-overflow-for-agents-triples-signups-with-cha-2",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary": "GPT-5.5 相关动态：Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "slug": "franchisee-reconciles-cash-in-94-less-time-with-ch-2",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "summary": "GPT-5.5 相关动态：An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
       "category": "model-release",
-      "publishedAt": "2026-10-16",
+      "publishedAt": "2026-10-20",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "sourceUrl": "https://openai.com/index/ted-taylor-restaurant",
       "relatedModels": [
         "gpt-5-5"
       ],
       "content": [
         [
           "p",
-          "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
+          "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
         ],
         [
           "p",
@@ -34,39 +34,41 @@
     },
     {
       "id": "3",
-      "slug": "mamdani-says-feds-have-abdicated-on-ai-urges-new-y-3",
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-      "category": "industry",
+      "slug": "google-s-more-personalized-gemini-ai-is-heading-to-3",
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "summary": "Gemini 3 相关动态：Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, an",
+      "category": "model-release",
       "publishedAt": "2026-10-20",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "relatedModels": [],
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "relatedModels": [
+        "gemini-3"
+      ],
       "content": [
         [
           "p",
-          "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands."
+          "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, an"
         ],
         [
           "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "4",
-      "slug": "nscale-and-anthropic-are-reportedly-in-talks-for-y-4",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "slug": "anthropic-pitches-ai-safety-bill-that-may-block-a--4",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "category": "industry",
-      "publishedAt": "2026-10-19",
+      "publishedAt": "2026-10-20",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year."
+          "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
         ],
         [
           "p",
@@ -76,18 +78,18 @@
     },
     {
       "id": "5",
-      "slug": "embedded-ai-evaluators-won-8217-t-be-an-easy-solut-5",
-      "title": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says",
-      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurr",
+      "slug": "hugging-face-ceo-warns-that-netflix-8217-s-openai--5",
+      "title": "Hugging Face CEO warns that Netflix&#8217;s OpenAI hack documentary isn&#8217;t accurate",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
       "category": "industry",
-      "publishedAt": "2026-10-19",
+      "publishedAt": "2026-10-20",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurr"
+          "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
         ],
         [
           "p",
@@ -97,18 +99,18 @@
     },
     {
       "id": "6",
-      "slug": "microsoft-says-ai-agents-are-like-insider-threats--6",
-      "title": "Microsoft says AI agents are like insider threats as &#8216;frontier models can&#8217;t be trusted&#8217;",
-      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "slug": "anthropic-s-cloud-partnerships-are-getting-messy-6",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
       "category": "industry",
-      "publishedAt": "2026-10-19",
+      "publishedAt": "2026-10-20",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic."
+          "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO."
         ],
         [
           "p",
@@ -118,18 +120,18 @@
     },
     {
       "id": "7",
-      "slug": "amazon-is-taking-its-biggest-shot-at-nvidia-yet-wi-7",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "slug": "spacex-8217-s-ai-business-is-beating-expectations-7",
+      "title": "SpaceX&#8217;s AI business is beating expectations",
+      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
       "category": "industry",
-      "publishedAt": "2026-10-19",
+      "publishedAt": "2026-10-20",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
+          "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine."
         ],
         [
           "p",
@@ -139,39 +141,39 @@
     },
     {
       "id": "8",
-      "slug": "the-fossil-fuel-comeback-is-here-8",
-      "title": "The fossil fuel comeback is here",
-      "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, fa",
+      "slug": "openai-acquires-startup-orchestra-bio-to-beef-up-i-8",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
       "category": "industry",
-      "publishedAt": "2026-10-19",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "publishedAt": "2026-10-20",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, fa"
+          "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results."
         ],
         [
           "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "9",
-      "slug": "coreweave-8217-s-debt-is-becoming-the-whole-ai-ind-9",
-      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
-      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapi",
+      "slug": "judge-dismisses-sam-altman-s-sister-s-sexual-abuse-9",
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the ju",
       "category": "industry",
-      "publishedAt": "2026-10-19",
+      "publishedAt": "2026-10-20",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapi"
+          "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the ju"
         ],
         [
           "p",
@@ -181,18 +183,18 @@
     },
     {
       "id": "10",
-      "slug": "jb-pritzker-thinks-ai-could-help-us-live-to-100-or-10",
-      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-      "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind o",
+      "slug": "meta-pauses-muse-sharing-after-researchers-find-ai-10",
+      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+      "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the secu",
       "category": "industry",
-      "publishedAt": "2026-10-19",
+      "publishedAt": "2026-10-20",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "sourceUrl": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind o"
+          "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the secu"
         ],
         [
           "p",
@@ -202,18 +204,18 @@
     },
     {
       "id": "11",
-      "slug": "a-hacker-broke-into-john-deere-and-sharkninja-with-11",
-      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims in",
+      "slug": "spotify-pulled-50-million-ai-slop-and-spam-tracks--11",
+      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+      "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommen",
       "category": "industry",
-      "publishedAt": "2026-10-19",
+      "publishedAt": "2026-10-20",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "sourceUrl": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims in"
+          "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommen"
         ],
         [
           "p",
@@ -223,18 +225,18 @@
     },
     {
       "id": "12",
-      "slug": "democrats-think-cracking-down-on-ai-could-give-the-12",
-      "title": "Democrats think cracking down on AI could give them an edge",
-      "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Con",
+      "slug": "adobe-lightroom-mobile-can-now-open-closed-eyes-in-12",
+      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+      "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have",
       "category": "industry",
-      "publishedAt": "2026-10-19",
+      "publishedAt": "2026-10-20",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "sourceUrl": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Con"
+          "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have"
         ],
         [
           "p",

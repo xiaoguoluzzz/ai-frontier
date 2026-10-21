@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-20T02:12:22.123Z",
-  "builtAt": "2026-10-20T02:12:22.123Z",
+  "updatedAt": "2026-10-21T02:06:08.008Z",
+  "builtAt": "2026-10-21T02:06:08.008Z",
   "stale": false,
   "boards": [
     {
@@ -10,7 +10,7 @@
       "source": "Artificial Analysis 智能指数",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "智能指数",
-      "updatedAt": "2026-10-20T02:12:22.123Z",
+      "updatedAt": "2026-10-21T02:06:08.008Z",
       "stale": false,
       "entries": [
         {
@@ -86,7 +86,7 @@
       "source": "Artificial Analysis 智能指数（近似）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "智能指数",
-      "updatedAt": "2026-10-20T02:12:22.123Z",
+      "updatedAt": "2026-10-21T02:06:08.008Z",
       "stale": false,
       "entries": [
         {
@@ -163,7 +163,7 @@
       "source": "Artificial Analysis（FrontierCode）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "FrontierCode",
-      "updatedAt": "2026-10-20T02:12:22.123Z",
+      "updatedAt": "2026-10-21T02:06:08.008Z",
       "stale": false,
       "entries": [
         {
@@ -216,19 +216,19 @@
         },
         {
           "rank": 7,
+          "model": "DeepSeek V4.1 Flash 1017 (max)",
+          "company": "DeepSeek",
+          "score": 0.436605666666667,
+          "displayScore": "43.7%",
+          "barPct": 84
+        },
+        {
+          "rank": 8,
           "model": "Kimi K3 (max)",
           "company": "Kimi",
           "score": 0.436099333333333,
           "displayScore": "43.6%",
           "barPct": 84
-        },
-        {
-          "rank": 8,
-          "model": "Gemini 4 Argon (high)",
-          "company": "Google",
-          "score": 0.434532,
-          "displayScore": "43.5%",
-          "barPct": 83
         }
       ]
     },
@@ -239,7 +239,7 @@
       "source": "Artificial Analysis（GPQA）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "GPQA",
-      "updatedAt": "2026-10-20T02:12:22.123Z",
+      "updatedAt": "2026-10-21T02:06:08.008Z",
       "stale": false,
       "entries": [
         {
