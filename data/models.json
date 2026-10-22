@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-21T02:06:08.009Z",
-  "builtAt": "2026-10-21T02:06:08.009Z",
+  "updatedAt": "2026-10-22T02:00:09.979Z",
+  "builtAt": "2026-10-22T02:00:09.979Z",
   "stale": false,
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/models",
@@ -59,7 +59,7 @@
         "501B 总参数 / 23B 激活参数",
         "智能指数 30.3",
         "支持深度推理模式",
-        "输入 $0.7 / 1M tokens，输出 $2.1",
+        "输入 $0.4 / 1M tokens，输出 $1.2",
         "开源权重"
       ],
       "modalities": [

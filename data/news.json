@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-21T02:06:07.449Z",
-  "builtAt": "2026-10-21T02:06:07.449Z",
+  "updatedAt": "2026-10-22T02:00:09.308Z",
+  "builtAt": "2026-10-22T02:00:09.308Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -11,20 +11,20 @@
   "items": [
     {
       "id": "2",
-      "slug": "franchisee-reconciles-cash-in-94-less-time-with-ch-2",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "summary": "GPT-5.5 相关动态：An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "slug": "chatgpt-ads-expands-to-26-new-countries-as-over-10-2",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary": "GPT-5.5 相关动态：From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
       "category": "model-release",
-      "publishedAt": "2026-10-20",
+      "publishedAt": "2026-10-21",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/ted-taylor-restaurant",
+      "sourceUrl": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
       "relatedModels": [
         "gpt-5-5"
       ],
       "content": [
         [
           "p",
-          "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
+          "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
         ],
         [
           "p",
@@ -34,20 +34,20 @@
     },
     {
       "id": "3",
-      "slug": "google-s-more-personalized-gemini-ai-is-heading-to-3",
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "summary": "Gemini 3 相关动态：Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, an",
+      "slug": "conversational-gemini-navigation-comes-to-apple-ca-3",
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "summary": "Gemini 3 相关动态：After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" accordi",
       "category": "model-release",
-      "publishedAt": "2026-10-20",
+      "publishedAt": "2026-10-21",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "sourceUrl": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
       "relatedModels": [
         "gemini-3"
       ],
       "content": [
         [
           "p",
-          "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, an"
+          "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" accordi"
         ],
         [
           "p",
@@ -57,18 +57,18 @@
     },
     {
       "id": "4",
-      "slug": "anthropic-pitches-ai-safety-bill-that-may-block-a--4",
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "slug": "blackstone-8217-s-jas-khaira-says-fears-over-ai-bu-4",
+      "title": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
       "category": "industry",
-      "publishedAt": "2026-10-20",
+      "publishedAt": "2026-10-21",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "sourceUrl": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
+          "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
         ],
         [
           "p",
@@ -78,18 +78,18 @@
     },
     {
       "id": "5",
-      "slug": "hugging-face-ceo-warns-that-netflix-8217-s-openai--5",
-      "title": "Hugging Face CEO warns that Netflix&#8217;s OpenAI hack documentary isn&#8217;t accurate",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "slug": "techcrunch-founder-summit-2026-everything-you-need-5",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
       "category": "industry",
-      "publishedAt": "2026-10-20",
+      "publishedAt": "2026-10-21",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "sourceUrl": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
+          "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies."
         ],
         [
           "p",
@@ -99,18 +99,18 @@
     },
     {
       "id": "6",
-      "slug": "anthropic-s-cloud-partnerships-are-getting-messy-6",
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "slug": "meta-says-muse-has-over-10m-users-with-shopping-a--6",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
       "category": "industry",
-      "publishedAt": "2026-10-20",
+      "publishedAt": "2026-10-21",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "sourceUrl": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO."
+          "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users."
         ],
         [
           "p",
@@ -120,18 +120,18 @@
     },
     {
       "id": "7",
-      "slug": "spacex-8217-s-ai-business-is-beating-expectations-7",
-      "title": "SpaceX&#8217;s AI business is beating expectations",
-      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "slug": "recursive-launches-flint-a-laptop-coding-model-it--7",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
       "category": "industry",
-      "publishedAt": "2026-10-20",
+      "publishedAt": "2026-10-21",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "sourceUrl": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine."
+          "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself."
         ],
         [
           "p",
@@ -141,18 +141,18 @@
     },
     {
       "id": "8",
-      "slug": "openai-acquires-startup-orchestra-bio-to-beef-up-i-8",
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-      "category": "industry",
-      "publishedAt": "2026-10-20",
+      "slug": "while-amazon-blocks-ai-agents-walmart-rolls-out-th-8",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "category": "model-release",
+      "publishedAt": "2026-10-21",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "sourceUrl": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results."
+          "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals."
         ],
         [
           "p",
@@ -162,39 +162,39 @@
     },
     {
       "id": "9",
-      "slug": "judge-dismisses-sam-altman-s-sister-s-sexual-abuse-9",
-      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the ju",
-      "category": "industry",
-      "publishedAt": "2026-10-20",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "slug": "southeast-asia-s-digital-economy-to-hit-368-billio-9",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp\">Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trill",
+      "category": "breakthrough",
+      "publishedAt": "2026-10-21",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the ju"
+          "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp\">Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trill"
         ],
         [
           "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+          "来源：Google AI Blog。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "10",
-      "slug": "meta-pauses-muse-sharing-after-researchers-find-ai-10",
-      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-      "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the secu",
+      "slug": "data-centers-could-erase-decades-of-air-quality-ga-10",
+      "title": "Data centers could erase decades of air quality gains",
+      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a ",
       "category": "industry",
-      "publishedAt": "2026-10-20",
+      "publishedAt": "2026-10-21",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the secu"
+          "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a "
         ],
         [
           "p",
@@ -204,18 +204,18 @@
     },
     {
       "id": "11",
-      "slug": "spotify-pulled-50-million-ai-slop-and-spam-tracks--11",
-      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-      "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommen",
+      "slug": "meta-to-create-a-new-class-of-shares-to-fund-ai-pu-11",
+      "title": "Meta to create a new class of shares to fund AI push",
+      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compe",
       "category": "industry",
-      "publishedAt": "2026-10-20",
+      "publishedAt": "2026-10-21",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+      "sourceUrl": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommen"
+          "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compe"
         ],
         [
           "p",
@@ -225,18 +225,18 @@
     },
     {
       "id": "12",
-      "slug": "adobe-lightroom-mobile-can-now-open-closed-eyes-in-12",
-      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-      "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have",
-      "category": "industry",
-      "publishedAt": "2026-10-20",
+      "slug": "anthropic-takes-on-muse-with-claude-duet-its-new-a-12",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's avail",
+      "category": "model-release",
+      "publishedAt": "2026-10-21",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have"
+          "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's avail"
         ],
         [
           "p",
@@ -246,7 +246,28 @@
     },
     {
       "id": "13",
-      "slug": "why-teaching-ai-about-symmetry-could-make-prenatal-13",
+      "slug": "walmart-is-inviting-ai-agents-to-shop-for-you-13",
+      "title": "Walmart is inviting AI agents to shop for you",
+      "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of A",
+      "category": "industry",
+      "publishedAt": "2026-10-21",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of A"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "14",
+      "slug": "why-teaching-ai-about-symmetry-could-make-prenatal-14",
       "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
       "summary": "A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits.",
       "category": "breakthrough",
@@ -266,8 +287,8 @@
       ]
     },
     {
-      "id": "14",
-      "slug": "giving-ai-a-crystal-clear-view-of-the-materials-wo-14",
+      "id": "15",
+      "slug": "giving-ai-a-crystal-clear-view-of-the-materials-wo-15",
       "title": "Giving AI a “crystal clear” view of the materials world",
       "summary": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
       "category": "breakthrough",
@@ -287,8 +308,8 @@
       ]
     },
     {
-      "id": "15",
-      "slug": "fostering-community-amid-kendall-square-s-innovati-15",
+      "id": "16",
+      "slug": "fostering-community-amid-kendall-square-s-innovati-16",
       "title": "Fostering community amid Kendall Square’s innovation",
       "summary": "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society.",
       "category": "breakthrough",
@@ -300,27 +321,6 @@
         [
           "p",
           "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "16",
-      "slug": "state-of-supply-chain-sustainability-report-finds--16",
-      "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
-      "summary": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution.",
-      "category": "breakthrough",
-      "publishedAt": "2026-10-15",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution."
         ],
         [
           "p",
