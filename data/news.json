@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-22T02:00:09.308Z",
-  "builtAt": "2026-10-22T02:00:09.308Z",
+  "updatedAt": "2026-10-23T02:03:52.557Z",
+  "builtAt": "2026-10-23T02:03:52.557Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -11,20 +11,20 @@
   "items": [
     {
       "id": "2",
-      "slug": "chatgpt-ads-expands-to-26-new-countries-as-over-10-2",
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "summary": "GPT-5.5 相关动态：From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "slug": "uber-brings-chatgpt-work-to-all-employees-with-ope-2",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "summary": "GPT-5.5 相关动态：Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
       "category": "model-release",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "sourceUrl": "https://openai.com/index/uber-chatgpt-work-rollout",
       "relatedModels": [
         "gpt-5-5"
       ],
       "content": [
         [
           "p",
-          "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
+          "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
         ],
         [
           "p",
@@ -34,41 +34,39 @@
     },
     {
       "id": "3",
-      "slug": "conversational-gemini-navigation-comes-to-apple-ca-3",
-      "title": "Conversational Gemini navigation comes to Apple CarPlay",
-      "summary": "Gemini 3 相关动态：After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" accordi",
-      "category": "model-release",
-      "publishedAt": "2026-10-21",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-      "relatedModels": [
-        "gemini-3"
-      ],
+      "slug": "left-alone-with-nothing-to-do-ai-agents-started-pl-3",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "category": "industry",
+      "publishedAt": "2026-10-23",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "relatedModels": [],
       "content": [
         [
           "p",
-          "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" accordi"
+          "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
         ],
         [
           "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "4",
-      "slug": "blackstone-8217-s-jas-khaira-says-fears-over-ai-bu-4",
-      "title": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown",
-      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "slug": "openai-working-on-new-30b-raise-at-1-25t-valuation-4",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
       "category": "industry",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
+          "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
         ],
         [
           "p",
@@ -78,18 +76,18 @@
     },
     {
       "id": "5",
-      "slug": "techcrunch-founder-summit-2026-everything-you-need-5",
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "slug": "1password-launches-a-way-for-ai-agents-to-log-in-o-5",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
       "category": "industry",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies."
+          "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
         ],
         [
           "p",
@@ -99,18 +97,18 @@
     },
     {
       "id": "6",
-      "slug": "meta-says-muse-has-over-10m-users-with-shopping-a--6",
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "slug": "openai-makes-its-jev-competitor-widely-available-a-6",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
       "category": "industry",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users."
+          "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
         ],
         [
           "p",
@@ -120,18 +118,18 @@
     },
     {
       "id": "7",
-      "slug": "recursive-launches-flint-a-laptop-coding-model-it--7",
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "slug": "canva-releases-its-first-image-generation-model-7",
+      "title": "Canva releases its first image generation model",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "category": "industry",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself."
+          "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
         ],
         [
           "p",
@@ -141,28 +139,133 @@
     },
     {
       "id": "8",
-      "slug": "while-amazon-blocks-ai-agents-walmart-rolls-out-th-8",
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
-      "category": "model-release",
-      "publishedAt": "2026-10-21",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "slug": "canva-s-first-ai-image-model-plans-designs-before--8",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a des",
+      "category": "industry",
+      "publishedAt": "2026-10-22",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals."
+          "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a des"
         ],
         [
           "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "9",
-      "slug": "southeast-asia-s-digital-economy-to-hit-368-billio-9",
+      "slug": "meta-8217-s-ai-could-still-scrape-news-sites-legal-9",
+      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to re",
+      "category": "industry",
+      "publishedAt": "2026-10-22",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to re"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "10",
+      "slug": "meta-turns-muse-sharing-back-on-10",
+      "title": "Meta turns Muse sharing back on",
+      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and",
+      "category": "industry",
+      "publishedAt": "2026-10-22",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "11",
+      "slug": "sure-let-s-smoosh-spacex-and-tesla-together-who-ca-11",
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you f",
+      "category": "industry",
+      "publishedAt": "2026-10-22",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you f"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "12",
+      "slug": "discord-now-formats-markdown-previews-right-12",
+      "title": "Discord now formats Markdown previews right",
+      "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instruc",
+      "category": "industry",
+      "publishedAt": "2026-10-22",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instruc"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "13",
+      "slug": "this-design-software-reimagines-everyday-objects-a-13",
+      "title": "This design software reimagines everyday objects as self-aware devices",
+      "summary": "“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact.",
+      "category": "breakthrough",
+      "publishedAt": "2026-10-22",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact."
+        ],
+        [
+          "p",
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "14",
+      "slug": "southeast-asia-s-digital-economy-to-hit-368-billio-14",
       "title": "Southeast Asia’s digital economy to hit $368 billion",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp\">Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trill",
       "category": "breakthrough",
@@ -182,92 +285,8 @@
       ]
     },
     {
-      "id": "10",
-      "slug": "data-centers-could-erase-decades-of-air-quality-ga-10",
-      "title": "Data centers could erase decades of air quality gains",
-      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a ",
-      "category": "industry",
-      "publishedAt": "2026-10-21",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a "
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "11",
-      "slug": "meta-to-create-a-new-class-of-shares-to-fund-ai-pu-11",
-      "title": "Meta to create a new class of shares to fund AI push",
-      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compe",
-      "category": "industry",
-      "publishedAt": "2026-10-21",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compe"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "12",
-      "slug": "anthropic-takes-on-muse-with-claude-duet-its-new-a-12",
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's avail",
-      "category": "model-release",
-      "publishedAt": "2026-10-21",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's avail"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "13",
-      "slug": "walmart-is-inviting-ai-agents-to-shop-for-you-13",
-      "title": "Walmart is inviting AI agents to shop for you",
-      "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of A",
-      "category": "industry",
-      "publishedAt": "2026-10-21",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of A"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "14",
-      "slug": "why-teaching-ai-about-symmetry-could-make-prenatal-14",
+      "id": "15",
+      "slug": "why-teaching-ai-about-symmetry-could-make-prenatal-15",
       "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
       "summary": "A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits.",
       "category": "breakthrough",
@@ -287,8 +306,8 @@
       ]
     },
     {
-      "id": "15",
-      "slug": "giving-ai-a-crystal-clear-view-of-the-materials-wo-15",
+      "id": "16",
+      "slug": "giving-ai-a-crystal-clear-view-of-the-materials-wo-16",
       "title": "Giving AI a “crystal clear” view of the materials world",
       "summary": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
       "category": "breakthrough",
@@ -300,27 +319,6 @@
         [
           "p",
           "New research can help AI models understand crystalline materials in 3D and reason about their properties."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "16",
-      "slug": "fostering-community-amid-kendall-square-s-innovati-16",
-      "title": "Fostering community amid Kendall Square’s innovation",
-      "summary": "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society.",
-      "category": "breakthrough",
-      "publishedAt": "2026-10-16",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society."
         ],
         [
           "p",
