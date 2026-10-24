@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-23T02:03:52.557Z",
-  "builtAt": "2026-10-23T02:03:52.557Z",
+  "updatedAt": "2026-10-24T02:03:12.374Z",
+  "builtAt": "2026-10-24T02:03:12.374Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -11,20 +11,20 @@
   "items": [
     {
       "id": "2",
-      "slug": "uber-brings-chatgpt-work-to-all-employees-with-ope-2",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "summary": "GPT-5.5 相关动态：Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "slug": "rapidly-scaling-online-storage-to-serve-over-1-bil-2",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "summary": "GPT-5.5 相关动态：Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
       "category": "model-release",
-      "publishedAt": "2026-10-22",
+      "publishedAt": "2026-10-23",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "sourceUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
       "relatedModels": [
         "gpt-5-5"
       ],
       "content": [
         [
           "p",
-          "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
+          "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
         ],
         [
           "p",
@@ -34,7 +34,91 @@
     },
     {
       "id": "3",
-      "slug": "left-alone-with-nothing-to-do-ai-agents-started-pl-3",
+      "slug": "openai-says-it-will-no-longer-train-its-ai-models--3",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "category": "industry",
+      "publishedAt": "2026-10-23",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "4",
+      "slug": "hottest-toy-for-christmas-nvidia-ceo-plays-with-ad-4",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "category": "industry",
+      "publishedAt": "2026-10-23",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "5",
+      "slug": "from-toast-to-bessemer-who-founders-will-hear-from-5",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scalin",
+      "category": "industry",
+      "publishedAt": "2026-10-23",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scalin"
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "6",
+      "slug": "uber-rival-indrive-eyes-2027-robotaxi-tests-in-cen-6",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "category": "industry",
+      "publishedAt": "2026-10-23",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "7",
+      "slug": "left-alone-with-nothing-to-do-ai-agents-started-pl-7",
       "title": "Left alone with nothing to do, AI agents started playing",
       "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
       "category": "industry",
@@ -54,103 +138,19 @@
       ]
     },
     {
-      "id": "4",
-      "slug": "openai-working-on-new-30b-raise-at-1-25t-valuation-4",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-      "category": "industry",
-      "publishedAt": "2026-10-22",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "5",
-      "slug": "1password-launches-a-way-for-ai-agents-to-log-in-o-5",
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-      "category": "industry",
-      "publishedAt": "2026-10-22",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "6",
-      "slug": "openai-makes-its-jev-competitor-widely-available-a-6",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "category": "industry",
-      "publishedAt": "2026-10-22",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "7",
-      "slug": "canva-releases-its-first-image-generation-model-7",
-      "title": "Canva releases its first image generation model",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "category": "industry",
-      "publishedAt": "2026-10-22",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
       "id": "8",
-      "slug": "canva-s-first-ai-image-model-plans-designs-before--8",
-      "title": "Canva’s first AI image model plans designs before generating them",
-      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a des",
+      "slug": "openai-now-trains-its-frontier-ai-models-with-no-i-8",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexe",
       "category": "industry",
-      "publishedAt": "2026-10-22",
+      "publishedAt": "2026-10-23",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a des"
+          "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexe"
         ],
         [
           "p",
@@ -160,18 +160,18 @@
     },
     {
       "id": "9",
-      "slug": "meta-8217-s-ai-could-still-scrape-news-sites-legal-9",
-      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to re",
+      "slug": "jack-dorsey-s-block-made-an-ai-model-that-talks-to-9",
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncan",
       "category": "industry",
-      "publishedAt": "2026-10-22",
+      "publishedAt": "2026-10-23",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to re"
+          "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncan"
         ],
         [
           "p",
@@ -181,18 +181,18 @@
     },
     {
       "id": "10",
-      "slug": "meta-turns-muse-sharing-back-on-10",
-      "title": "Meta turns Muse sharing back on",
-      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and",
+      "slug": "the-iphone-duo-should-have-been-an-ipad-10",
+      "title": "The iPhone Duo should have been an iPad",
+      "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. O",
       "category": "industry",
-      "publishedAt": "2026-10-22",
+      "publishedAt": "2026-10-23",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "sourceUrl": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and"
+          "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. O"
         ],
         [
           "p",
@@ -202,18 +202,18 @@
     },
     {
       "id": "11",
-      "slug": "sure-let-s-smoosh-spacex-and-tesla-together-who-ca-11",
-      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you f",
+      "slug": "now-google-says-it-might-use-your-gmail-and-google-11",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise",
       "category": "industry",
-      "publishedAt": "2026-10-22",
+      "publishedAt": "2026-10-23",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "sourceUrl": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you f"
+          "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise"
         ],
         [
           "p",
@@ -223,18 +223,18 @@
     },
     {
       "id": "12",
-      "slug": "discord-now-formats-markdown-previews-right-12",
-      "title": "Discord now formats Markdown previews right",
-      "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instruc",
+      "slug": "meta-delays-new-business-terms-after-publisher-pus-12",
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spoke",
       "category": "industry",
-      "publishedAt": "2026-10-22",
+      "publishedAt": "2026-10-23",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "sourceUrl": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instruc"
+          "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spoke"
         ],
         [
           "p",
@@ -244,7 +244,70 @@
     },
     {
       "id": "13",
-      "slug": "this-design-software-reimagines-everyday-objects-a-13",
+      "slug": "at-mit-martha-minow-speaks-on-sustaining-democracy-13",
+      "title": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
+      "summary": "In Compton Lecture, the distinguished legal scholar warns of potential “loss of the Enlightenment” while suggesting ways innovations can meet our civic and cultural needs.",
+      "category": "breakthrough",
+      "publishedAt": "2026-10-23",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "In Compton Lecture, the distinguished legal scholar warns of potential “loss of the Enlightenment” while suggesting ways innovations can meet our civic and cultural needs."
+        ],
+        [
+          "p",
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "14",
+      "slug": "reinforcing-the-value-of-human-understanding-at-mi-14",
+      "title": "Reinforcing the value of human understanding at MIT",
+      "summary": "During the School of Humanities, Arts, and Social Sciences’ 75th Anniversary Symposium, President Sally Kornbluth said “MIT has never needed your particular insight and guidance more than we do now.”",
+      "category": "breakthrough",
+      "publishedAt": "2026-10-23",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "During the School of Humanities, Arts, and Social Sciences’ 75th Anniversary Symposium, President Sally Kornbluth said “MIT has never needed your particular insight and guidance more than we do now.”"
+        ],
+        [
+          "p",
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "15",
+      "slug": "q-a-how-ai-came-to-model-the-messy-human-mind-15",
+      "title": "Q&A: How AI came to model the “messy” human mind",
+      "summary": "Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate.",
+      "category": "breakthrough",
+      "publishedAt": "2026-10-23",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate."
+        ],
+        [
+          "p",
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "16",
+      "slug": "this-design-software-reimagines-everyday-objects-a-16",
       "title": "This design software reimagines everyday objects as self-aware devices",
       "summary": "“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact.",
       "category": "breakthrough",
@@ -256,69 +319,6 @@
         [
           "p",
           "“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "14",
-      "slug": "southeast-asia-s-digital-economy-to-hit-368-billio-14",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp\">Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trill",
-      "category": "breakthrough",
-      "publishedAt": "2026-10-21",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp\">Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trill"
-        ],
-        [
-          "p",
-          "来源：Google AI Blog。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "15",
-      "slug": "why-teaching-ai-about-symmetry-could-make-prenatal-15",
-      "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
-      "summary": "A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits.",
-      "category": "breakthrough",
-      "publishedAt": "2026-10-19",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "16",
-      "slug": "giving-ai-a-crystal-clear-view-of-the-materials-wo-16",
-      "title": "Giving AI a “crystal clear” view of the materials world",
-      "summary": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
-      "category": "breakthrough",
-      "publishedAt": "2026-10-18",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "New research can help AI models understand crystalline materials in 3D and reason about their properties."
         ],
         [
           "p",
