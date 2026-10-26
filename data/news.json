@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-25T01:49:57.069Z",
-  "builtAt": "2026-10-25T01:49:57.069Z",
+  "updatedAt": "2026-10-26T01:51:37.737Z",
+  "builtAt": "2026-10-26T01:51:37.737Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -34,7 +34,112 @@
     },
     {
       "id": "3",
-      "slug": "the-ai-graveyard-a-running-list-of-projects-and-st-3",
+      "slug": "grok-releases-the-first-seven-minutes-of-its-ai-ge-3",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "category": "industry",
+      "publishedAt": "2026-10-25",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "4",
+      "slug": "ai-delivers-zero-financial-payoff-to-most-companie-4",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "category": "industry",
+      "publishedAt": "2026-10-25",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "5",
+      "slug": "the-hottest-ai-wearables-and-gadgets-you-should-kn-5",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "category": "industry",
+      "publishedAt": "2026-10-25",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "6",
+      "slug": "r-opensource-just-banned-ai-non-english-speakers-a-6",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on ",
+      "category": "open-source",
+      "publishedAt": "2026-10-25",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on "
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "7",
+      "slug": "google-s-ai-search-changes-upended-online-publishi-7",
+      "title": "Google’s AI search changes upended online publishing",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The S",
+      "category": "industry",
+      "publishedAt": "2026-10-25",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The S"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "8",
+      "slug": "the-ai-graveyard-a-running-list-of-projects-and-st-8",
       "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
       "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
       "category": "industry",
@@ -54,8 +159,8 @@
       ]
     },
     {
-      "id": "4",
-      "slug": "block-8217-s-new-voice-model-sounds-eerily-human-4",
+      "id": "9",
+      "slug": "block-8217-s-new-voice-model-sounds-eerily-human-9",
       "title": "Block&#8217;s new voice model sounds eerily human",
       "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
       "category": "industry",
@@ -75,50 +180,8 @@
       ]
     },
     {
-      "id": "5",
-      "slug": "forced-to-pick-grok-s-ai-model-chooses-republicans-5",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "category": "industry",
-      "publishedAt": "2026-10-24",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "6",
-      "slug": "here-are-the-top-ai-agents-that-can-live-in-your-t-6",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "category": "industry",
-      "publishedAt": "2026-10-24",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "7",
-      "slug": "blue-planet-iii-is-keeping-the-rough-edges-in-the--7",
+      "id": "10",
+      "slug": "blue-planet-iii-is-keeping-the-rough-edges-in-the--10",
       "title": "Blue Planet III is keeping the rough edges in the age of AI",
       "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. B",
       "category": "industry",
@@ -138,8 +201,8 @@
       ]
     },
     {
-      "id": "8",
-      "slug": "pennsylvania-will-require-labels-on-ai-generated-a-8",
+      "id": "11",
+      "slug": "pennsylvania-will-require-labels-on-ai-generated-a-11",
       "title": "Pennsylvania will require labels on AI-generated ads",
       "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - ",
       "category": "industry",
@@ -159,29 +222,8 @@
       ]
     },
     {
-      "id": "9",
-      "slug": "openai-says-it-will-no-longer-train-its-ai-models--9",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "category": "industry",
-      "publishedAt": "2026-10-23",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "10",
-      "slug": "openai-now-trains-its-frontier-ai-models-with-no-i-10",
+      "id": "12",
+      "slug": "openai-now-trains-its-frontier-ai-models-with-no-i-12",
       "title": "OpenAI now trains its frontier AI models with no internet access",
       "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexe",
       "category": "industry",
@@ -193,48 +235,6 @@
         [
           "p",
           "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexe"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "11",
-      "slug": "jack-dorsey-s-block-made-an-ai-model-that-talks-to-11",
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncan",
-      "category": "industry",
-      "publishedAt": "2026-10-23",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncan"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "12",
-      "slug": "the-iphone-duo-should-have-been-an-ipad-12",
-      "title": "The iPhone Duo should have been an iPad",
-      "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. O",
-      "category": "industry",
-      "publishedAt": "2026-10-23",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. O"
         ],
         [
           "p",
