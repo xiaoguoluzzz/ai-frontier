@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-26T01:51:38.144Z",
-  "builtAt": "2026-10-26T01:51:38.144Z",
+  "updatedAt": "2026-10-27T02:30:18.107Z",
+  "builtAt": "2026-10-27T02:30:18.107Z",
   "stale": false,
   "boards": [
     {
@@ -10,7 +10,7 @@
       "source": "Artificial Analysis 智能指数",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "智能指数",
-      "updatedAt": "2026-10-26T01:51:38.144Z",
+      "updatedAt": "2026-10-27T02:30:18.107Z",
       "stale": false,
       "entries": [
         {
@@ -86,7 +86,7 @@
       "source": "Artificial Analysis 智能指数（近似）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "智能指数",
-      "updatedAt": "2026-10-26T01:51:38.144Z",
+      "updatedAt": "2026-10-27T02:30:18.107Z",
       "stale": false,
       "entries": [
         {
@@ -163,7 +163,7 @@
       "source": "Artificial Analysis（FrontierCode）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "FrontierCode",
-      "updatedAt": "2026-10-26T01:51:38.144Z",
+      "updatedAt": "2026-10-27T02:30:18.107Z",
       "stale": false,
       "entries": [
         {
@@ -239,7 +239,7 @@
       "source": "Artificial Analysis（GPQA）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "GPQA",
-      "updatedAt": "2026-10-26T01:51:38.144Z",
+      "updatedAt": "2026-10-27T02:30:18.107Z",
       "stale": false,
       "entries": [
         {
@@ -284,14 +284,6 @@
         },
         {
           "rank": 6,
-          "model": "GLM-5.3-Flash",
-          "company": "Z AI",
-          "score": 0.912121212121212,
-          "displayScore": "91.2%",
-          "barPct": 95
-        },
-        {
-          "rank": 7,
           "model": "Qwen3.8 27B (xhigh)",
           "company": "Alibaba",
           "score": 0.905050505050505,
@@ -299,12 +291,20 @@
           "barPct": 94
         },
         {
-          "rank": 8,
+          "rank": 7,
           "model": "Muse Spark Open (xhigh)",
           "company": "Meta",
           "score": 0.88989898989899,
           "displayScore": "89.0%",
           "barPct": 93
+        },
+        {
+          "rank": 8,
+          "model": "K2 Horizon 375B A23B",
+          "company": "Institute of Foundation Models",
+          "score": 0.872727272727273,
+          "displayScore": "87.3%",
+          "barPct": 91
         }
       ]
     }

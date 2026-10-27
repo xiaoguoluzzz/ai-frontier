@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-26T01:51:37.737Z",
-  "builtAt": "2026-10-26T01:51:37.737Z",
+  "updatedAt": "2026-10-27T02:30:17.820Z",
+  "builtAt": "2026-10-27T02:30:17.820Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -11,20 +11,20 @@
   "items": [
     {
       "id": "2",
-      "slug": "rapidly-scaling-online-storage-to-serve-over-1-bil-2",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "summary": "GPT-5.5 相关动态：Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "slug": "chatgpt-s-expanding-world-of-work-2",
+      "title": "ChatGPT’s expanding world of work",
+      "summary": "GPT-5.5 相关动态：Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
       "category": "model-release",
-      "publishedAt": "2026-10-23",
+      "publishedAt": "2026-10-26",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "sourceUrl": "https://openai.com/index/chatgpt-expanding-world-of-work",
       "relatedModels": [
         "gpt-5-5"
       ],
       "content": [
         [
           "p",
-          "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
+          "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
         ],
         [
           "p",
@@ -34,7 +34,240 @@
     },
     {
       "id": "3",
-      "slug": "grok-releases-the-first-seven-minutes-of-its-ai-ge-3",
+      "slug": "cohere-says-alibaba-s-qwen-model-tried-to-send-a-f-3",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "summary": "Qwen3-Max 相关动态：An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chi",
+      "category": "model-release",
+      "publishedAt": "2026-10-27",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "relatedModels": [
+        "qwen3-max"
+      ],
+      "content": [
+        [
+          "p",
+          "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chi"
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "4",
+      "slug": "anthropic-s-ipo-filing-reveals-its-strategy-for-ke-4",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "category": "industry",
+      "publishedAt": "2026-10-26",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "5",
+      "slug": "spacex-locks-in-40b-gpu-financing-deal-with-apollo-5",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+      "category": "industry",
+      "publishedAt": "2026-10-26",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "6",
+      "slug": "anthropic-officially-files-for-its-public-debut-6",
+      "title": "Anthropic officially files for its public debut",
+      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "category": "model-release",
+      "publishedAt": "2026-10-26",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "7",
+      "slug": "our-newest-ai-quest-mapping-the-human-brain-7",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp\">Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+      "category": "breakthrough",
+      "publishedAt": "2026-10-26",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp\">Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
+        ],
+        [
+          "p",
+          "来源：Google AI Blog。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "8",
+      "slug": "openai-announces-three-big-science-discoveries-and-8",
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's d",
+      "category": "model-release",
+      "publishedAt": "2026-10-26",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's d"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "9",
+      "slug": "anthropic-is-burning-gas-to-feed-the-ai-boom-9",
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In document",
+      "category": "industry",
+      "publishedAt": "2026-10-26",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In document"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "10",
+      "slug": "the-realreal-won-t-let-ai-agents-hog-designer-clot-10",
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could",
+      "category": "industry",
+      "publishedAt": "2026-10-26",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "11",
+      "slug": "five-weird-details-from-anthropic-s-ipo-filing-11",
+      "title": "Five weird details from Anthropic’s IPO filing",
+      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that coul",
+      "category": "industry",
+      "publishedAt": "2026-10-26",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that coul"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "12",
+      "slug": "microsoft-offers-buyouts-to-60-000-employees-12",
+      "title": "Microsoft offers buyouts to 60,000 employees",
+      "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Mic",
+      "category": "industry",
+      "publishedAt": "2026-10-26",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Mic"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "13",
+      "slug": "at-new-york-climate-week-2026-mit-connects-with-a--13",
+      "title": "At New York Climate Week 2026, MIT connects with a global network",
+      "summary": "A cross-section of the MIT community convened discussions on topics ranging from data centers and super pollutants to agriculture and education.",
+      "category": "breakthrough",
+      "publishedAt": "2026-10-26",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "A cross-section of the MIT community convened discussions on topics ranging from data centers and super pollutants to agriculture and education."
+        ],
+        [
+          "p",
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "14",
+      "slug": "grok-releases-the-first-seven-minutes-of-its-ai-ge-14",
       "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
       "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
       "category": "industry",
@@ -54,197 +287,8 @@
       ]
     },
     {
-      "id": "4",
-      "slug": "ai-delivers-zero-financial-payoff-to-most-companie-4",
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-      "category": "industry",
-      "publishedAt": "2026-10-25",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "5",
-      "slug": "the-hottest-ai-wearables-and-gadgets-you-should-kn-5",
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-      "category": "industry",
-      "publishedAt": "2026-10-25",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "6",
-      "slug": "r-opensource-just-banned-ai-non-english-speakers-a-6",
-      "title": "r/opensource just banned AI, non-English speakers, and more",
-      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on ",
-      "category": "open-source",
-      "publishedAt": "2026-10-25",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on "
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "7",
-      "slug": "google-s-ai-search-changes-upended-online-publishi-7",
-      "title": "Google’s AI search changes upended online publishing",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The S",
-      "category": "industry",
-      "publishedAt": "2026-10-25",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The S"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "8",
-      "slug": "the-ai-graveyard-a-running-list-of-projects-and-st-8",
-      "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "category": "industry",
-      "publishedAt": "2026-10-24",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "9",
-      "slug": "block-8217-s-new-voice-model-sounds-eerily-human-9",
-      "title": "Block&#8217;s new voice model sounds eerily human",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
-      "category": "industry",
-      "publishedAt": "2026-10-24",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Block said that the voice model can run locally on a MacBook M4 Max"
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "10",
-      "slug": "blue-planet-iii-is-keeping-the-rough-edges-in-the--10",
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. B",
-      "category": "industry",
-      "publishedAt": "2026-10-24",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. B"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "11",
-      "slug": "pennsylvania-will-require-labels-on-ai-generated-a-11",
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - ",
-      "category": "industry",
-      "publishedAt": "2026-10-24",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - "
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "12",
-      "slug": "openai-now-trains-its-frontier-ai-models-with-no-i-12",
-      "title": "OpenAI now trains its frontier AI models with no internet access",
-      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexe",
-      "category": "industry",
-      "publishedAt": "2026-10-23",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexe"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "13",
-      "slug": "at-mit-martha-minow-speaks-on-sustaining-democracy-13",
+      "id": "15",
+      "slug": "at-mit-martha-minow-speaks-on-sustaining-democracy-15",
       "title": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
       "summary": "In Compton Lecture, the distinguished legal scholar warns of potential “loss of the Enlightenment” while suggesting ways innovations can meet our civic and cultural needs.",
       "category": "breakthrough",
@@ -264,8 +308,8 @@
       ]
     },
     {
-      "id": "14",
-      "slug": "reinforcing-the-value-of-human-understanding-at-mi-14",
+      "id": "16",
+      "slug": "reinforcing-the-value-of-human-understanding-at-mi-16",
       "title": "Reinforcing the value of human understanding at MIT",
       "summary": "During the School of Humanities, Arts, and Social Sciences’ 75th Anniversary Symposium, President Sally Kornbluth said “MIT has never needed your particular insight and guidance more than we do now.”",
       "category": "breakthrough",
@@ -277,48 +321,6 @@
         [
           "p",
           "During the School of Humanities, Arts, and Social Sciences’ 75th Anniversary Symposium, President Sally Kornbluth said “MIT has never needed your particular insight and guidance more than we do now.”"
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "15",
-      "slug": "q-a-how-ai-came-to-model-the-messy-human-mind-15",
-      "title": "Q&A: How AI came to model the “messy” human mind",
-      "summary": "Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate.",
-      "category": "breakthrough",
-      "publishedAt": "2026-10-23",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "16",
-      "slug": "this-design-software-reimagines-everyday-objects-a-16",
-      "title": "This design software reimagines everyday objects as self-aware devices",
-      "summary": "“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact.",
-      "category": "breakthrough",
-      "publishedAt": "2026-10-22",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact."
         ],
         [
           "p",
