@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-27T02:30:18.107Z",
-  "builtAt": "2026-10-27T02:30:18.107Z",
+  "updatedAt": "2026-10-28T02:38:36.494Z",
+  "builtAt": "2026-10-28T02:38:36.494Z",
   "stale": false,
   "boards": [
     {
@@ -10,72 +10,72 @@
       "source": "Artificial Analysis 智能指数",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "智能指数",
-      "updatedAt": "2026-10-27T02:30:18.107Z",
+      "updatedAt": "2026-10-28T02:38:36.494Z",
       "stale": false,
       "entries": [
         {
           "rank": 1,
           "model": "Claude Opus 5.5 (max with fallback)",
           "company": "Anthropic",
-          "score": 57.6223698102963,
-          "displayScore": "57.6",
+          "score": 58.4060336078904,
+          "displayScore": "58.4",
           "barPct": 100
         },
         {
           "rank": 2,
-          "model": "Claude Sonnet 5.5 (max with fallback)",
-          "company": "Anthropic",
-          "score": 56.0001286580794,
-          "displayScore": "56.0",
+          "model": "GPT-6 Astra (max)",
+          "company": "OpenAI",
+          "score": 56.8538559596797,
+          "displayScore": "56.9",
           "barPct": 97
         },
         {
           "rank": 3,
-          "model": "Muse Wonder Full (max)",
-          "company": "Meta",
-          "score": 55.8021199855616,
-          "displayScore": "55.8",
-          "barPct": 97
-        },
-        {
-          "rank": 4,
-          "model": "Kimi K3.1 Pro",
-          "company": "Kimi",
-          "score": 55.0869210959395,
-          "displayScore": "55.1",
-          "barPct": 96
-        },
-        {
-          "rank": 5,
-          "model": "Claude Fable 5.1 (max with fallback)",
-          "company": "Anthropic",
-          "score": 53.3549259623252,
-          "displayScore": "53.4",
+          "model": "GPT-6.1 Sol (max)",
+          "company": "OpenAI",
+          "score": 54.5087338138148,
+          "displayScore": "54.5",
           "barPct": 93
         },
         {
-          "rank": 6,
-          "model": "GPT-6 Astra (max)",
+          "rank": 4,
+          "model": "Claude Sonnet 5.5 (max with fallback)",
+          "company": "Anthropic",
+          "score": 54.24133407109,
+          "displayScore": "54.2",
+          "barPct": 93
+        },
+        {
+          "rank": 5,
+          "model": "GPT-6.1 Terra (max)",
           "company": "OpenAI",
-          "score": 52.673669395513,
-          "displayScore": "52.7",
-          "barPct": 91
+          "score": 50.9765188577015,
+          "displayScore": "51.0",
+          "barPct": 87
+        },
+        {
+          "rank": 6,
+          "model": "Gemini 4 Argon (high)",
+          "company": "Google",
+          "score": 50.4121935905389,
+          "displayScore": "50.4",
+          "barPct": 86
         },
         {
           "rank": 7,
-          "model": "Gemini 4 Argon (high)",
-          "company": "Google",
-          "score": 52.5605655745982,
-          "displayScore": "52.6",
-          "barPct": 91
+          "model": "Muse Wonder Full (max)",
+          "company": "Meta",
+          "score": 49.7272123627021,
+          "displayScore": "49.7",
+          "barPct": 85
         },
         {
           "rank": 8,
-          "model": "Muse Wonder (max)",
-          "company": "Meta",
-          "score": 52.393894697293,
-          "displayScore": "52.4",
-          "barPct": 91
+          "model": "Claude Fable 5.1 (max with fallback)",
+          "company": "Anthropic",
+          "score": 49.0102124158081,
+          "displayScore": "49.0",
+          "barPct": 84
         }
       ]
     },
@@ -86,72 +86,72 @@
       "source": "Artificial Analysis 智能指数（近似）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "智能指数",
-      "updatedAt": "2026-10-27T02:30:18.107Z",
+      "updatedAt": "2026-10-28T02:38:36.494Z",
       "stale": false,
       "entries": [
         {
           "rank": 1,
           "model": "Claude Opus 5.5 (max with fallback)",
           "company": "Anthropic",
-          "score": 57.6223698102963,
-          "displayScore": "57.6",
+          "score": 58.4060336078904,
+          "displayScore": "58.4",
           "barPct": 100
         },
         {
           "rank": 2,
-          "model": "Claude Sonnet 5.5 (max with fallback)",
-          "company": "Anthropic",
-          "score": 56.0001286580794,
-          "displayScore": "56.0",
+          "model": "GPT-6 Astra (max)",
+          "company": "OpenAI",
+          "score": 56.8538559596797,
+          "displayScore": "56.9",
           "barPct": 97
         },
         {
           "rank": 3,
-          "model": "Muse Wonder Full (max)",
-          "company": "Meta",
-          "score": 55.8021199855616,
-          "displayScore": "55.8",
-          "barPct": 97
-        },
-        {
-          "rank": 4,
-          "model": "Kimi K3.1 Pro",
-          "company": "Kimi",
-          "score": 55.0869210959395,
-          "displayScore": "55.1",
-          "barPct": 96
-        },
-        {
-          "rank": 5,
-          "model": "Claude Fable 5.1 (max with fallback)",
-          "company": "Anthropic",
-          "score": 53.3549259623252,
-          "displayScore": "53.4",
+          "model": "GPT-6.1 Sol (max)",
+          "company": "OpenAI",
+          "score": 54.5087338138148,
+          "displayScore": "54.5",
           "barPct": 93
         },
         {
-          "rank": 6,
-          "model": "GPT-6 Astra (max)",
+          "rank": 4,
+          "model": "Claude Sonnet 5.5 (max with fallback)",
+          "company": "Anthropic",
+          "score": 54.24133407109,
+          "displayScore": "54.2",
+          "barPct": 93
+        },
+        {
+          "rank": 5,
+          "model": "GPT-6.1 Terra (max)",
           "company": "OpenAI",
-          "score": 52.673669395513,
-          "displayScore": "52.7",
-          "barPct": 91
+          "score": 50.9765188577015,
+          "displayScore": "51.0",
+          "barPct": 87
+        },
+        {
+          "rank": 6,
+          "model": "Gemini 4 Argon (high)",
+          "company": "Google",
+          "score": 50.4121935905389,
+          "displayScore": "50.4",
+          "barPct": 86
         },
         {
           "rank": 7,
-          "model": "Gemini 4 Argon (high)",
-          "company": "Google",
-          "score": 52.5605655745982,
-          "displayScore": "52.6",
-          "barPct": 91
+          "model": "Muse Wonder Full (max)",
+          "company": "Meta",
+          "score": 49.7272123627021,
+          "displayScore": "49.7",
+          "barPct": 85
         },
         {
           "rank": 8,
-          "model": "Muse Wonder (max)",
-          "company": "Meta",
-          "score": 52.393894697293,
-          "displayScore": "52.4",
-          "barPct": 91
+          "model": "Claude Fable 5.1 (max with fallback)",
+          "company": "Anthropic",
+          "score": 49.0102124158081,
+          "displayScore": "49.0",
+          "barPct": 84
         }
       ],
       "approx": true
@@ -163,7 +163,7 @@
       "source": "Artificial Analysis（FrontierCode）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "FrontierCode",
-      "updatedAt": "2026-10-27T02:30:18.107Z",
+      "updatedAt": "2026-10-28T02:38:36.494Z",
       "stale": false,
       "entries": [
         {
@@ -239,7 +239,7 @@
       "source": "Artificial Analysis（GPQA）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "GPQA",
-      "updatedAt": "2026-10-27T02:30:18.107Z",
+      "updatedAt": "2026-10-28T02:38:36.494Z",
       "stale": false,
       "entries": [
         {
