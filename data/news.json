@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-28T02:38:36.037Z",
-  "builtAt": "2026-10-28T02:38:36.037Z",
+  "updatedAt": "2026-10-29T02:57:57.029Z",
+  "builtAt": "2026-10-29T02:57:57.029Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -34,39 +34,41 @@
     },
     {
       "id": "3",
-      "slug": "vcs-will-make-billions-on-anthropic-8217-s-ipo-but-3",
-      "title": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more",
-      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-      "category": "industry",
+      "slug": "google-launches-gemini-4-carbon-with-a-significant-3",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "summary": "Gemini 3 相关动态：Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intell",
+      "category": "model-release",
       "publishedAt": "2026-10-28",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "relatedModels": [],
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "relatedModels": [
+        "gemini-3"
+      ],
       "content": [
         [
           "p",
-          "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
+          "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intell"
         ],
         [
           "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "4",
-      "slug": "parents-sue-openai-alleging-gpt-4o-coached-their-d-4",
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-      "category": "model-release",
-      "publishedAt": "2026-10-27",
+      "slug": "microsoft-just-shared-azure-8217-s-actual-revenue--4",
+      "title": "Microsoft just shared Azure&#8217;s actual revenue in dollars: $33.2 billion",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "category": "industry",
+      "publishedAt": "2026-10-28",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February."
+          "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
         ],
         [
           "p",
@@ -76,18 +78,18 @@
     },
     {
       "id": "5",
-      "slug": "the-data-center-boom-has-an-upside-innovation-for--5",
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "slug": "google-expands-ai-search-ads-globally-as-core-ad-g-5",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
       "category": "industry",
-      "publishedAt": "2026-10-27",
+      "publishedAt": "2026-10-28",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say."
+          "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion."
         ],
         [
           "p",
@@ -97,18 +99,18 @@
     },
     {
       "id": "6",
-      "slug": "bank-of-america-kindly-asks-that-you-don-8217-t-sh-6",
-      "title": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
-      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "slug": "microsoft-recorded-10-billion-in-revenue-from-open-6",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
       "category": "industry",
-      "publishedAt": "2026-10-27",
+      "publishedAt": "2026-10-28",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access."
+          "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership."
         ],
         [
           "p",
@@ -118,18 +120,18 @@
     },
     {
       "id": "7",
-      "slug": "who-8217-s-really-in-charge-at-anthropic-after-the-7",
-      "title": "Who&#8217;s really in charge at Anthropic after the IPO?",
-      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "slug": "microsoft-hits-10-quarters-of-record-breaking-reve-7",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
       "category": "industry",
-      "publishedAt": "2026-10-27",
+      "publishedAt": "2026-10-28",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Here's a clear explanation of Anthropic's incredibly complex governance structure."
+          "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter."
         ],
         [
           "p",
@@ -139,39 +141,39 @@
     },
     {
       "id": "8",
-      "slug": "researchers-are-getting-tired-of-openai-gatekeepin-8",
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, research",
+      "slug": "anthropic-just-launched-tools-to-show-companies-wh-8",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
       "category": "industry",
-      "publishedAt": "2026-10-27",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "publishedAt": "2026-10-28",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, research"
+          "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
         ],
         [
           "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "9",
-      "slug": "visionquest-is-what-happens-when-ai-really-goes-ro-9",
-      "title": "VisionQuest is what happens when AI really goes rogue",
-      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fan",
+      "slug": "adam-mosseri-says-negativity-around-ai-is-going-to-9",
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Ap",
       "category": "industry",
-      "publishedAt": "2026-10-27",
+      "publishedAt": "2026-10-28",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fan"
+          "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Ap"
         ],
         [
           "p",
@@ -181,18 +183,18 @@
     },
     {
       "id": "10",
-      "slug": "anthropic-s-elaborate-plan-to-keep-wall-street-at--10",
-      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But grea",
-      "category": "industry",
-      "publishedAt": "2026-10-27",
+      "slug": "akai-is-embracing-vibe-coded-mods-with-an-open-sou-10",
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by givin",
+      "category": "open-source",
+      "publishedAt": "2026-10-28",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "sourceUrl": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But grea"
+          "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by givin"
         ],
         [
           "p",
@@ -202,18 +204,18 @@
     },
     {
       "id": "11",
-      "slug": "firefox-s-smart-window-adds-ai-form-filling-and-we-11",
-      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online",
+      "slug": "microsoft-is-ending-copilot-support-on-smart-tvs-11",
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a rep",
       "category": "industry",
-      "publishedAt": "2026-10-27",
+      "publishedAt": "2026-10-28",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "sourceUrl": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online"
+          "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a rep"
         ],
         [
           "p",
@@ -223,18 +225,18 @@
     },
     {
       "id": "12",
-      "slug": "google-s-next-genie-ai-model-generates-more-realis-12",
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natur",
+      "slug": "chrome-s-enhanced-autofill-can-now-pull-info-from--12",
+      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+      "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expand",
       "category": "industry",
-      "publishedAt": "2026-10-27",
+      "publishedAt": "2026-10-28",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "sourceUrl": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natur"
+          "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expand"
         ],
         [
           "p",
@@ -244,7 +246,49 @@
     },
     {
       "id": "13",
-      "slug": "learner-collaborates-with-mit-peers-to-develop-boo-13",
+      "slug": "3-questions-why-infrastructure-is-entering-a-defin-13",
+      "title": "3 Questions: Why infrastructure is entering a defining era",
+      "summary": "Professor Ali Jadbabaie describes how AI, digital transformation, climate change, and complex geopolitics are forcing engineers and policymakers to rethink how infrastructure is designed, built, and managed.",
+      "category": "breakthrough",
+      "publishedAt": "2026-10-28",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Professor Ali Jadbabaie describes how AI, digital transformation, climate change, and complex geopolitics are forcing engineers and policymakers to rethink how infrastructure is designed, built, and managed."
+        ],
+        [
+          "p",
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "14",
+      "slug": "making-machines-that-can-listen-14",
+      "title": "Making machines that can listen",
+      "summary": "Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring.",
+      "category": "breakthrough",
+      "publishedAt": "2026-10-28",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring."
+        ],
+        [
+          "p",
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "15",
+      "slug": "learner-collaborates-with-mit-peers-to-develop-boo-15",
       "title": "Learner collaborates with MIT peers to develop book of AI insights",
       "summary": "Prabha Jha used her experience with MIT Open Learning’s program for senior executives to develop AI solutions for her employer, Verizon, and to write a book.",
       "category": "breakthrough",
@@ -264,8 +308,8 @@
       ]
     },
     {
-      "id": "14",
-      "slug": "our-newest-ai-quest-mapping-the-human-brain-14",
+      "id": "16",
+      "slug": "our-newest-ai-quest-mapping-the-human-brain-16",
       "title": "Our newest AI Quest: Mapping the human brain",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp\">Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
       "category": "breakthrough",
@@ -281,48 +325,6 @@
         [
           "p",
           "来源：Google AI Blog。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "15",
-      "slug": "at-new-york-climate-week-2026-mit-connects-with-a--15",
-      "title": "At New York Climate Week 2026, MIT connects with a global network",
-      "summary": "A cross-section of the MIT community convened discussions on topics ranging from data centers and super pollutants to agriculture and education.",
-      "category": "breakthrough",
-      "publishedAt": "2026-10-26",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "A cross-section of the MIT community convened discussions on topics ranging from data centers and super pollutants to agriculture and education."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "16",
-      "slug": "at-mit-martha-minow-speaks-on-sustaining-democracy-16",
-      "title": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
-      "summary": "In Compton Lecture, the distinguished legal scholar warns of potential “loss of the Enlightenment” while suggesting ways innovations can meet our civic and cultural needs.",
-      "category": "breakthrough",
-      "publishedAt": "2026-10-23",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "In Compton Lecture, the distinguished legal scholar warns of potential “loss of the Enlightenment” while suggesting ways innovations can meet our civic and cultural needs."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     }
