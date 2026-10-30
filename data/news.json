@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-29T02:57:57.029Z",
-  "builtAt": "2026-10-29T02:57:57.029Z",
+  "updatedAt": "2026-10-30T03:02:24.768Z",
+  "builtAt": "2026-10-30T03:02:24.768Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -11,43 +11,20 @@
   "items": [
     {
       "id": "2",
-      "slug": "openai-expands-partnership-with-oracle-to-bring-it-2",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "summary": "GPT-5.5 相关动态：OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "slug": "you-can-generate-and-edit-google-docs-files-direct-2",
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "summary": "Gemini 3 相关动态：Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, a",
       "category": "model-release",
-      "publishedAt": "2026-10-27",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "relatedModels": [
-        "gpt-5-5"
-      ],
-      "content": [
-        [
-          "p",
-          "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
-        ],
-        [
-          "p",
-          "来源：OpenAI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "3",
-      "slug": "google-launches-gemini-4-carbon-with-a-significant-3",
-      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "summary": "Gemini 3 相关动态：Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intell",
-      "category": "model-release",
-      "publishedAt": "2026-10-28",
+      "publishedAt": "2026-10-29",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
       "relatedModels": [
         "gemini-3"
       ],
       "content": [
         [
           "p",
-          "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intell"
+          "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, a"
         ],
         [
           "p",
@@ -56,19 +33,40 @@
       ]
     },
     {
-      "id": "4",
-      "slug": "microsoft-just-shared-azure-8217-s-actual-revenue--4",
-      "title": "Microsoft just shared Azure&#8217;s actual revenue in dollars: $33.2 billion",
-      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "id": "3",
+      "slug": "you-don-8217-t-need-to-believe-in-a-god-to-get-a-r-3",
+      "title": "You don&#8217;t need to believe in a god to get a religious exemption from using AI at work",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
       "category": "industry",
-      "publishedAt": "2026-10-28",
+      "publishedAt": "2026-10-30",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
+          "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "4",
+      "slug": "aws-will-be-a-1t-business-jassy-says-but-first-it--4",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "category": "industry",
+      "publishedAt": "2026-10-29",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday."
         ],
         [
           "p",
@@ -78,18 +76,18 @@
     },
     {
       "id": "5",
-      "slug": "google-expands-ai-search-ads-globally-as-core-ad-g-5",
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-      "category": "industry",
-      "publishedAt": "2026-10-28",
+      "slug": "as-search-traffic-dries-up-reddit-announces-it-821-5",
+      "title": "As search traffic dries up, Reddit announces it&#8217;s shifting to a logged-in experience",
+      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "category": "model-release",
+      "publishedAt": "2026-10-29",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion."
+          "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business."
         ],
         [
           "p",
@@ -99,18 +97,18 @@
     },
     {
       "id": "6",
-      "slug": "microsoft-recorded-10-billion-in-revenue-from-open-6",
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "slug": "rivian-expands-joint-venture-with-vw-to-include-ai-6",
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
       "category": "industry",
-      "publishedAt": "2026-10-28",
+      "publishedAt": "2026-10-29",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership."
+          "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result."
         ],
         [
           "p",
@@ -120,18 +118,18 @@
     },
     {
       "id": "7",
-      "slug": "microsoft-hits-10-quarters-of-record-breaking-reve-7",
-      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+      "slug": "openai-backed-thrive-holdings-acquires-adt-7",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
       "category": "industry",
-      "publishedAt": "2026-10-28",
+      "publishedAt": "2026-10-29",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter."
+          "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business."
         ],
         [
           "p",
@@ -141,39 +139,39 @@
     },
     {
       "id": "8",
-      "slug": "anthropic-just-launched-tools-to-show-companies-wh-8",
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "slug": "microsoft-s-ai-future-has-fewer-jobs-8",
+      "title": "Microsoft’s AI future has fewer jobs",
+      "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft i",
       "category": "industry",
-      "publishedAt": "2026-10-28",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "publishedAt": "2026-10-29",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
+          "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft i"
         ],
         [
           "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "9",
-      "slug": "adam-mosseri-says-negativity-around-ai-is-going-to-9",
-      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Ap",
+      "slug": "the-nyt-cooking-app-is-testing-ai-recipe-modificat-9",
+      "title": "The NYT Cooking app is testing AI recipe modifications",
+      "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used t",
       "category": "industry",
-      "publishedAt": "2026-10-28",
+      "publishedAt": "2026-10-29",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Ap"
+          "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used t"
         ],
         [
           "p",
@@ -183,18 +181,18 @@
     },
     {
       "id": "10",
-      "slug": "akai-is-embracing-vibe-coded-mods-with-an-open-sou-10",
-      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
-      "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by givin",
-      "category": "open-source",
-      "publishedAt": "2026-10-28",
+      "slug": "anthropic-is-asking-wall-street-to-believe-in-agi-10",
+      "title": "Anthropic is asking Wall Street to believe in AGI",
+      "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-",
+      "category": "industry",
+      "publishedAt": "2026-10-29",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "sourceUrl": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by givin"
+          "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-"
         ],
         [
           "p",
@@ -204,18 +202,18 @@
     },
     {
       "id": "11",
-      "slug": "microsoft-is-ending-copilot-support-on-smart-tvs-11",
-      "title": "Microsoft is ending Copilot support on smart TVs",
-      "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a rep",
+      "slug": "anthropic-s-business-plan-build-god-or-die-trying-11",
+      "title": "Anthropic’s business plan: Build God or die trying",
+      "summary": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while",
       "category": "industry",
-      "publishedAt": "2026-10-28",
+      "publishedAt": "2026-10-29",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a rep"
+          "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while"
         ],
         [
           "p",
@@ -225,28 +223,7 @@
     },
     {
       "id": "12",
-      "slug": "chrome-s-enhanced-autofill-can-now-pull-info-from--12",
-      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-      "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expand",
-      "category": "industry",
-      "publishedAt": "2026-10-28",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expand"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "13",
-      "slug": "3-questions-why-infrastructure-is-entering-a-defin-13",
+      "slug": "3-questions-why-infrastructure-is-entering-a-defin-12",
       "title": "3 Questions: Why infrastructure is entering a defining era",
       "summary": "Professor Ali Jadbabaie describes how AI, digital transformation, climate change, and complex geopolitics are forcing engineers and policymakers to rethink how infrastructure is designed, built, and managed.",
       "category": "breakthrough",
@@ -266,8 +243,8 @@
       ]
     },
     {
-      "id": "14",
-      "slug": "making-machines-that-can-listen-14",
+      "id": "13",
+      "slug": "making-machines-that-can-listen-13",
       "title": "Making machines that can listen",
       "summary": "Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring.",
       "category": "breakthrough",
@@ -287,8 +264,8 @@
       ]
     },
     {
-      "id": "15",
-      "slug": "learner-collaborates-with-mit-peers-to-develop-boo-15",
+      "id": "14",
+      "slug": "learner-collaborates-with-mit-peers-to-develop-boo-14",
       "title": "Learner collaborates with MIT peers to develop book of AI insights",
       "summary": "Prabha Jha used her experience with MIT Open Learning’s program for senior executives to develop AI solutions for her employer, Verizon, and to write a book.",
       "category": "breakthrough",
@@ -308,8 +285,8 @@
       ]
     },
     {
-      "id": "16",
-      "slug": "our-newest-ai-quest-mapping-the-human-brain-16",
+      "id": "15",
+      "slug": "our-newest-ai-quest-mapping-the-human-brain-15",
       "title": "Our newest AI Quest: Mapping the human brain",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp\">Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
       "category": "breakthrough",

@@ -1,12 +1,33 @@
 {
-  "updatedAt": "2026-10-29T02:57:57.224Z",
-  "builtAt": "2026-10-29T02:57:57.224Z",
+  "updatedAt": "2026-10-30T03:02:24.891Z",
+  "builtAt": "2026-10-30T03:02:24.891Z",
   "stale": false,
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/models",
   "items": [
     {
       "id": "1",
+      "slug": "mistral-large-4",
+      "name": "Mistral Large 4 (high)",
+      "company": "Mistral",
+      "openWeights": true,
+      "contextLength": "1M",
+      "releaseDate": "2026-10",
+      "description": "Mistral 开源大模型，2026-10 发布，上下文 1M tokens，Artificial Analysis 智能指数 26.0。",
+      "features": [
+        "1050B 总参数 / 52B 激活参数",
+        "智能指数 26.0",
+        "支持深度推理模式",
+        "输入 $0.7 / 1M tokens，输出 $2.1",
+        "开源权重"
+      ],
+      "modalities": [
+        "文本",
+        "图像"
+      ]
+    },
+    {
+      "id": "2",
       "slug": "gemini-4-carbon",
       "name": "Gemini 4 Carbon (high)",
       "company": "Google",
@@ -28,7 +49,7 @@
       ]
     },
     {
-      "id": "2",
+      "id": "3",
       "slug": "gpt-6-1-terra",
       "name": "GPT-6.1 Terra (max)",
       "company": "OpenAI",
@@ -48,7 +69,7 @@
       ]
     },
     {
-      "id": "3",
+      "id": "4",
       "slug": "kimi-k3-1-pro",
       "name": "Kimi K3.1 Pro",
       "company": "Kimi",
@@ -69,7 +90,7 @@
       ]
     },
     {
-      "id": "4",
+      "id": "5",
       "slug": "ling-3-1-flash-1019",
       "name": "Ling 3.1 Flash 1019",
       "company": "InclusionAI",
@@ -89,7 +110,7 @@
       ]
     },
     {
-      "id": "5",
+      "id": "6",
       "slug": "minimax-m3-1-flash",
       "name": "MiniMax-M3.1-Flash",
       "company": "MiniMax",
@@ -110,7 +131,7 @@
       ]
     },
     {
-      "id": "6",
+      "id": "7",
       "slug": "deepseek-v4-1-flash-1017",
       "name": "DeepSeek V4.1 Flash 1017 (max)",
       "company": "DeepSeek",
@@ -131,7 +152,7 @@
       ]
     },
     {
-      "id": "7",
+      "id": "8",
       "slug": "reflection-beam",
       "name": "Beam 1.0",
       "company": "Reflection",
@@ -151,7 +172,7 @@
       ]
     },
     {
-      "id": "8",
+      "id": "9",
       "slug": "muse-spark-open",
       "name": "Muse Spark Open (xhigh)",
       "company": "Meta",
@@ -174,7 +195,7 @@
       ]
     },
     {
-      "id": "9",
+      "id": "10",
       "slug": "nemotron-3-5-super-vl",
       "name": "Nemotron 3.5 Super VL",
       "company": "NVIDIA",
@@ -195,7 +216,7 @@
       ]
     },
     {
-      "id": "10",
+      "id": "11",
       "slug": "muse-wonder-full",
       "name": "Muse Wonder Full (max)",
       "company": "Meta",
@@ -216,7 +237,7 @@
       ]
     },
     {
-      "id": "11",
+      "id": "12",
       "slug": "muse-wonder",
       "name": "Muse Wonder (max)",
       "company": "Meta",
@@ -238,7 +259,7 @@
       ]
     },
     {
-      "id": "12",
+      "id": "13",
       "slug": "claude-haiku-5-5",
       "name": "Claude Haiku 5.5 (max)",
       "company": "Anthropic",
@@ -250,27 +271,6 @@
         "智能指数 36.2",
         "支持深度推理模式",
         "输入 $0.1 / 1M tokens，输出 $0.5",
-        "闭源商用"
-      ],
-      "modalities": [
-        "文本",
-        "图像"
-      ]
-    },
-    {
-      "id": "13",
-      "slug": "mistral-large-4",
-      "name": "Mistral Large 4 Preview",
-      "company": "Mistral",
-      "openWeights": false,
-      "contextLength": "524K",
-      "releaseDate": "2026-10",
-      "description": "Mistral 闭源大模型，2026-10 发布，上下文 524K tokens，Artificial Analysis 智能指数 25.3。",
-      "features": [
-        "1000B 总参数 / 49B 激活参数",
-        "智能指数 25.3",
-        "支持深度推理模式",
-        "输入 $1.36 / 1M tokens，输出 $4.18",
         "闭源商用"
       ],
       "modalities": [

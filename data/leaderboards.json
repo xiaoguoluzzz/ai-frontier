@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-29T02:57:57.223Z",
-  "builtAt": "2026-10-29T02:57:57.223Z",
+  "updatedAt": "2026-10-30T03:02:24.890Z",
+  "builtAt": "2026-10-30T03:02:24.890Z",
   "stale": false,
   "boards": [
     {
@@ -10,7 +10,7 @@
       "source": "Artificial Analysis 智能指数",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "智能指数",
-      "updatedAt": "2026-10-29T02:57:57.223Z",
+      "updatedAt": "2026-10-30T03:02:24.890Z",
       "stale": false,
       "entries": [
         {
@@ -86,7 +86,7 @@
       "source": "Artificial Analysis 智能指数（近似）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "智能指数",
-      "updatedAt": "2026-10-29T02:57:57.223Z",
+      "updatedAt": "2026-10-30T03:02:24.890Z",
       "stale": false,
       "entries": [
         {
@@ -163,7 +163,7 @@
       "source": "Artificial Analysis（FrontierCode）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "FrontierCode",
-      "updatedAt": "2026-10-29T02:57:57.223Z",
+      "updatedAt": "2026-10-30T03:02:24.890Z",
       "stale": false,
       "entries": [
         {
@@ -239,7 +239,7 @@
       "source": "Artificial Analysis（GPQA）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "GPQA",
-      "updatedAt": "2026-10-29T02:57:57.223Z",
+      "updatedAt": "2026-10-30T03:02:24.890Z",
       "stale": false,
       "entries": [
         {
