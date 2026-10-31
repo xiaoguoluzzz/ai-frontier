@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T03:02:24.891Z",
-  "builtAt": "2026-10-30T03:02:24.891Z",
+  "updatedAt": "2026-10-31T02:49:15.204Z",
+  "builtAt": "2026-10-31T02:49:15.204Z",
   "stale": false,
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/models",
@@ -207,7 +207,7 @@
         "120B 总参数 / 12B 激活参数",
         "智能指数 13.6",
         "支持深度推理模式",
-        "输入 $0.225 / 1M tokens，输出 $0.575",
+        "输入 $0.2 / 1M tokens，输出 $0.5",
         "开源权重"
       ],
       "modalities": [

@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T03:02:24.890Z",
-  "builtAt": "2026-10-30T03:02:24.890Z",
+  "updatedAt": "2026-10-31T02:49:15.202Z",
+  "builtAt": "2026-10-31T02:49:15.202Z",
   "stale": false,
   "boards": [
     {
@@ -10,7 +10,7 @@
       "source": "Artificial Analysis 智能指数",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "智能指数",
-      "updatedAt": "2026-10-30T03:02:24.890Z",
+      "updatedAt": "2026-10-31T02:49:15.202Z",
       "stale": false,
       "entries": [
         {
@@ -86,7 +86,7 @@
       "source": "Artificial Analysis 智能指数（近似）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "智能指数",
-      "updatedAt": "2026-10-30T03:02:24.890Z",
+      "updatedAt": "2026-10-31T02:49:15.202Z",
       "stale": false,
       "entries": [
         {
@@ -163,7 +163,7 @@
       "source": "Artificial Analysis（FrontierCode）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "FrontierCode",
-      "updatedAt": "2026-10-30T03:02:24.890Z",
+      "updatedAt": "2026-10-31T02:49:15.202Z",
       "stale": false,
       "entries": [
         {
@@ -192,14 +192,6 @@
         },
         {
           "rank": 4,
-          "model": "Gemini 4 Carbon (high)",
-          "company": "Google",
-          "score": 0.485231333333333,
-          "displayScore": "48.5%",
-          "barPct": 93
-        },
-        {
-          "rank": 5,
           "model": "Kimi K3.1 Pro",
           "company": "Kimi",
           "score": 0.470664,
@@ -207,7 +199,7 @@
           "barPct": 90
         },
         {
-          "rank": 6,
+          "rank": 5,
           "model": "GPT-6 Astra (max)",
           "company": "OpenAI",
           "score": 0.469827666666667,
@@ -215,7 +207,7 @@
           "barPct": 90
         },
         {
-          "rank": 7,
+          "rank": 6,
           "model": "Muse Wonder (max)",
           "company": "Meta",
           "score": 0.464713333333333,
@@ -223,12 +215,20 @@
           "barPct": 89
         },
         {
-          "rank": 8,
+          "rank": 7,
           "model": "Claude Sonnet 5.5 (max with fallback)",
           "company": "Anthropic",
           "score": 0.458291333333333,
           "displayScore": "45.8%",
           "barPct": 88
+        },
+        {
+          "rank": 8,
+          "model": "MiMo-V2.6-Pro",
+          "company": "Xiaomi",
+          "score": 0.454153333333333,
+          "displayScore": "45.4%",
+          "barPct": 87
         }
       ]
     },
@@ -239,7 +239,7 @@
       "source": "Artificial Analysis（GPQA）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "GPQA",
-      "updatedAt": "2026-10-30T03:02:24.890Z",
+      "updatedAt": "2026-10-31T02:49:15.202Z",
       "stale": false,
       "entries": [
         {
