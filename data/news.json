@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T02:49:14.722Z",
-  "builtAt": "2026-10-31T02:49:14.722Z",
+  "updatedAt": "2026-11-01T02:41:30.700Z",
+  "builtAt": "2026-11-01T02:41:30.700Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -11,7 +11,91 @@
   "items": [
     {
       "id": "2",
-      "slug": "nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-2",
+      "slug": "apple-ceo-says-the-company-doesn-t-want-to-ship-ai-2",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "category": "industry",
+      "publishedAt": "2026-10-31",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Apple's new CEO defended the company's current position in the AI landscape."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "3",
+      "slug": "4-days-left-how-techcrunch-founder-summit-helps-yo-3",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all pric",
+      "category": "industry",
+      "publishedAt": "2026-10-31",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all pric"
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "4",
+      "slug": "judge-allows-naacp-lawsuit-over-xai-data-center-po-4",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "category": "industry",
+      "publishedAt": "2026-10-31",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "5",
+      "slug": "openai-reportedly-lowers-funding-target-for-new-ro-5",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "category": "industry",
+      "publishedAt": "2026-10-31",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "OpenAI’s latest funding round doesn't seem to be living up to expectations."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "6",
+      "slug": "nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-6",
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
       "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
       "category": "industry",
@@ -31,92 +115,29 @@
       ]
     },
     {
-      "id": "3",
-      "slug": "ollie-a-privacy-focused-ai-assistant-is-shutting-d-3",
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-      "category": "industry",
-      "publishedAt": "2026-10-30",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "4",
-      "slug": "intel-8217-s-stock-crashes-knocking-12b-from-gover-4",
-      "title": "Intel&#8217;s stock crashes, knocking $12B from government&#8217;s stake",
-      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-      "category": "industry",
-      "publishedAt": "2026-10-30",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "5",
-      "slug": "anthropic-expected-to-receive-high-8216-junk-8217--5",
-      "title": "Anthropic expected to receive high &#8216;junk&#8217; rating from credit agencies following IPO, FT report says",
-      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-      "category": "industry",
-      "publishedAt": "2026-10-30",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "6",
-      "slug": "last-minute-halloween-costumes-for-tech-nerds-6",
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "category": "industry",
-      "publishedAt": "2026-10-30",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
       "id": "7",
-      "slug": "apple-intelligence-is-finally-coming-to-china-with-7",
+      "slug": "i-built-an-ai-tamagotchi-before-meta-could-7",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, ",
+      "category": "industry",
+      "publishedAt": "2026-10-31",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, "
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "8",
+      "slug": "apple-intelligence-is-finally-coming-to-china-with-8",
       "title": "Apple Intelligence is finally coming to China with iOS 27.3",
       "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch o",
       "category": "industry",
@@ -136,8 +157,8 @@
       ]
     },
     {
-      "id": "8",
-      "slug": "sam-altman-says-it-s-better-for-ram-to-be-in-a-dat-8",
+      "id": "9",
+      "slug": "sam-altman-says-it-s-better-for-ram-to-be-in-a-dat-9",
       "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
       "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where ",
       "category": "industry",
@@ -157,8 +178,8 @@
       ]
     },
     {
-      "id": "9",
-      "slug": "the-biggest-names-in-ai-are-backing-a-new-way-to-o-9",
+      "id": "10",
+      "slug": "the-biggest-names-in-ai-are-backing-a-new-way-to-o-10",
       "title": "The biggest names in AI are backing a new way to opt out of scraping",
       "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI trainin",
       "category": "industry",
@@ -178,8 +199,8 @@
       ]
     },
     {
-      "id": "10",
-      "slug": "google-8217-s-satellite-ai-server-transmits-its-fi-10",
+      "id": "11",
+      "slug": "google-8217-s-satellite-ai-server-transmits-its-fi-11",
       "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
       "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow t",
       "category": "industry",
@@ -191,27 +212,6 @@
         [
           "p",
           "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow t"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "11",
-      "slug": "starbucks-wants-to-use-ai-to-show-you-a-personaliz-11",
-      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participati",
-      "category": "industry",
-      "publishedAt": "2026-10-30",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participati"
         ],
         [
           "p",
