@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-01T02:41:30.700Z",
-  "builtAt": "2026-11-01T02:41:30.700Z",
+  "updatedAt": "2026-11-02T02:50:09.313Z",
+  "builtAt": "2026-11-02T02:50:09.313Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -11,7 +11,49 @@
   "items": [
     {
       "id": "2",
-      "slug": "apple-ceo-says-the-company-doesn-t-want-to-ship-ai-2",
+      "slug": "openai-might-rebrand-its-data-centers-as-ai-comput-2",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "category": "industry",
+      "publishedAt": "2026-11-01",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Data centers are deeply unpopular. But what if we called them something else?"
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "3",
+      "slug": "ai-can-make-tech-ceos-lives-easier-what-about-ever-3",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "category": "industry",
+      "publishedAt": "2026-11-01",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "On Equity, we discuss why tech CEO statements can seem so tone deaf."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "4",
+      "slug": "apple-ceo-says-the-company-doesn-t-want-to-ship-ai-4",
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
       "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
       "category": "industry",
@@ -31,8 +73,8 @@
       ]
     },
     {
-      "id": "3",
-      "slug": "4-days-left-how-techcrunch-founder-summit-helps-yo-3",
+      "id": "5",
+      "slug": "4-days-left-how-techcrunch-founder-summit-helps-yo-5",
       "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
       "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all pric",
       "category": "industry",
@@ -52,8 +94,8 @@
       ]
     },
     {
-      "id": "4",
-      "slug": "judge-allows-naacp-lawsuit-over-xai-data-center-po-4",
+      "id": "6",
+      "slug": "judge-allows-naacp-lawsuit-over-xai-data-center-po-6",
       "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
       "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
       "category": "industry",
@@ -65,48 +107,6 @@
         [
           "p",
           "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "5",
-      "slug": "openai-reportedly-lowers-funding-target-for-new-ro-5",
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "category": "industry",
-      "publishedAt": "2026-10-31",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "OpenAI’s latest funding round doesn't seem to be living up to expectations."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "6",
-      "slug": "nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-6",
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "category": "industry",
-      "publishedAt": "2026-10-31",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
         ],
         [
           "p",
