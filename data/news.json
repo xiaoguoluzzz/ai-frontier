@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-02T02:50:09.313Z",
-  "builtAt": "2026-11-02T02:50:09.313Z",
+  "updatedAt": "2026-11-03T04:07:09.756Z",
+  "builtAt": "2026-11-03T04:07:09.756Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -11,18 +11,18 @@
   "items": [
     {
       "id": "2",
-      "slug": "openai-might-rebrand-its-data-centers-as-ai-comput-2",
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "slug": "google-takes-dreambeans-to-india-in-bid-to-bring-a-2",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
       "category": "industry",
-      "publishedAt": "2026-11-01",
+      "publishedAt": "2026-11-03",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Data centers are deeply unpopular. But what if we called them something else?"
+          "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
         ],
         [
           "p",
@@ -32,18 +32,18 @@
     },
     {
       "id": "3",
-      "slug": "ai-can-make-tech-ceos-lives-easier-what-about-ever-3",
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "slug": "apple-may-try-to-increase-revenue-by-doing-8230-so-3",
+      "title": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
       "category": "industry",
-      "publishedAt": "2026-11-01",
+      "publishedAt": "2026-11-03",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "On Equity, we discuss why tech CEO statements can seem so tone deaf."
+          "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
         ],
         [
           "p",
@@ -53,18 +53,18 @@
     },
     {
       "id": "4",
-      "slug": "apple-ceo-says-the-company-doesn-t-want-to-ship-ai-4",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "slug": "y-combinator-8217-s-garry-tan-uses-ai-agents-so-mu-4",
+      "title": "Y Combinator&#8217;s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan pu",
       "category": "industry",
-      "publishedAt": "2026-10-31",
+      "publishedAt": "2026-11-03",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Apple's new CEO defended the company's current position in the AI landscape."
+          "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan pu"
         ],
         [
           "p",
@@ -74,18 +74,18 @@
     },
     {
       "id": "5",
-      "slug": "4-days-left-how-techcrunch-founder-summit-helps-yo-5",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all pric",
+      "slug": "trajectory-raises-45m-to-make-ai-model-training-ac-5",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "summary": "The one-year-old startup is now valued at $300 million.",
       "category": "industry",
-      "publishedAt": "2026-10-31",
+      "publishedAt": "2026-11-02",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all pric"
+          "The one-year-old startup is now valued at $300 million."
         ],
         [
           "p",
@@ -95,18 +95,18 @@
     },
     {
       "id": "6",
-      "slug": "judge-allows-naacp-lawsuit-over-xai-data-center-po-6",
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "slug": "anthropic-warns-that-it-8217-s-very-close-to-rsi-c-6",
+      "title": "Anthropic warns that it&#8217;s very close to RSI capability, aka self-building AI",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
       "category": "industry",
-      "publishedAt": "2026-10-31",
+      "publishedAt": "2026-11-02",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+          "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
         ],
         [
           "p",
@@ -116,7 +116,133 @@
     },
     {
       "id": "7",
-      "slug": "i-built-an-ai-tamagotchi-before-meta-could-7",
+      "slug": "the-latest-ai-news-we-announced-in-october-2026-7",
+      "title": "The latest AI news we announced in October 2026",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from October 2026",
+      "category": "breakthrough",
+      "publishedAt": "2026-11-02",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from October 2026"
+        ],
+        [
+          "p",
+          "来源：Google AI Blog。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "8",
+      "slug": "anthropic-clamps-down-on-claude-s-ai-video-game-cl-8",
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, ",
+      "category": "model-release",
+      "publishedAt": "2026-11-02",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, "
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "9",
+      "slug": "openai-pitches-data-center-power-plants-as-a-way-t-9",
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emerg",
+      "category": "industry",
+      "publishedAt": "2026-11-02",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emerg"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "10",
+      "slug": "the-new-york-times-sues-brave-web-browser-for-ai-s-10",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. A",
+      "category": "industry",
+      "publishedAt": "2026-11-02",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. A"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "11",
+      "slug": "powering-up-for-a-pivotal-moment-11",
+      "title": "Powering up for a pivotal moment",
+      "summary": "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs.",
+      "category": "breakthrough",
+      "publishedAt": "2026-11-02",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs."
+        ],
+        [
+          "p",
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "12",
+      "slug": "regina-barzilay-and-jim-collins-win-pritzker-prize-12",
+      "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibio",
+      "summary": "The MIT professors collaborated to identify the first AI-discovered antibiotic, a scientific breakthrough that is widely recognized as a milestone in AI-driven drug discovery.",
+      "category": "breakthrough",
+      "publishedAt": "2026-11-02",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The MIT professors collaborated to identify the first AI-discovered antibiotic, a scientific breakthrough that is widely recognized as a milestone in AI-driven drug discovery."
+        ],
+        [
+          "p",
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "13",
+      "slug": "i-built-an-ai-tamagotchi-before-meta-could-13",
       "title": "I built an AI Tamagotchi before Meta could",
       "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, ",
       "category": "industry",
@@ -136,8 +262,8 @@
       ]
     },
     {
-      "id": "8",
-      "slug": "apple-intelligence-is-finally-coming-to-china-with-8",
+      "id": "14",
+      "slug": "apple-intelligence-is-finally-coming-to-china-with-14",
       "title": "Apple Intelligence is finally coming to China with iOS 27.3",
       "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch o",
       "category": "industry",
@@ -157,71 +283,8 @@
       ]
     },
     {
-      "id": "9",
-      "slug": "sam-altman-says-it-s-better-for-ram-to-be-in-a-dat-9",
-      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where ",
-      "category": "industry",
-      "publishedAt": "2026-10-30",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where "
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "10",
-      "slug": "the-biggest-names-in-ai-are-backing-a-new-way-to-o-10",
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI trainin",
-      "category": "industry",
-      "publishedAt": "2026-10-30",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI trainin"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "11",
-      "slug": "google-8217-s-satellite-ai-server-transmits-its-fi-11",
-      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
-      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow t",
-      "category": "industry",
-      "publishedAt": "2026-10-30",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow t"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "12",
-      "slug": "mit-affiliates-named-2026-schmidt-sciences-ai2050--12",
+      "id": "15",
+      "slug": "mit-affiliates-named-2026-schmidt-sciences-ai2050--15",
       "title": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
       "summary": "Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI.",
       "category": "breakthrough",
@@ -233,69 +296,6 @@
         [
           "p",
           "Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "13",
-      "slug": "q-a-hey-ai-who-should-i-vote-for-this-year-13",
-      "title": "Q&A: Hey AI, who should I vote for this year?",
-      "summary": "MIT professors Adam Berinsky and Chara Podimata discuss a new project to track how AI chatbots are responding to questions about the 2026 U.S. midterm elections.",
-      "category": "breakthrough",
-      "publishedAt": "2026-10-30",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "MIT professors Adam Berinsky and Chara Podimata discuss a new project to track how AI chatbots are responding to questions about the 2026 U.S. midterm elections."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "14",
-      "slug": "3-questions-why-infrastructure-is-entering-a-defin-14",
-      "title": "3 Questions: Why infrastructure is entering a defining era",
-      "summary": "Professor Ali Jadbabaie describes how AI, digital transformation, climate change, and complex geopolitics are forcing engineers and policymakers to rethink how infrastructure is designed, built, and managed.",
-      "category": "breakthrough",
-      "publishedAt": "2026-10-28",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Professor Ali Jadbabaie describes how AI, digital transformation, climate change, and complex geopolitics are forcing engineers and policymakers to rethink how infrastructure is designed, built, and managed."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "15",
-      "slug": "making-machines-that-can-listen-15",
-      "title": "Making machines that can listen",
-      "summary": "Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring.",
-      "category": "breakthrough",
-      "publishedAt": "2026-10-28",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring."
         ],
         [
           "p",
