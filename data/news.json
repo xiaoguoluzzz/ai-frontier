@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-03T04:07:09.756Z",
-  "builtAt": "2026-11-03T04:07:09.756Z",
+  "updatedAt": "2026-11-04T03:25:33.385Z",
+  "builtAt": "2026-11-04T03:25:33.385Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -11,39 +11,39 @@
   "items": [
     {
       "id": "2",
-      "slug": "google-takes-dreambeans-to-india-in-bid-to-bring-a-2",
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "slug": "the-biggest-modding-site-in-pc-gaming-is-taking-a--2",
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big pos",
       "category": "industry",
-      "publishedAt": "2026-11-03",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "publishedAt": "2026-11-04",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
+          "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big pos"
         ],
         [
           "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "3",
-      "slug": "apple-may-try-to-increase-revenue-by-doing-8230-so-3",
-      "title": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
-      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "slug": "anthropic-is-working-on-a-system-to-prove-ai-model-3",
+      "title": "Anthropic is working on a system to prove AI models&#8217; identity",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
       "category": "industry",
       "publishedAt": "2026-11-03",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "sourceUrl": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
+          "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
         ],
         [
           "p",
@@ -53,18 +53,18 @@
     },
     {
       "id": "4",
-      "slug": "y-combinator-8217-s-garry-tan-uses-ai-agents-so-mu-4",
-      "title": "Y Combinator&#8217;s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan pu",
+      "slug": "data-centers-are-turning-to-old-jet-engines-as-the-4",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
       "category": "industry",
       "publishedAt": "2026-11-03",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "sourceUrl": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan pu"
+          "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines."
         ],
         [
           "p",
@@ -74,18 +74,18 @@
     },
     {
       "id": "5",
-      "slug": "trajectory-raises-45m-to-make-ai-model-training-ac-5",
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "summary": "The one-year-old startup is now valued at $300 million.",
+      "slug": "ted-schlein-8217-s-ballistic-ventures-seeks-490m-f-5",
+      "title": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
       "category": "industry",
-      "publishedAt": "2026-11-02",
+      "publishedAt": "2026-11-03",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "sourceUrl": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The one-year-old startup is now valued at $300 million."
+          "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
         ],
         [
           "p",
@@ -95,18 +95,18 @@
     },
     {
       "id": "6",
-      "slug": "anthropic-warns-that-it-8217-s-very-close-to-rsi-c-6",
-      "title": "Anthropic warns that it&#8217;s very close to RSI capability, aka self-building AI",
-      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "slug": "hiding-inside-palantir-8217-s-skyrocketing-quarter-6",
+      "title": "Hiding inside Palantir&#8217;s skyrocketing quarter is a foreboding signal",
+      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
       "category": "industry",
-      "publishedAt": "2026-11-02",
+      "publishedAt": "2026-11-03",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "sourceUrl": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
+          "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever."
         ],
         [
           "p",
@@ -116,7 +116,133 @@
     },
     {
       "id": "7",
-      "slug": "the-latest-ai-news-we-announced-in-october-2026-7",
+      "slug": "ai-inference-startup-fal-doubles-its-valuation-to--7",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+      "category": "industry",
+      "publishedAt": "2026-11-03",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The five-year-old startup raised a $1.3 billion round led by Bessemer."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "8",
+      "slug": "please-stop-asking-me-when-the-ai-bubble-will-pop-8",
+      "title": "Please stop asking me when the AI bubble will pop",
+      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as f",
+      "category": "industry",
+      "publishedAt": "2026-11-03",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as f"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "9",
+      "slug": "those-jeff-bezos-hair-transplant-photos-are-very-f-9",
+      "title": "Those Jeff Bezos hair transplant photos are very fake",
+      "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X,",
+      "category": "industry",
+      "publishedAt": "2026-11-03",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X,"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "10",
+      "slug": "apple-starts-giving-siri-ai-access-to-third-party--10",
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to dr",
+      "category": "industry",
+      "publishedAt": "2026-11-03",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to dr"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "11",
+      "slug": "apple-s-latest-watchos-beta-includes-its-new-alway-11",
+      "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+      "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to gen",
+      "category": "industry",
+      "publishedAt": "2026-11-03",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to gen"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "12",
+      "slug": "building-connections-across-the-research-infrastru-12",
+      "title": "Building connections across the research infrastructure",
+      "summary": "MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected.",
+      "category": "breakthrough",
+      "publishedAt": "2026-11-03",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected."
+        ],
+        [
+          "p",
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "13",
+      "slug": "the-latest-ai-news-we-announced-in-october-2026-13",
       "title": "The latest AI news we announced in October 2026",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from October 2026",
       "category": "breakthrough",
@@ -136,71 +262,8 @@
       ]
     },
     {
-      "id": "8",
-      "slug": "anthropic-clamps-down-on-claude-s-ai-video-game-cl-8",
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, ",
-      "category": "model-release",
-      "publishedAt": "2026-11-02",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, "
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "9",
-      "slug": "openai-pitches-data-center-power-plants-as-a-way-t-9",
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emerg",
-      "category": "industry",
-      "publishedAt": "2026-11-02",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emerg"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "10",
-      "slug": "the-new-york-times-sues-brave-web-browser-for-ai-s-10",
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. A",
-      "category": "industry",
-      "publishedAt": "2026-11-02",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. A"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "11",
-      "slug": "powering-up-for-a-pivotal-moment-11",
+      "id": "14",
+      "slug": "powering-up-for-a-pivotal-moment-14",
       "title": "Powering up for a pivotal moment",
       "summary": "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs.",
       "category": "breakthrough",
@@ -220,8 +283,8 @@
       ]
     },
     {
-      "id": "12",
-      "slug": "regina-barzilay-and-jim-collins-win-pritzker-prize-12",
+      "id": "15",
+      "slug": "regina-barzilay-and-jim-collins-win-pritzker-prize-15",
       "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibio",
       "summary": "The MIT professors collaborated to identify the first AI-discovered antibiotic, a scientific breakthrough that is widely recognized as a milestone in AI-driven drug discovery.",
       "category": "breakthrough",
@@ -233,69 +296,6 @@
         [
           "p",
           "The MIT professors collaborated to identify the first AI-discovered antibiotic, a scientific breakthrough that is widely recognized as a milestone in AI-driven drug discovery."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "13",
-      "slug": "i-built-an-ai-tamagotchi-before-meta-could-13",
-      "title": "I built an AI Tamagotchi before Meta could",
-      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, ",
-      "category": "industry",
-      "publishedAt": "2026-10-31",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, "
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "14",
-      "slug": "apple-intelligence-is-finally-coming-to-china-with-14",
-      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch o",
-      "category": "industry",
-      "publishedAt": "2026-10-30",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch o"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "15",
-      "slug": "mit-affiliates-named-2026-schmidt-sciences-ai2050--15",
-      "title": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
-      "summary": "Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI.",
-      "category": "breakthrough",
-      "publishedAt": "2026-10-30",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI."
         ],
         [
           "p",
