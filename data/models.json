@@ -1,12 +1,31 @@
 {
-  "updatedAt": "2026-11-04T03:25:33.748Z",
-  "builtAt": "2026-11-04T03:25:33.748Z",
+  "updatedAt": "2026-11-05T03:48:05.456Z",
+  "builtAt": "2026-11-05T03:48:05.456Z",
   "stale": false,
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/models",
   "items": [
     {
       "id": "1",
+      "slug": "hunyuan-dev1030-aa",
+      "name": "Hy4",
+      "company": "Tencent",
+      "openWeights": false,
+      "contextLength": "1M",
+      "releaseDate": "2026-11",
+      "description": "Tencent 闭源大模型，2026-11 发布，上下文 1M tokens，Artificial Analysis 智能指数 34.6。",
+      "features": [
+        "智能指数 34.6",
+        "支持深度推理模式",
+        "闭源商用"
+      ],
+      "modalities": [
+        "文本",
+        "图像"
+      ]
+    },
+    {
+      "id": "2",
       "slug": "mistral-large-4",
       "name": "Mistral Large 4 (high)",
       "company": "Mistral",
@@ -27,7 +46,7 @@
       ]
     },
     {
-      "id": "2",
+      "id": "3",
       "slug": "gemini-4-carbon",
       "name": "Gemini 4 Carbon (high)",
       "company": "Google",
@@ -49,7 +68,7 @@
       ]
     },
     {
-      "id": "3",
+      "id": "4",
       "slug": "gpt-6-1-terra",
       "name": "GPT-6.1 Terra (max)",
       "company": "OpenAI",
@@ -69,7 +88,7 @@
       ]
     },
     {
-      "id": "4",
+      "id": "5",
       "slug": "kimi-k3-1-pro",
       "name": "Kimi K3.1 Pro",
       "company": "Kimi",
@@ -90,7 +109,7 @@
       ]
     },
     {
-      "id": "5",
+      "id": "6",
       "slug": "ling-3-1-flash-1019",
       "name": "Ling 3.1 Flash 1019",
       "company": "InclusionAI",
@@ -110,7 +129,7 @@
       ]
     },
     {
-      "id": "6",
+      "id": "7",
       "slug": "minimax-m3-1-flash",
       "name": "MiniMax-M3.1-Flash",
       "company": "MiniMax",
@@ -131,7 +150,7 @@
       ]
     },
     {
-      "id": "7",
+      "id": "8",
       "slug": "deepseek-v4-1-flash-1017",
       "name": "DeepSeek V4.1 Flash 1017 (max)",
       "company": "DeepSeek",
@@ -152,7 +171,7 @@
       ]
     },
     {
-      "id": "8",
+      "id": "9",
       "slug": "reflection-beam",
       "name": "Beam 1.0",
       "company": "Reflection",
@@ -172,7 +191,7 @@
       ]
     },
     {
-      "id": "9",
+      "id": "10",
       "slug": "muse-spark-open",
       "name": "Muse Spark Open (xhigh)",
       "company": "Meta",
@@ -195,7 +214,7 @@
       ]
     },
     {
-      "id": "10",
+      "id": "11",
       "slug": "nemotron-3-5-super-vl",
       "name": "Nemotron 3.5 Super VL",
       "company": "NVIDIA",
@@ -216,7 +235,7 @@
       ]
     },
     {
-      "id": "11",
+      "id": "12",
       "slug": "muse-wonder-full",
       "name": "Muse Wonder Full (max)",
       "company": "Meta",
@@ -237,7 +256,7 @@
       ]
     },
     {
-      "id": "12",
+      "id": "13",
       "slug": "muse-wonder",
       "name": "Muse Wonder (max)",
       "company": "Meta",
@@ -259,7 +278,7 @@
       ]
     },
     {
-      "id": "13",
+      "id": "14",
       "slug": "claude-haiku-5-5",
       "name": "Claude Haiku 5.5 (max)",
       "company": "Anthropic",
@@ -279,7 +298,7 @@
       ]
     },
     {
-      "id": "14",
+      "id": "15",
       "slug": "gpt-6-1-sol",
       "name": "GPT-6.1 Sol (max)",
       "company": "OpenAI",
@@ -299,9 +318,9 @@
       ]
     },
     {
-      "id": "15",
+      "id": "16",
       "slug": "claude-sonnet-5-5",
-      "name": "Claude Sonnet 5.5 (max with fallback)",
+      "name": "Claude Sonnet 5.5 (max)",
       "company": "Anthropic",
       "openWeights": false,
       "contextLength": "1M",
@@ -319,9 +338,9 @@
       ]
     },
     {
-      "id": "16",
+      "id": "17",
       "slug": "claude-opus-5-5",
-      "name": "Claude Opus 5.5 (max with fallback)",
+      "name": "Claude Opus 5.5 (max)",
       "company": "Anthropic",
       "openWeights": false,
       "contextLength": "1M",
@@ -339,7 +358,7 @@
       ]
     },
     {
-      "id": "17",
+      "id": "18",
       "slug": "gpt-6-luna",
       "name": "GPT-6 Luna (max)",
       "company": "OpenAI",
@@ -359,7 +378,7 @@
       ]
     },
     {
-      "id": "18",
+      "id": "19",
       "slug": "grok-4-7",
       "name": "Grok 4.7 (xhigh)",
       "company": "SpaceXAI",
@@ -379,7 +398,7 @@
       ]
     },
     {
-      "id": "19",
+      "id": "20",
       "slug": "mimo-v2-6-pro",
       "name": "MiMo-V2.6-Pro",
       "company": "Xiaomi",
@@ -399,27 +418,6 @@
         "图像",
         "音频",
         "视频"
-      ]
-    },
-    {
-      "id": "20",
-      "slug": "step-5",
-      "name": "Step 5 Preview",
-      "company": "StepFun",
-      "openWeights": true,
-      "contextLength": "1M",
-      "releaseDate": "2026-09",
-      "description": "StepFun 开源大模型，2026-09 发布，上下文 1M tokens，Artificial Analysis 智能指数 28.5。",
-      "features": [
-        "600B 总参数 / 27B 激活参数",
-        "智能指数 28.5",
-        "支持深度推理模式",
-        "输入 $1 / 1M tokens，输出 $2.7",
-        "开源权重"
-      ],
-      "modalities": [
-        "文本",
-        "图像"
       ]
     },
     {
@@ -507,7 +505,7 @@
     {
       "id": "25",
       "slug": "claude-fable-5-1",
-      "name": "Claude Fable 5.1 (max with fallback)",
+      "name": "Claude Fable 5.1 (max)",
       "company": "Anthropic",
       "openWeights": false,
       "contextLength": "1M",

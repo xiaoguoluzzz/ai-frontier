@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-04T03:25:33.747Z",
-  "builtAt": "2026-11-04T03:25:33.747Z",
+  "updatedAt": "2026-11-05T03:48:05.455Z",
+  "builtAt": "2026-11-05T03:48:05.455Z",
   "stale": false,
   "sources": [
     "arXiv cs.AI",
@@ -10,91 +10,14 @@
   "items": [
     {
       "id": "p1",
-      "slug": "more-rules-longer-lists-benchmarking-self-evolving-1",
-      "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
-      "authors": "arXiv cs.AI",
-      "venue": "2026-11-02 · arXiv cs.AI",
-      "link": "https://arxiv.org/abs/2610.40758",
-      "date": "2026-11-02",
-      "summary": "arXiv:2610.40758v1 Announce Type: new Abstract: Self-evolving agents rewrite a persistent state from feedback, but it is largely untested whether this lets them learn a rule nobody told them. An agent can also pass by writing down each corr",
+      "slug": "community-detection-in-complex-networks-via-node-s-1",
+      "title": "Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering",
+      "authors": "arXiv cs.LG",
+      "venue": "2026-11-04 · arXiv cs.LG",
+      "link": "https://arxiv.org/abs/2303.12212",
+      "date": "2026-11-04",
+      "summary": "arXiv:2303.12212v3 Announce Type: replace-cross Abstract: Community detection is a significant challenge in analysing real graphs, including social, citation, biological, and many other networks. This article proposes three new, general, hi",
       "category": "其它"
-    },
-    {
-      "id": "p2",
-      "slug": "beyond-plausible-prediction-safety-sufficiency-in--2",
-      "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
-      "authors": "arXiv cs.AI",
-      "venue": "2026-11-02 · arXiv cs.AI",
-      "link": "https://arxiv.org/abs/2610.40798",
-      "date": "2026-11-02",
-      "summary": "arXiv:2610.40798v1 Announce Type: new Abstract: Web world models increasingly predict the consequences of candidate actions before agents act, yet a plausible predicted future does not necessarily support the correct safety decision. In a m",
-      "category": "对齐安全"
-    },
-    {
-      "id": "p3",
-      "slug": "circumventing-the-computational-hardness-of-comput-3",
-      "title": "Circumventing the Computational Hardness of Computational Arbitrage",
-      "authors": "arXiv cs.AI",
-      "venue": "2026-11-02 · arXiv cs.AI",
-      "link": "https://arxiv.org/abs/2610.40831",
-      "date": "2026-11-02",
-      "summary": "arXiv:2610.40831v1 Announce Type: new Abstract: AI model marketplaces host providers with heterogeneous costs and capabilities. These differences create an opportunity for computational arbitrage (Olmedo et al., 2026), in which an intermedi",
-      "category": "模型架构"
-    },
-    {
-      "id": "p4",
-      "slug": "incongruence-aware-evaluation-of-multimodal-speech-4",
-      "title": "Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models",
-      "authors": "arXiv cs.AI",
-      "venue": "2026-11-02 · arXiv cs.AI",
-      "link": "https://arxiv.org/abs/2610.40883",
-      "date": "2026-11-02",
-      "summary": "arXiv:2610.40883v1 Announce Type: new Abstract: Voice-interactive large language models process both what a speaker says and how they say it, yet the two channels do not always agree. We ask whether that disagreement degrades speech emotion",
-      "category": "多模态"
-    },
-    {
-      "id": "p5",
-      "slug": "chatgpt-as-a-surveillance-assistant-an-exploratory-5",
-      "title": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
-      "authors": "arXiv cs.AI",
-      "venue": "2026-11-02 · arXiv cs.AI",
-      "link": "https://arxiv.org/abs/2610.40890",
-      "date": "2026-11-02",
-      "summary": "arXiv:2610.40890v1 Announce Type: new Abstract: Large language models (LLMs) can generate detailed guidance, functional code, and persuasive text at scale. As one of the most widely used consumer language model products as of 2026, ChatGPT ",
-      "category": "对齐安全"
-    },
-    {
-      "id": "p6",
-      "slug": "does-recursive-knowledge-construction-help-agents--6",
-      "title": "Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?",
-      "authors": "arXiv cs.AI",
-      "venue": "2026-11-02 · arXiv cs.AI",
-      "link": "https://arxiv.org/abs/2610.40906",
-      "date": "2026-11-02",
-      "summary": "arXiv:2610.40906v1 Announce Type: new Abstract: Recent scientific agents build knowledge recursively by retrieving evidence, constructing an intermediate state, and judging whether that state contains sufficient information. These agents ar",
-      "category": "其它"
-    },
-    {
-      "id": "p7",
-      "slug": "towards-portable-specification-of-the-agent-harnes-7",
-      "title": "Towards Portable Specification of the Agent Harness",
-      "authors": "arXiv cs.AI",
-      "venue": "2026-11-02 · arXiv cs.AI",
-      "link": "https://arxiv.org/abs/2610.40917",
-      "date": "2026-11-02",
-      "summary": "arXiv:2610.40917v1 Announce Type: new Abstract: Large language models act only through the infrastructure that surrounds them. That infrastructure, the harness, determines what a model can accomplish and how it fails, yet it has no settled ",
-      "category": "其它"
-    },
-    {
-      "id": "p8",
-      "slug": "agentic-world-modeling-for-agent-test-time-scaling-8",
-      "title": "Agentic World Modeling for Agent Test-time Scaling without Environment Replica",
-      "authors": "arXiv cs.AI",
-      "venue": "2026-11-02 · arXiv cs.AI",
-      "link": "https://arxiv.org/abs/2610.40927",
-      "date": "2026-11-02",
-      "summary": "arXiv:2610.40927v1 Announce Type: new Abstract: Test-time scaling (TTS) improves large language model agents by sampling and selecting among multiple candidate trajectories, but common realizations assume that these trajectories can be exec",
-      "category": "模型架构"
     }
   ]
 }

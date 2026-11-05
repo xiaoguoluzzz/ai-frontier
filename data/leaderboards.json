@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-04T03:25:33.747Z",
-  "builtAt": "2026-11-04T03:25:33.747Z",
+  "updatedAt": "2026-11-05T03:48:05.455Z",
+  "builtAt": "2026-11-05T03:48:05.455Z",
   "stale": false,
   "boards": [
     {
@@ -10,7 +10,7 @@
       "source": "Artificial Analysis 智能指数",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "智能指数",
-      "updatedAt": "2026-11-04T03:25:33.747Z",
+      "updatedAt": "2026-11-05T03:48:05.455Z",
       "stale": false,
       "entries": [
         {
@@ -23,7 +23,7 @@
         },
         {
           "rank": 2,
-          "model": "Claude Opus 5.5 (max with fallback)",
+          "model": "Claude Opus 5.5 (max)",
           "company": "Anthropic",
           "score": 59.1060336078904,
           "displayScore": "59.1",
@@ -47,7 +47,7 @@
         },
         {
           "rank": 5,
-          "model": "Claude Sonnet 5.5 (max with fallback)",
+          "model": "Claude Sonnet 5.5 (max)",
           "company": "Anthropic",
           "score": 54.54133407109,
           "displayScore": "54.5",
@@ -71,7 +71,7 @@
         },
         {
           "rank": 8,
-          "model": "Claude Fable 5.1 (max with fallback)",
+          "model": "Claude Fable 5.1 (max)",
           "company": "Anthropic",
           "score": 49.1602124158081,
           "displayScore": "49.2",
@@ -86,7 +86,7 @@
       "source": "Artificial Analysis 智能指数（近似）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "智能指数",
-      "updatedAt": "2026-11-04T03:25:33.747Z",
+      "updatedAt": "2026-11-05T03:48:05.455Z",
       "stale": false,
       "entries": [
         {
@@ -99,7 +99,7 @@
         },
         {
           "rank": 2,
-          "model": "Claude Opus 5.5 (max with fallback)",
+          "model": "Claude Opus 5.5 (max)",
           "company": "Anthropic",
           "score": 59.1060336078904,
           "displayScore": "59.1",
@@ -123,7 +123,7 @@
         },
         {
           "rank": 5,
-          "model": "Claude Sonnet 5.5 (max with fallback)",
+          "model": "Claude Sonnet 5.5 (max)",
           "company": "Anthropic",
           "score": 54.54133407109,
           "displayScore": "54.5",
@@ -147,7 +147,7 @@
         },
         {
           "rank": 8,
-          "model": "Claude Fable 5.1 (max with fallback)",
+          "model": "Claude Fable 5.1 (max)",
           "company": "Anthropic",
           "score": 49.1602124158081,
           "displayScore": "49.2",
@@ -163,12 +163,12 @@
       "source": "Artificial Analysis（FrontierCode）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "FrontierCode",
-      "updatedAt": "2026-11-04T03:25:33.747Z",
+      "updatedAt": "2026-11-05T03:48:05.455Z",
       "stale": false,
       "entries": [
         {
           "rank": 1,
-          "model": "Claude Opus 5.5 (max with fallback)",
+          "model": "Claude Opus 5.5 (max)",
           "company": "Anthropic",
           "score": 0.521731,
           "displayScore": "52.2%",
@@ -184,7 +184,7 @@
         },
         {
           "rank": 3,
-          "model": "Claude Fable 5.1 (max with fallback)",
+          "model": "Claude Fable 5.1 (max)",
           "company": "Anthropic",
           "score": 0.489732333333333,
           "displayScore": "49.0%",
@@ -216,7 +216,7 @@
         },
         {
           "rank": 7,
-          "model": "Claude Sonnet 5.5 (max with fallback)",
+          "model": "Claude Sonnet 5.5 (max)",
           "company": "Anthropic",
           "score": 0.458291333333333,
           "displayScore": "45.8%",
@@ -239,7 +239,7 @@
       "source": "Artificial Analysis（GPQA）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "GPQA",
-      "updatedAt": "2026-11-04T03:25:33.747Z",
+      "updatedAt": "2026-11-05T03:48:05.455Z",
       "stale": false,
       "entries": [
         {
@@ -260,7 +260,7 @@
         },
         {
           "rank": 3,
-          "model": "Claude Fable 5.1 (max with fallback)",
+          "model": "Claude Fable 5.1 (max)",
           "company": "Anthropic",
           "score": 0.937373737373737,
           "displayScore": "93.7%",
