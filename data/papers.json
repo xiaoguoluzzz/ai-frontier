@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-05T03:48:05.455Z",
-  "builtAt": "2026-11-05T03:48:05.455Z",
+  "updatedAt": "2026-11-06T03:45:20.880Z",
+  "builtAt": "2026-11-06T03:45:20.880Z",
   "stale": false,
   "sources": [
     "arXiv cs.AI",
@@ -10,14 +10,135 @@
   "items": [
     {
       "id": "p1",
-      "slug": "community-detection-in-complex-networks-via-node-s-1",
-      "title": "Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering",
-      "authors": "arXiv cs.LG",
-      "venue": "2026-11-04 · arXiv cs.LG",
-      "link": "https://arxiv.org/abs/2303.12212",
-      "date": "2026-11-04",
-      "summary": "arXiv:2303.12212v3 Announce Type: replace-cross Abstract: Community detection is a significant challenge in analysing real graphs, including social, citation, biological, and many other networks. This article proposes three new, general, hi",
+      "slug": "who-may-overrule-the-agent-evidence-gated-authorit-1",
+      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+      "authors": "arXiv cs.AI",
+      "venue": "2026-11-05 · arXiv cs.AI",
+      "link": "https://arxiv.org/abs/2611.05390",
+      "date": "2026-11-05",
+      "summary": "arXiv:2611.05390v1 Announce Type: new Abstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair errors and replace decisions that were already correct. We study",
       "category": "其它"
+    },
+    {
+      "id": "p2",
+      "slug": "agent-harness-awareness-turning-verified-telemetry-2",
+      "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+      "authors": "arXiv cs.AI",
+      "venue": "2026-11-05 · arXiv cs.AI",
+      "link": "https://arxiv.org/abs/2611.05391",
+      "date": "2026-11-05",
+      "summary": "arXiv:2611.05391v1 Announce Type: new Abstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suitable at the moment of use. Execution harnesses often possess thi",
+      "category": "模型架构"
+    },
+    {
+      "id": "p3",
+      "slug": "uncertainty-aware-resource-orchestration-for-agent-3",
+      "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+      "authors": "arXiv cs.AI",
+      "venue": "2026-11-05 · arXiv cs.AI",
+      "link": "https://arxiv.org/abs/2611.05392",
+      "date": "2026-11-05",
+      "summary": "arXiv:2611.05392v1 Announce Type: new Abstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines that dynamically invoke tools, integrate observations into memor",
+      "category": "其它"
+    },
+    {
+      "id": "p4",
+      "slug": "challenge-aware-knowledge-recruitment-with-meta-ag-4",
+      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+      "authors": "arXiv cs.AI",
+      "venue": "2026-11-05 · arXiv cs.AI",
+      "link": "https://arxiv.org/abs/2611.05393",
+      "date": "2026-11-05",
+      "summary": "arXiv:2611.05393v1 Announce Type: new Abstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a",
+      "category": "数学推理"
+    },
+    {
+      "id": "p5",
+      "slug": "a-feasibility-condition-for-confidence-gated-tiere-5",
+      "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+      "authors": "arXiv cs.AI",
+      "venue": "2026-11-05 · arXiv cs.AI",
+      "link": "https://arxiv.org/abs/2611.05394",
+      "date": "2026-11-05",
+      "summary": "arXiv:2611.05394v1 Announce Type: new Abstract: Tiered inference distributes large language model computation across a hierarchy of devices, from on-device and edge hardware to the datacenter, and is increasingly offered as the route to che",
+      "category": "模型架构"
+    },
+    {
+      "id": "p6",
+      "slug": "towards-robust-long-lived-agents-benchmarking-expe-6",
+      "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
+      "authors": "arXiv cs.AI",
+      "venue": "2026-11-05 · arXiv cs.AI",
+      "link": "https://arxiv.org/abs/2611.05450",
+      "date": "2026-11-05",
+      "summary": "arXiv:2611.05450v1 Announce Type: new Abstract: As agents become more capable, they are moving beyond one-off tasks toward sustained assistance across successive user goals. Such assistance requires agents to discover how unfamiliar environ",
+      "category": "其它"
+    },
+    {
+      "id": "p7",
+      "slug": "can-large-language-models-review-the-scientific-li-7",
+      "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
+      "authors": "arXiv cs.AI",
+      "venue": "2026-11-05 · arXiv cs.AI",
+      "link": "https://arxiv.org/abs/2611.05459",
+      "date": "2026-11-05",
+      "summary": "arXiv:2611.05459v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than the review process as a whole. We assess",
+      "category": "其它"
+    },
+    {
+      "id": "p8",
+      "slug": "slackbench-benchmarking-agents-on-collaborative-pr-8",
+      "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
+      "authors": "arXiv cs.AI",
+      "venue": "2026-11-05 · arXiv cs.AI",
+      "link": "https://arxiv.org/abs/2611.05512",
+      "date": "2026-11-05",
+      "summary": "arXiv:2611.05512v1 Announce Type: new Abstract: AI Agents are becoming digital coworkers that can browse the web, write code, run experiments, and assist humans over extended horizons. Yet existing benchmarks fall short of real knowledge wo",
+      "category": "数学推理"
+    },
+    {
+      "id": "p9",
+      "slug": "constraint-preserving-flow-matching-for-spectral-g-9",
+      "title": "Constraint-Preserving Flow Matching for Spectral Graph Generation",
+      "authors": "arXiv cs.LG",
+      "venue": "2026-11-05 · arXiv cs.LG",
+      "link": "https://arxiv.org/abs/2611.05436",
+      "date": "2026-11-05",
+      "summary": "arXiv:2611.05436v1 Announce Type: new Abstract: Spectral graph generation models graphs through the eigenvalues and eigenvectors of their Laplacians, providing a compact and continuous alternative to direct graph construction. However, thes",
+      "category": "对齐安全"
+    },
+    {
+      "id": "p10",
+      "slug": "learning-implicit-solves-for-dynamic-simulations-10",
+      "title": "Learning Implicit Solves for Dynamic Simulations",
+      "authors": "arXiv cs.LG",
+      "venue": "2026-11-05 · arXiv cs.LG",
+      "link": "https://arxiv.org/abs/2611.05439",
+      "date": "2026-11-05",
+      "summary": "arXiv:2611.05439v1 Announce Type: new Abstract: High-fidelity simulation of dynamical systems is central to scientific discovery and engineering design, yet remains computationally demanding. Here we introduce the Implicit Neural Operator S",
+      "category": "模型架构"
+    },
+    {
+      "id": "p11",
+      "slug": "matched-but-not-better-an-equivalence-tested-bench-11",
+      "title": "Matched but Not Better: An Equivalence-Tested Benchmark of Quantum Machine Learning on Six Clinical Datasets and the QML-Health-READY Reporting Framework",
+      "authors": "arXiv cs.LG",
+      "venue": "2026-11-05 · arXiv cs.LG",
+      "link": "https://arxiv.org/abs/2611.05442",
+      "date": "2026-11-05",
+      "summary": "arXiv:2611.05442v1 Announce Type: new Abstract: Background: Quantum machine learning (QML) is promoted for clinical prediction, but comparisons with classical models are rarely paired or tested for equivalence. Methods: We compared a quantu",
+      "category": "其它"
+    },
+    {
+      "id": "p12",
+      "slug": "objective-conditioned-active-preference-learning-f-12",
+      "title": "Objective-Conditioned Active Preference Learning for Multi-Objective Alignment",
+      "authors": "arXiv cs.LG",
+      "venue": "2026-11-05 · arXiv cs.LG",
+      "link": "https://arxiv.org/abs/2611.05506",
+      "date": "2026-11-05",
+      "summary": "arXiv:2611.05506v1 Announce Type: new Abstract: Aligning large language models (LLMs) with several objectives, such as helpfulness, harmlessness, and honesty, typically relies on preference judgment for each objective, growing the annotatio",
+      "category": "模型架构"
     }
   ]
 }
