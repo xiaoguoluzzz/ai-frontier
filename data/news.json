@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-06T03:45:20.431Z",
-  "builtAt": "2026-11-06T03:45:20.431Z",
+  "updatedAt": "2026-11-07T03:19:03.367Z",
+  "builtAt": "2026-11-07T03:19:03.367Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -11,60 +11,60 @@
   "items": [
     {
       "id": "2",
-      "slug": "openai-is-stepping-back-from-ndas-for-data-center--2",
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-di",
+      "slug": "crusoe-sells-troubled-wyoming-data-center-project--2",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
       "category": "industry",
-      "publishedAt": "2026-11-06",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "publishedAt": "2026-11-07",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-di"
+          "The deal highlights the challenges of developing massive AI data centers."
         ],
         [
           "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "3",
-      "slug": "airbnb-is-working-on-an-ai-travel-agent-3",
-      "title": "Airbnb is working on an AI travel agent",
-      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like",
+      "slug": "openai-reportedly-raises-an-additional-11-billion--3",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
       "category": "industry",
       "publishedAt": "2026-11-06",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like"
+          "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
         ],
         [
           "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "4",
-      "slug": "airbnb-says-it-8217-s-launching-an-ai-travel-agent-4",
-      "title": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
-      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "slug": "hundreds-of-artex-ai-hacking-tools-found-publicly--4",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
       "category": "industry",
-      "publishedAt": "2026-11-05",
+      "publishedAt": "2026-11-06",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay."
+          "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
         ],
         [
           "p",
@@ -74,18 +74,18 @@
     },
     {
       "id": "5",
-      "slug": "meta-says-us-users-can-now-video-chat-with-their-m-5",
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "slug": "meta-introduces-spaces-a-new-way-to-collaborate-wi-5",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
       "category": "industry",
-      "publishedAt": "2026-11-05",
+      "publishedAt": "2026-11-06",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life."
+          "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
         ],
         [
           "p",
@@ -95,18 +95,18 @@
     },
     {
       "id": "6",
-      "slug": "meta-warns-that-election-backlash-against-data-cen-6",
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "slug": "how-a-blue-wave-midterm-might-reshape-the-ai-indus-6",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictio",
       "category": "industry",
-      "publishedAt": "2026-11-05",
+      "publishedAt": "2026-11-06",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "sourceUrl": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects."
+          "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictio"
         ],
         [
           "p",
@@ -116,60 +116,60 @@
     },
     {
       "id": "7",
-      "slug": "openai-released-a-new-cybersecurity-model-is-that--7",
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "slug": "openai-valued-at-1-25-trillion-as-rival-anthropic--7",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors ",
       "category": "industry",
-      "publishedAt": "2026-11-05",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "publishedAt": "2026-11-06",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure."
+          "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors "
         ],
         [
           "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "8",
-      "slug": "openai-president-greg-brockman-says-company-could--8",
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+      "slug": "china-reportedly-recruited-ai-exec-to-spy-on-jense-8",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"po",
       "category": "industry",
-      "publishedAt": "2026-11-05",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "publishedAt": "2026-11-06",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads."
+          "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"po"
         ],
         [
           "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "9",
-      "slug": "perplexity-launches-its-own-take-on-ai-agents-for--9",
-      "title": "Perplexity launches its own take on AI agents for work",
-      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity",
+      "slug": "all-the-latest-updates-on-ai-data-centers-9",
+      "title": "All the latest updates on AI data centers",
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, u",
       "category": "industry",
-      "publishedAt": "2026-11-05",
+      "publishedAt": "2026-11-06",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity"
+          "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, u"
         ],
         [
           "p",
@@ -179,18 +179,18 @@
     },
     {
       "id": "10",
-      "slug": "muse-has-a-voice-mode-now-10",
-      "title": "Muse has a voice mode now",
-      "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with yo",
+      "slug": "meta-8217-s-muse-ai-can-create-custom-8216-spaces--10",
+      "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you ",
       "category": "industry",
-      "publishedAt": "2026-11-05",
+      "publishedAt": "2026-11-06",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "sourceUrl": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with yo"
+          "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you "
         ],
         [
           "p",
@@ -200,18 +200,18 @@
     },
     {
       "id": "11",
-      "slug": "claude-ai-can-plug-directly-into-your-bank-account-11",
-      "title": "Claude AI can plug directly into your bank account",
-      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"wher",
-      "category": "model-release",
-      "publishedAt": "2026-11-05",
+      "slug": "ai-is-the-new-dating-dealbreaker-11",
+      "title": "AI is the new dating dealbreaker",
+      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and",
+      "category": "industry",
+      "publishedAt": "2026-11-06",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"wher"
+          "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and"
         ],
         [
           "p",
@@ -221,7 +221,28 @@
     },
     {
       "id": "12",
-      "slug": "clearing-up-a-robot-s-fuzzy-memory-12",
+      "slug": "how-to-predict-the-behavior-of-molecules-from-scan-12",
+      "title": "How to predict the behavior of molecules from scant data",
+      "summary": "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation.",
+      "category": "breakthrough",
+      "publishedAt": "2026-11-06",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation."
+        ],
+        [
+          "p",
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "13",
+      "slug": "clearing-up-a-robot-s-fuzzy-memory-13",
       "title": "Clearing up a robot’s fuzzy memory",
       "summary": "A new system identifies and corrects unreliable object descriptions stored in a robot’s memory, improving the robot’s ability to interact with its environment.",
       "category": "breakthrough",
@@ -241,8 +262,8 @@
       ]
     },
     {
-      "id": "13",
-      "slug": "building-connections-across-the-research-infrastru-13",
+      "id": "14",
+      "slug": "building-connections-across-the-research-infrastru-14",
       "title": "Building connections across the research infrastructure",
       "summary": "MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected.",
       "category": "breakthrough",
@@ -258,27 +279,6 @@
         [
           "p",
           "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "14",
-      "slug": "the-latest-ai-news-we-announced-in-october-2026-14",
-      "title": "The latest AI news we announced in October 2026",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from October 2026",
-      "category": "breakthrough",
-      "publishedAt": "2026-11-02",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from October 2026"
-        ],
-        [
-          "p",
-          "来源：Google AI Blog。点击「查看原文」阅读完整报道。"
         ]
       ]
     }
