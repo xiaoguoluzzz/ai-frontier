@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-08T02:47:27.364Z",
-  "builtAt": "2026-11-08T02:47:27.364Z",
+  "updatedAt": "2026-11-09T03:05:48.983Z",
+  "builtAt": "2026-11-09T03:05:48.983Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -11,7 +11,112 @@
   "items": [
     {
       "id": "2",
-      "slug": "after-the-midterms-things-are-looking-rocky-for-el-2",
+      "slug": "nvidia-will-investigate-ceo-jensen-huang-s-relatio-2",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "category": "industry",
+      "publishedAt": "2026-11-08",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "In a memo to the company, Huang admitted that he had an affair."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "3",
+      "slug": "here-s-the-full-text-of-jensen-huang-s-memo-to-nvi-3",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Hu",
+      "category": "industry",
+      "publishedAt": "2026-11-08",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Hu"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "4",
+      "slug": "nvidia-is-investigating-jensen-huang-s-relationshi-4",
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement ",
+      "category": "industry",
+      "publishedAt": "2026-11-08",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement "
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "5",
+      "slug": "apple-is-racing-to-make-siri-more-agentic-5",
+      "title": "Apple is racing to make Siri more agentic",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional",
+      "category": "industry",
+      "publishedAt": "2026-11-08",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "6",
+      "slug": "elvis-and-eminem-rights-holders-are-suing-suno-6",
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimi",
+      "category": "industry",
+      "publishedAt": "2026-11-08",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimi"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "7",
+      "slug": "after-the-midterms-things-are-looking-rocky-for-el-7",
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
       "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
       "category": "industry",
@@ -31,8 +136,8 @@
       ]
     },
     {
-      "id": "3",
-      "slug": "megaspeed-exec-was-recruited-to-spy-on-nvidia-ceo--3",
+      "id": "8",
+      "slug": "megaspeed-exec-was-recruited-to-spy-on-nvidia-ceo--8",
       "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
       "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
       "category": "industry",
@@ -52,8 +157,8 @@
       ]
     },
     {
-      "id": "4",
-      "slug": "crusoe-sells-troubled-wyoming-data-center-project--4",
+      "id": "9",
+      "slug": "crusoe-sells-troubled-wyoming-data-center-project--9",
       "title": "Crusoe sells troubled Wyoming data center project to Google",
       "summary": "The deal highlights the challenges of developing massive AI data centers.",
       "category": "industry",
@@ -73,8 +178,8 @@
       ]
     },
     {
-      "id": "5",
-      "slug": "nyt-cooking-s-ai-assistant-saved-my-weeknight-chic-5",
+      "id": "10",
+      "slug": "nyt-cooking-s-ai-assistant-saved-my-weeknight-chic-10",
       "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
       "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A n",
       "category": "industry",
@@ -94,71 +199,8 @@
       ]
     },
     {
-      "id": "6",
-      "slug": "the-us-let-nvidia-sell-chips-to-an-empty-office-in-6",
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on ",
-      "category": "industry",
-      "publishedAt": "2026-11-07",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on "
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "7",
-      "slug": "ai-broke-the-cybersecurity-world-what-s-next-7",
-      "title": "AI broke the cybersecurity world. What’s next?",
-      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always e",
-      "category": "industry",
-      "publishedAt": "2026-11-07",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always e"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "8",
-      "slug": "why-a-new-report-on-anthropic-automating-ai-develo-8",
-      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new rep",
-      "category": "industry",
-      "publishedAt": "2026-11-07",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new rep"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "9",
-      "slug": "openai-reportedly-raises-an-additional-11-billion--9",
+      "id": "11",
+      "slug": "openai-reportedly-raises-an-additional-11-billion--11",
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
       "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
       "category": "industry",
@@ -174,48 +216,6 @@
         [
           "p",
           "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "10",
-      "slug": "hundreds-of-artex-ai-hacking-tools-found-publicly--10",
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "category": "industry",
-      "publishedAt": "2026-11-06",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "11",
-      "slug": "openai-valued-at-1-25-trillion-as-rival-anthropic--11",
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors ",
-      "category": "industry",
-      "publishedAt": "2026-11-06",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors "
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
