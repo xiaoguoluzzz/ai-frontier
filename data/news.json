@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-09T03:05:48.983Z",
-  "builtAt": "2026-11-09T03:05:48.983Z",
+  "updatedAt": "2026-11-10T04:50:06.675Z",
+  "builtAt": "2026-11-10T04:50:06.675Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -11,18 +11,41 @@
   "items": [
     {
       "id": "2",
-      "slug": "nvidia-will-investigate-ceo-jensen-huang-s-relatio-2",
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "slug": "chatgpt-enterprise-now-available-in-aws-marketplac-2",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "summary": "GPT-5.5 相关动态：ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "category": "model-release",
+      "publishedAt": "2026-11-09",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "relatedModels": [
+        "gpt-5-5"
+      ],
+      "content": [
+        [
+          "p",
+          "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
+        ],
+        [
+          "p",
+          "来源：OpenAI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "3",
+      "slug": "anthropic-reportedly-plans-to-move-forward-with-ip-3",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
       "category": "industry",
-      "publishedAt": "2026-11-08",
+      "publishedAt": "2026-11-10",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "In a memo to the company, Huang admitted that he had an affair."
+          "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
         ],
         [
           "p",
@@ -31,40 +54,19 @@
       ]
     },
     {
-      "id": "3",
-      "slug": "here-s-the-full-text-of-jensen-huang-s-memo-to-nvi-3",
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Hu",
-      "category": "industry",
-      "publishedAt": "2026-11-08",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Hu"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
       "id": "4",
-      "slug": "nvidia-is-investigating-jensen-huang-s-relationshi-4",
-      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement ",
+      "slug": "david-ellison-says-ai-could-be-the-biggest-creativ-4",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I thin",
       "category": "industry",
-      "publishedAt": "2026-11-08",
+      "publishedAt": "2026-11-10",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "sourceUrl": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement "
+          "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I thin"
         ],
         [
           "p",
@@ -74,60 +76,60 @@
     },
     {
       "id": "5",
-      "slug": "apple-is-racing-to-make-siri-more-agentic-5",
-      "title": "Apple is racing to make Siri more agentic",
-      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional",
+      "slug": "jensen-huang-reportedly-engaged-a-pr-firm-with-a-h-5",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
       "category": "industry",
-      "publishedAt": "2026-11-08",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "publishedAt": "2026-11-09",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional"
+          "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
         ],
         [
           "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "6",
-      "slug": "elvis-and-eminem-rights-holders-are-suing-suno-6",
-      "title": "Elvis and Eminem rights holders are suing Suno",
-      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimi",
+      "slug": "a-short-seller-flagged-nvidia-ceo-8217-s-ties-to-a-6",
+      "title": "A short seller flagged Nvidia CEO&#8217;s ties to a suspected Chinese spy six months before the scandal",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
       "category": "industry",
-      "publishedAt": "2026-11-08",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "publishedAt": "2026-11-09",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimi"
+          "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
         ],
         [
           "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "7",
-      "slug": "after-the-midterms-things-are-looking-rocky-for-el-7",
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "slug": "the-race-is-on-to-sue-nvidia-7",
+      "title": "The race is on to sue Nvidia",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn ",
       "category": "industry",
-      "publishedAt": "2026-11-07",
+      "publishedAt": "2026-11-09",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "On Equity, we unpacked what the midterms mean for the tech industry."
+          "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn "
         ],
         [
           "p",
@@ -137,18 +139,18 @@
     },
     {
       "id": "8",
-      "slug": "megaspeed-exec-was-recruited-to-spy-on-nvidia-ceo--8",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "slug": "jensen-huang-pulls-out-of-elevenlabs-summit-amid-n-8",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
       "category": "industry",
-      "publishedAt": "2026-11-07",
+      "publishedAt": "2026-11-09",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
+          "The Nvidia CEO also pulled out of an Anthropic event earlier."
         ],
         [
           "p",
@@ -158,39 +160,39 @@
     },
     {
       "id": "9",
-      "slug": "crusoe-sells-troubled-wyoming-data-center-project--9",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "slug": "what-could-china-get-from-jensen-huang-9",
+      "title": "What could China get from Jensen Huang?",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been ",
       "category": "industry",
-      "publishedAt": "2026-11-07",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "publishedAt": "2026-11-09",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The deal highlights the challenges of developing massive AI data centers."
+          "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been "
         ],
         [
           "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "10",
-      "slug": "nyt-cooking-s-ai-assistant-saved-my-weeknight-chic-10",
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A n",
+      "slug": "here-s-what-trump-said-he-knew-about-jensen-huang-10",
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"&#8203;&#8203;",
       "category": "industry",
-      "publishedAt": "2026-11-07",
+      "publishedAt": "2026-11-09",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "sourceUrl": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A n"
+          "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"&#8203;&#8203;"
         ],
         [
           "p",
@@ -200,28 +202,91 @@
     },
     {
       "id": "11",
-      "slug": "openai-reportedly-raises-an-additional-11-billion--11",
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "slug": "everything-we-know-so-far-about-the-nvidia-spy-sca-11",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intell",
       "category": "industry",
-      "publishedAt": "2026-11-06",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "publishedAt": "2026-11-09",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
+          "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intell"
         ],
         [
           "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "12",
-      "slug": "how-to-predict-the-behavior-of-molecules-from-scan-12",
+      "slug": "apple-s-50-intelligence-usage-packs-extend-access--12",
+      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9",
+      "category": "industry",
+      "publishedAt": "2026-11-09",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "13",
+      "slug": "a-single-ai-model-simulates-the-behavior-of-many-s-13",
+      "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+      "summary": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.",
+      "category": "breakthrough",
+      "publishedAt": "2026-11-09",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more."
+        ],
+        [
+          "p",
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "14",
+      "slug": "ai-assisted-learning-platform-helps-robots-reason--14",
+      "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+      "summary": "The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots.",
+      "category": "breakthrough",
+      "publishedAt": "2026-11-09",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots."
+        ],
+        [
+          "p",
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "15",
+      "slug": "how-to-predict-the-behavior-of-molecules-from-scan-15",
       "title": "How to predict the behavior of molecules from scant data",
       "summary": "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation.",
       "category": "breakthrough",
@@ -233,48 +298,6 @@
         [
           "p",
           "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "13",
-      "slug": "clearing-up-a-robot-s-fuzzy-memory-13",
-      "title": "Clearing up a robot’s fuzzy memory",
-      "summary": "A new system identifies and corrects unreliable object descriptions stored in a robot’s memory, improving the robot’s ability to interact with its environment.",
-      "category": "breakthrough",
-      "publishedAt": "2026-11-05",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "A new system identifies and corrects unreliable object descriptions stored in a robot’s memory, improving the robot’s ability to interact with its environment."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "14",
-      "slug": "building-connections-across-the-research-infrastru-14",
-      "title": "Building connections across the research infrastructure",
-      "summary": "MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected.",
-      "category": "breakthrough",
-      "publishedAt": "2026-11-03",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected."
         ],
         [
           "p",
