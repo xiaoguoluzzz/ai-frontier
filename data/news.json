@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-10T04:50:06.675Z",
-  "builtAt": "2026-11-10T04:50:06.675Z",
+  "updatedAt": "2026-11-11T03:14:04.350Z",
+  "builtAt": "2026-11-11T03:14:04.350Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -11,20 +11,20 @@
   "items": [
     {
       "id": "2",
-      "slug": "chatgpt-enterprise-now-available-in-aws-marketplac-2",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "summary": "GPT-5.5 相关动态：ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "slug": "introducing-businesses-in-chatgpt-2",
+      "title": "Introducing Businesses in ChatGPT",
+      "summary": "GPT-5.5 相关动态：Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
       "category": "model-release",
-      "publishedAt": "2026-11-09",
+      "publishedAt": "2026-11-10",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "sourceUrl": "https://openai.com/index/introducing-businesses-chatgpt",
       "relatedModels": [
         "gpt-5-5"
       ],
       "content": [
         [
           "p",
-          "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
+          "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
         ],
         [
           "p",
@@ -34,39 +34,20 @@
     },
     {
       "id": "3",
-      "slug": "anthropic-reportedly-plans-to-move-forward-with-ip-3",
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-      "category": "industry",
-      "publishedAt": "2026-11-10",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "4",
-      "slug": "david-ellison-says-ai-could-be-the-biggest-creativ-4",
-      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I thin",
-      "category": "industry",
+      "slug": "chatgpt-is-getting-verified-ai-business-agents-3",
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "summary": "GPT-5.5 相关动态：ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is laun",
+      "category": "model-release",
       "publishedAt": "2026-11-10",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-      "relatedModels": [],
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "relatedModels": [
+        "gpt-5-5"
+      ],
       "content": [
         [
           "p",
-          "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I thin"
+          "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is laun"
         ],
         [
           "p",
@@ -75,19 +56,40 @@
       ]
     },
     {
-      "id": "5",
-      "slug": "jensen-huang-reportedly-engaged-a-pr-firm-with-a-h-5",
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "id": "4",
+      "slug": "openai-acquires-odessia-travel-startup-created-by--4",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
       "category": "industry",
-      "publishedAt": "2026-11-09",
+      "publishedAt": "2026-11-10",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
+          "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "5",
+      "slug": "openai-anthropic-face-new-oversight-as-new-york-s--5",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "category": "industry",
+      "publishedAt": "2026-11-10",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
         ],
         [
           "p",
@@ -97,18 +99,18 @@
     },
     {
       "id": "6",
-      "slug": "a-short-seller-flagged-nvidia-ceo-8217-s-ties-to-a-6",
-      "title": "A short seller flagged Nvidia CEO&#8217;s ties to a suspected Chinese spy six months before the scandal",
-      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "slug": "all-7-anthropic-founders-will-each-cash-out-about--6",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
       "category": "industry",
-      "publishedAt": "2026-11-09",
+      "publishedAt": "2026-11-10",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
+          "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company."
         ],
         [
           "p",
@@ -118,18 +120,18 @@
     },
     {
       "id": "7",
-      "slug": "the-race-is-on-to-sue-nvidia-7",
-      "title": "The race is on to sue Nvidia",
-      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn ",
+      "slug": "oura-to-acquire-ai-native-primary-care-startup-cou-7",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
       "category": "industry",
-      "publishedAt": "2026-11-09",
+      "publishedAt": "2026-11-10",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn "
+          "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”"
         ],
         [
           "p",
@@ -139,18 +141,18 @@
     },
     {
       "id": "8",
-      "slug": "jensen-huang-pulls-out-of-elevenlabs-summit-amid-n-8",
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-      "category": "industry",
-      "publishedAt": "2026-11-09",
+      "slug": "psi-is-trying-to-make-a-business-out-of-ai-driven--8",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "category": "breakthrough",
+      "publishedAt": "2026-11-10",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The Nvidia CEO also pulled out of an Anthropic event earlier."
+          "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
         ],
         [
           "p",
@@ -160,39 +162,39 @@
     },
     {
       "id": "9",
-      "slug": "what-could-china-get-from-jensen-huang-9",
-      "title": "What could China get from Jensen Huang?",
-      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been ",
-      "category": "industry",
-      "publishedAt": "2026-11-09",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "slug": "we-re-bringing-adobe-s-creative-and-productivity-t-9",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp\">Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See ",
+      "category": "breakthrough",
+      "publishedAt": "2026-11-10",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been "
+          "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp\">Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See "
         ],
         [
           "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+          "来源：Google AI Blog。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "10",
-      "slug": "here-s-what-trump-said-he-knew-about-jensen-huang-10",
-      "title": "Here’s what Trump said he knew about Jensen Huang",
-      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"&#8203;&#8203;",
+      "slug": "the-us-is-winning-the-ai-race-jensen-huang-could-h-10",
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs,",
       "category": "industry",
-      "publishedAt": "2026-11-09",
+      "publishedAt": "2026-11-10",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"&#8203;&#8203;"
+          "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs,"
         ],
         [
           "p",
@@ -202,18 +204,18 @@
     },
     {
       "id": "11",
-      "slug": "everything-we-know-so-far-about-the-nvidia-spy-sca-11",
-      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intell",
+      "slug": "the-indie-game-community-is-in-disarray-over-ai-an-11",
+      "title": "The indie game community is in disarray over AI and Big Walk",
+      "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it ",
       "category": "industry",
-      "publishedAt": "2026-11-09",
+      "publishedAt": "2026-11-10",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "sourceUrl": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intell"
+          "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it "
         ],
         [
           "p",
@@ -223,18 +225,18 @@
     },
     {
       "id": "12",
-      "slug": "apple-s-50-intelligence-usage-packs-extend-access--12",
-      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9",
+      "slug": "anthropic-has-its-own-ai-powered-office-suite-now-12",
+      "title": "Anthropic has its own AI-powered office suite now",
+      "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Cl",
       "category": "industry",
-      "publishedAt": "2026-11-09",
+      "publishedAt": "2026-11-10",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9"
+          "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Cl"
         ],
         [
           "p",
@@ -244,60 +246,39 @@
     },
     {
       "id": "13",
-      "slug": "a-single-ai-model-simulates-the-behavior-of-many-s-13",
-      "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
-      "summary": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.",
-      "category": "breakthrough",
-      "publishedAt": "2026-11-09",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+      "slug": "ebay-appears-to-have-shut-the-door-on-third-party--13",
+      "title": "eBay appears to have shut the door on third-party AI agents",
+      "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily dig",
+      "category": "industry",
+      "publishedAt": "2026-11-10",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more."
+          "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily dig"
         ],
         [
           "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "14",
-      "slug": "ai-assisted-learning-platform-helps-robots-reason--14",
-      "title": "AI-assisted learning platform helps robots reason beyond literal commands",
-      "summary": "The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots.",
+      "slug": "mit-led-team-receives-funding-to-develop-next-gene-14",
+      "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
+      "summary": "With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides that reduce dependence on imports and improve the security of the U.S. food supply.",
       "category": "breakthrough",
-      "publishedAt": "2026-11-09",
+      "publishedAt": "2026-11-10",
       "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+      "sourceUrl": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "15",
-      "slug": "how-to-predict-the-behavior-of-molecules-from-scan-15",
-      "title": "How to predict the behavior of molecules from scant data",
-      "summary": "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation.",
-      "category": "breakthrough",
-      "publishedAt": "2026-11-06",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation."
+          "With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides that reduce dependence on imports and improve the security of the U.S. food supply."
         ],
         [
           "p",
