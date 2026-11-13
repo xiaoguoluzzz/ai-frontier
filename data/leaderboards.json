@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-12T04:25:40.555Z",
-  "builtAt": "2026-11-12T04:25:40.555Z",
+  "updatedAt": "2026-11-13T03:41:42.704Z",
+  "builtAt": "2026-11-13T03:41:42.704Z",
   "stale": false,
   "boards": [
     {
@@ -10,7 +10,7 @@
       "source": "Artificial Analysis 智能指数",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "智能指数",
-      "updatedAt": "2026-11-12T04:25:40.555Z",
+      "updatedAt": "2026-11-13T03:41:42.704Z",
       "stale": false,
       "entries": [
         {
@@ -63,19 +63,19 @@
         },
         {
           "rank": 7,
+          "model": "Gemini 4 Hydrogen (xhigh)",
+          "company": "Google",
+          "score": 53.9192287317542,
+          "displayScore": "53.9",
+          "barPct": 84
+        },
+        {
+          "rank": 8,
           "model": "GPT-6.1 Terra (max)",
           "company": "OpenAI",
           "score": 51.3265188577015,
           "displayScore": "51.3",
           "barPct": 79
-        },
-        {
-          "rank": 8,
-          "model": "Muse Wonder Full (max)",
-          "company": "Meta",
-          "score": 50.0772123627021,
-          "displayScore": "50.1",
-          "barPct": 78
         }
       ]
     },
@@ -86,7 +86,7 @@
       "source": "Artificial Analysis 智能指数（近似）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "智能指数",
-      "updatedAt": "2026-11-12T04:25:40.555Z",
+      "updatedAt": "2026-11-13T03:41:42.704Z",
       "stale": false,
       "entries": [
         {
@@ -139,19 +139,19 @@
         },
         {
           "rank": 7,
+          "model": "Gemini 4 Hydrogen (xhigh)",
+          "company": "Google",
+          "score": 53.9192287317542,
+          "displayScore": "53.9",
+          "barPct": 84
+        },
+        {
+          "rank": 8,
           "model": "GPT-6.1 Terra (max)",
           "company": "OpenAI",
           "score": 51.3265188577015,
           "displayScore": "51.3",
           "barPct": 79
-        },
-        {
-          "rank": 8,
-          "model": "Muse Wonder Full (max)",
-          "company": "Meta",
-          "score": 50.0772123627021,
-          "displayScore": "50.1",
-          "barPct": 78
         }
       ],
       "approx": true
@@ -163,7 +163,7 @@
       "source": "Artificial Analysis（FrontierCode）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "FrontierCode",
-      "updatedAt": "2026-11-12T04:25:40.555Z",
+      "updatedAt": "2026-11-13T03:41:42.704Z",
       "stale": false,
       "entries": [
         {
@@ -239,7 +239,7 @@
       "source": "Artificial Analysis（GPQA）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "GPQA",
-      "updatedAt": "2026-11-12T04:25:40.555Z",
+      "updatedAt": "2026-11-13T03:41:42.704Z",
       "stale": false,
       "entries": [
         {
@@ -252,14 +252,6 @@
         },
         {
           "rank": 2,
-          "model": "Gemini 3.8 Flash (high)",
-          "company": "Google",
-          "score": 0.952525252525253,
-          "displayScore": "95.3%",
-          "barPct": 99
-        },
-        {
-          "rank": 3,
           "model": "Qwen3.8 Max (0902)",
           "company": "Alibaba",
           "score": 0.928282828282828,
@@ -267,7 +259,7 @@
           "barPct": 97
         },
         {
-          "rank": 4,
+          "rank": 3,
           "model": "GLM-5.3 (max)",
           "company": "Z AI",
           "score": 0.917171717171717,
@@ -275,7 +267,7 @@
           "barPct": 95
         },
         {
-          "rank": 5,
+          "rank": 4,
           "model": "Qwen3.8 27B (xhigh)",
           "company": "Alibaba",
           "score": 0.905050505050505,
@@ -283,7 +275,7 @@
           "barPct": 94
         },
         {
-          "rank": 6,
+          "rank": 5,
           "model": "K2 Horizon 375B A23B",
           "company": "Institute of Foundation Models",
           "score": 0.872727272727273,
