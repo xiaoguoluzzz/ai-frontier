@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-13T03:41:42.706Z",
-  "builtAt": "2026-11-13T03:41:42.706Z",
+  "updatedAt": "2026-11-14T03:39:46.509Z",
+  "builtAt": "2026-11-14T03:39:46.509Z",
   "stale": false,
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/models",
@@ -194,7 +194,7 @@
     },
     {
       "id": "10",
-      "slug": "ling-3-1-flash-1019",
+      "slug": "ling-3-1-flash",
       "name": "Ling 3.1 Flash 1019",
       "company": "InclusionAI",
       "openWeights": true,
