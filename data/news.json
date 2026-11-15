@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-14T03:39:46.324Z",
-  "builtAt": "2026-11-14T03:39:46.324Z",
+  "updatedAt": "2026-11-15T03:15:27.619Z",
+  "builtAt": "2026-11-15T03:15:27.619Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -57,20 +57,18 @@
     },
     {
       "id": "4",
-      "slug": "chatgpt-8217-s-new-wallet-lets-ai-agents-shop-and--4",
-      "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
-      "summary": "GPT-5.5 相关动态：ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "category": "model-release",
-      "publishedAt": "2026-11-13",
+      "slug": "where-was-nvidia-8217-s-security-team-4",
+      "title": "Where was Nvidia&#8217;s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it",
+      "category": "industry",
+      "publishedAt": "2026-11-15",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "relatedModels": [
-        "gpt-5-5"
-      ],
+      "sourceUrl": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "relatedModels": [],
       "content": [
         [
           "p",
-          "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
+          "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it"
         ],
         [
           "p",
@@ -80,7 +78,112 @@
     },
     {
       "id": "5",
-      "slug": "jensen-huang-s-departure-blasts-big-hole-in-ai-sta-5",
+      "slug": "elon-musk-other-tech-execs-sign-petition-calling-o-5",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "category": "industry",
+      "publishedAt": "2026-11-14",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "6",
+      "slug": "the-ai-graveyard-a-running-list-of-projects-and-st-6",
+      "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "category": "industry",
+      "publishedAt": "2026-11-14",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "7",
+      "slug": "asian-governments-react-to-nvidia-ceo-jensen-huang-7",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "category": "industry",
+      "publishedAt": "2026-11-14",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "8",
+      "slug": "the-openai-board-member-who-fired-sam-altman-says--8",
+      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safet",
+      "category": "industry",
+      "publishedAt": "2026-11-14",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safet"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "9",
+      "slug": "jensen-huang-and-the-decline-of-the-visionary-show-9",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces",
+      "category": "industry",
+      "publishedAt": "2026-11-14",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "10",
+      "slug": "jensen-huang-s-departure-blasts-big-hole-in-ai-sta-10",
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
       "category": "industry",
@@ -100,71 +203,8 @@
       ]
     },
     {
-      "id": "6",
-      "slug": "ai-agent-startup-langchain-hits-3b-valuation-6",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "category": "industry",
-      "publishedAt": "2026-11-13",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "7",
-      "slug": "export-banned-nvidia-chips-are-behind-china-8217-s-7",
-      "title": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh-oh, Jensen!",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "category": "industry",
-      "publishedAt": "2026-11-13",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "8",
-      "slug": "the-unfolding-jensen-huang-scandal-a-timeline-8",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "category": "industry",
-      "publishedAt": "2026-11-13",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "9",
-      "slug": "amazon-has-a-plan-to-index-the-world-s-online-shop-9",
+      "id": "11",
+      "slug": "amazon-has-a-plan-to-index-the-world-s-online-shop-11",
       "title": "Amazon has a plan to index the world’s online shopping data",
       "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Produ",
       "category": "industry",
@@ -184,8 +224,8 @@
       ]
     },
     {
-      "id": "10",
-      "slug": "what-8217-s-really-at-stake-in-the-jensen-huang-sa-10",
+      "id": "12",
+      "slug": "what-8217-s-really-at-stake-in-the-jensen-huang-sa-12",
       "title": "What&#8217;s really at stake in the Jensen Huang saga",
       "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A s",
       "category": "industry",
@@ -197,48 +237,6 @@
         [
           "p",
           "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A s"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "11",
-      "slug": "claude-s-duet-agent-is-a-little-neurotic-and-surpr-11",
-      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful",
-      "category": "model-release",
-      "publishedAt": "2026-11-13",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "12",
-      "slug": "let-s-talk-about-jensen-huang-s-many-affairs-12",
-      "title": "Let’s talk about Jensen Huang’s many affairs!",
-      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are d",
-      "category": "industry",
-      "publishedAt": "2026-11-13",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are d"
         ],
         [
           "p",
