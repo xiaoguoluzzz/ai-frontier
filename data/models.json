@@ -1,12 +1,32 @@
 {
-  "updatedAt": "2026-11-15T03:15:28.005Z",
-  "builtAt": "2026-11-15T03:15:28.005Z",
+  "updatedAt": "2026-11-16T03:17:50.616Z",
+  "builtAt": "2026-11-16T03:17:50.616Z",
   "stale": false,
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/models",
   "items": [
     {
       "id": "1",
+      "slug": "qwen4-max",
+      "name": "Qwen4 Max",
+      "company": "Alibaba",
+      "openWeights": false,
+      "contextLength": "984K",
+      "releaseDate": "2026-11",
+      "description": "Alibaba 闭源大模型，2026-11 发布，上下文 984K tokens，Artificial Analysis 智能指数 42.9。",
+      "features": [
+        "智能指数 42.9",
+        "支持深度推理模式",
+        "输入 $1.5 / 1M tokens，输出 $4.5",
+        "闭源商用"
+      ],
+      "modalities": [
+        "文本",
+        "图像"
+      ]
+    },
+    {
+      "id": "2",
       "slug": "gemini-4-hydrogen",
       "name": "Gemini 4 Hydrogen (xhigh)",
       "company": "Google",
@@ -28,7 +48,7 @@
       ]
     },
     {
-      "id": "2",
+      "id": "3",
       "slug": "claude-fable-5-2",
       "name": "Claude Fable 5.2 (max)",
       "company": "Anthropic",
@@ -48,7 +68,7 @@
       ]
     },
     {
-      "id": "3",
+      "id": "4",
       "slug": "muse-ember",
       "name": "Muse Ember (max)",
       "company": "Meta",
@@ -68,7 +88,7 @@
       ]
     },
     {
-      "id": "4",
+      "id": "5",
       "slug": "inkling-2-small",
       "name": "Inkling 2 Small",
       "company": "Thinking Machines",
@@ -89,7 +109,7 @@
       ]
     },
     {
-      "id": "5",
+      "id": "6",
       "slug": "tencent-hy4",
       "name": "Tencent Hy4",
       "company": "Tencent",
@@ -109,7 +129,7 @@
       ]
     },
     {
-      "id": "6",
+      "id": "7",
       "slug": "mistral-large-4",
       "name": "Mistral Large 4 (high)",
       "company": "Mistral",
@@ -130,7 +150,7 @@
       ]
     },
     {
-      "id": "7",
+      "id": "8",
       "slug": "gemini-4-carbon",
       "name": "Gemini 4 Carbon (high)",
       "company": "Google",
@@ -152,7 +172,7 @@
       ]
     },
     {
-      "id": "8",
+      "id": "9",
       "slug": "gpt-6-1-terra",
       "name": "GPT-6.1 Terra (max)",
       "company": "OpenAI",
@@ -172,7 +192,7 @@
       ]
     },
     {
-      "id": "9",
+      "id": "10",
       "slug": "kimi-k3-1-pro",
       "name": "Kimi K3.1 Pro",
       "company": "Kimi",
@@ -193,7 +213,7 @@
       ]
     },
     {
-      "id": "10",
+      "id": "11",
       "slug": "ling-3-1-flash",
       "name": "Ling 3.1 Flash 1019",
       "company": "InclusionAI",
@@ -213,7 +233,7 @@
       ]
     },
     {
-      "id": "11",
+      "id": "12",
       "slug": "deepseek-v4-1-flash-1017",
       "name": "DeepSeek V4.1 Flash 1017 (max)",
       "company": "DeepSeek",
@@ -234,7 +254,7 @@
       ]
     },
     {
-      "id": "12",
+      "id": "13",
       "slug": "reflection-beam",
       "name": "Beam 1.0",
       "company": "Reflection",
@@ -254,7 +274,7 @@
       ]
     },
     {
-      "id": "13",
+      "id": "14",
       "slug": "nemotron-3-5-super-vl",
       "name": "Nemotron 3.5 Super VL",
       "company": "NVIDIA",
@@ -275,7 +295,7 @@
       ]
     },
     {
-      "id": "14",
+      "id": "15",
       "slug": "muse-wonder-full",
       "name": "Muse Wonder Full (max)",
       "company": "Meta",
@@ -296,7 +316,7 @@
       ]
     },
     {
-      "id": "15",
+      "id": "16",
       "slug": "muse-wonder",
       "name": "Muse Wonder (max)",
       "company": "Meta",
@@ -318,7 +338,7 @@
       ]
     },
     {
-      "id": "16",
+      "id": "17",
       "slug": "claude-haiku-5-5",
       "name": "Claude Haiku 5.5 (max)",
       "company": "Anthropic",
@@ -338,7 +358,7 @@
       ]
     },
     {
-      "id": "17",
+      "id": "18",
       "slug": "gpt-6-1-sol",
       "name": "GPT-6.1 Sol (max)",
       "company": "OpenAI",
@@ -358,7 +378,7 @@
       ]
     },
     {
-      "id": "18",
+      "id": "19",
       "slug": "claude-sonnet-5-5",
       "name": "Claude Sonnet 5.5 (max)",
       "company": "Anthropic",
@@ -378,7 +398,7 @@
       ]
     },
     {
-      "id": "19",
+      "id": "20",
       "slug": "claude-opus-5-5",
       "name": "Claude Opus 5.5 (max)",
       "company": "Anthropic",
@@ -398,7 +418,7 @@
       ]
     },
     {
-      "id": "20",
+      "id": "21",
       "slug": "gpt-6-luna",
       "name": "GPT-6 Luna (max)",
       "company": "OpenAI",
@@ -418,7 +438,7 @@
       ]
     },
     {
-      "id": "21",
+      "id": "22",
       "slug": "grok-4-7",
       "name": "Grok 4.7 (xhigh)",
       "company": "SpaceXAI",
@@ -438,7 +458,7 @@
       ]
     },
     {
-      "id": "22",
+      "id": "23",
       "slug": "mimo-v2-6-pro",
       "name": "MiMo-V2.6-Pro",
       "company": "Xiaomi",
@@ -461,7 +481,7 @@
       ]
     },
     {
-      "id": "23",
+      "id": "24",
       "slug": "gpt-6-astra",
       "name": "GPT-6 Astra (max)",
       "company": "OpenAI",
@@ -481,7 +501,7 @@
       ]
     },
     {
-      "id": "24",
+      "id": "25",
       "slug": "k2-horizon-375b-a23b",
       "name": "K2 Horizon 375B A23B",
       "company": "Institute of Foundation Models",
@@ -498,26 +518,6 @@
       ],
       "modalities": [
         "文本"
-      ]
-    },
-    {
-      "id": "25",
-      "slug": "qwen3-8-max",
-      "name": "Qwen3.8 Max (0902)",
-      "company": "Alibaba",
-      "openWeights": false,
-      "contextLength": "984K",
-      "releaseDate": "2026-09",
-      "description": "Alibaba 闭源大模型，2026-09 发布，上下文 984K tokens，Artificial Analysis 智能指数 33.7。",
-      "features": [
-        "智能指数 33.7",
-        "支持深度推理模式",
-        "输入 $2 / 1M tokens，输出 $6",
-        "闭源商用"
-      ],
-      "modalities": [
-        "文本",
-        "图像"
       ]
     },
     {
