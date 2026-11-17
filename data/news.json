@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T03:17:50.048Z",
-  "builtAt": "2026-11-16T03:17:50.048Z",
+  "updatedAt": "2026-11-17T05:18:07.244Z",
+  "builtAt": "2026-11-17T05:18:07.244Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -11,20 +11,20 @@
   "items": [
     {
       "id": "2",
-      "slug": "introducing-chatgpt-wallet-2",
-      "title": "Introducing ChatGPT Wallet",
-      "summary": "GPT-5.5 相关动态：Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "slug": "science-at-the-frontier-how-scientists-use-chatgpt-2",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "summary": "GPT-5.5 相关动态：Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
       "category": "model-release",
-      "publishedAt": "2026-11-13",
+      "publishedAt": "2026-11-16",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/introducing-chatgpt-wallet",
+      "sourceUrl": "https://openai.com/index/science-at-the-frontier",
       "relatedModels": [
         "gpt-5-5"
       ],
       "content": [
         [
           "p",
-          "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+          "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
         ],
         [
           "p",
@@ -34,60 +34,60 @@
     },
     {
       "id": "3",
-      "slug": "apple-launches-new-app-to-study-how-people-use-ai--3",
-      "title": "Apple launches new app to study how people use AI for health",
-      "summary": "Apple's new app for a study will answer everyday medical questions",
-      "category": "industry",
-      "publishedAt": "2026-11-16",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "slug": "q-a-why-building-math-muscles-remains-important-in-3",
+      "title": "Q&A: Why building math muscles remains important in the AI era",
+      "summary": "Assistant Professor John Urschel explains why learning the fundamental skills of mathematics is still essential despite the evolution of AI tools.",
+      "category": "breakthrough",
+      "publishedAt": "2026-11-17",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Apple's new app for a study will answer everyday medical questions"
+          "Assistant Professor John Urschel explains why learning the fundamental skills of mathematics is still essential despite the evolution of AI tools."
         ],
         [
           "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "4",
-      "slug": "apple-s-new-study-looks-to-improve-the-effectivene-4",
-      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collab",
-      "category": "industry",
-      "publishedAt": "2026-11-16",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "slug": "learning-the-language-of-machine-learning-4",
+      "title": "Learning the language of machine learning",
+      "summary": "By studying the computational foundations of language learning, Associate Professor Jacob Andreas builds intelligent systems that can communicate effectively with humans.",
+      "category": "breakthrough",
+      "publishedAt": "2026-11-17",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collab"
+          "By studying the computational foundations of language learning, Associate Professor Jacob Andreas builds intelligent systems that can communicate effectively with humans."
         ],
         [
           "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "5",
-      "slug": "indian-chip-startup-bharat-semi-lands-24m-seed-rou-5",
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "slug": "cybersecurity-ai-startup-corma-reaches-1b-valuatio-5",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
       "category": "industry",
-      "publishedAt": "2026-11-15",
+      "publishedAt": "2026-11-16",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "sourceUrl": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
+          "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
         ],
         [
           "p",
@@ -97,18 +97,18 @@
     },
     {
       "id": "6",
-      "slug": "is-bad-news-for-jensen-huang-also-bad-news-for-the-6",
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "slug": "all-the-questions-nvidia-should-answer-on-tuesday--6",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvi",
       "category": "industry",
-      "publishedAt": "2026-11-15",
+      "publishedAt": "2026-11-16",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "sourceUrl": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\""
+          "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvi"
         ],
         [
           "p",
@@ -118,18 +118,18 @@
     },
     {
       "id": "7",
-      "slug": "snl-gathers-all-the-tech-tycoons-for-a-lesson-in-d-7",
-      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+      "slug": "california-state-ag-sues-openai-over-rogue-agent-i-7",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
       "category": "industry",
-      "publishedAt": "2026-11-15",
+      "publishedAt": "2026-11-16",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "sourceUrl": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once."
+          "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident."
         ],
         [
           "p",
@@ -139,18 +139,18 @@
     },
     {
       "id": "8",
-      "slug": "where-was-nvidia-8217-s-security-team-8",
-      "title": "Where was Nvidia&#8217;s security team?",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it",
+      "slug": "trump-says-ex-nvidia-ceo-jensen-huang-8217-s-affai-8",
+      "title": "Trump says ex-Nvidia CEO Jensen Huang&#8217;s affair with an alleged Chinese spy did not threaten national security",
+      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
       "category": "industry",
-      "publishedAt": "2026-11-15",
+      "publishedAt": "2026-11-16",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "sourceUrl": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it"
+          "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy."
         ],
         [
           "p",
@@ -160,60 +160,60 @@
     },
     {
       "id": "9",
-      "slug": "jensen-huang-might-be-plotting-a-return-and-more-o-9",
-      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That ",
+      "slug": "sam-altman-on-nvidia-without-jensen-huang-the-indu-9",
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be &#8216;fine’",
+      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
       "category": "industry",
-      "publishedAt": "2026-11-15",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "publishedAt": "2026-11-16",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That "
+          "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm."
         ],
         [
           "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "10",
-      "slug": "congress-wants-to-tighten-export-rules-on-ai-chips-10",
-      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various meas",
-      "category": "industry",
-      "publishedAt": "2026-11-15",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "slug": "new-ask-maps-features-to-help-with-holiday-travel--10",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp\">Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask ",
+      "category": "breakthrough",
+      "publishedAt": "2026-11-16",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various meas"
+          "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp\">Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask "
         ],
         [
           "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+          "来源：Google AI Blog。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "11",
-      "slug": "an-overview-of-jensen-huang-s-messy-days-11",
-      "title": "An overview of Jensen Huang’s messy days",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our su",
+      "slug": "tech-leaders-are-convinced-that-jensen-huang-s-exi-11",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreadi",
       "category": "industry",
-      "publishedAt": "2026-11-15",
+      "publishedAt": "2026-11-16",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "sourceUrl": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our su"
+          "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreadi"
         ],
         [
           "p",
@@ -223,18 +223,18 @@
     },
     {
       "id": "12",
-      "slug": "the-openai-board-member-who-fired-sam-altman-says--12",
-      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safet",
+      "slug": "california-sues-openai-over-rogue-ai-hacking-incid-12",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law ",
       "category": "industry",
-      "publishedAt": "2026-11-14",
+      "publishedAt": "2026-11-16",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safet"
+          "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law "
         ],
         [
           "p",
@@ -244,7 +244,70 @@
     },
     {
       "id": "13",
-      "slug": "new-ai-copilot-helps-engineers-design-better-struc-13",
+      "slug": "sam-altman-says-he-wants-everyone-to-have-a-lot-of-13",
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman sai",
+      "category": "industry",
+      "publishedAt": "2026-11-16",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman sai"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "14",
+      "slug": "big-nuclear-isn-t-worried-about-the-democrats-stop-14",
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dom",
+      "category": "industry",
+      "publishedAt": "2026-11-16",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dom"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "15",
+      "slug": "us-data-centers-now-burn-more-electricity-than-a-m-15",
+      "title": "US data centers now burn more electricity than a midsized country",
+      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do,",
+      "category": "industry",
+      "publishedAt": "2026-11-16",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do,"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "16",
+      "slug": "new-ai-copilot-helps-engineers-design-better-struc-16",
       "title": "New AI “copilot” helps engineers design better structures",
       "summary": "The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges.",
       "category": "breakthrough",
@@ -256,48 +319,6 @@
         [
           "p",
           "The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "14",
-      "slug": "helping-robots-fit-into-the-human-workplace-14",
-      "title": "Helping robots fit into the human workplace",
-      "summary": "Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots are designed to collaborate with humans in factories and warehouses.",
-      "category": "breakthrough",
-      "publishedAt": "2026-11-13",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots are designed to collaborate with humans in factories and warehouses."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "15",
-      "slug": "three-lincoln-laboratory-technologies-receive-2026-15",
-      "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
-      "summary": "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations.",
-      "category": "breakthrough",
-      "publishedAt": "2026-11-12",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations."
         ],
         [
           "p",

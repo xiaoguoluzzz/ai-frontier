@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T03:17:50.616Z",
-  "builtAt": "2026-11-16T03:17:50.616Z",
+  "updatedAt": "2026-11-17T05:18:07.507Z",
+  "builtAt": "2026-11-17T05:18:07.507Z",
   "stale": false,
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/models",
@@ -22,7 +22,8 @@
       ],
       "modalities": [
         "文本",
-        "图像"
+        "图像",
+        "视频"
       ]
     },
     {
