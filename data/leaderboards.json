@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-17T05:18:07.506Z",
-  "builtAt": "2026-11-17T05:18:07.506Z",
+  "updatedAt": "2026-11-18T04:46:30.330Z",
+  "builtAt": "2026-11-18T04:46:30.330Z",
   "stale": false,
   "boards": [
     {
@@ -10,7 +10,7 @@
       "source": "Artificial Analysis 智能指数",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "智能指数",
-      "updatedAt": "2026-11-17T05:18:07.506Z",
+      "updatedAt": "2026-11-18T04:46:30.330Z",
       "stale": false,
       "entries": [
         {
@@ -23,6 +23,14 @@
         },
         {
           "rank": 2,
+          "model": "GPT-6.2 Astra (max)",
+          "company": "OpenAI",
+          "score": 62.1387990593969,
+          "displayScore": "62.1",
+          "barPct": 96
+        },
+        {
+          "rank": 3,
           "model": "Gemini 4 Carbon (high)",
           "company": "Google",
           "score": 60.025738829526,
@@ -30,7 +38,7 @@
           "barPct": 93
         },
         {
-          "rank": 3,
+          "rank": 4,
           "model": "Claude Opus 5.5 (max)",
           "company": "Anthropic",
           "score": 59.1060336078904,
@@ -38,20 +46,12 @@
           "barPct": 92
         },
         {
-          "rank": 4,
-          "model": "GPT-6 Astra (max)",
-          "company": "OpenAI",
-          "score": 56.8538559596797,
-          "displayScore": "56.9",
-          "barPct": 88
-        },
-        {
           "rank": 5,
-          "model": "GPT-6.1 Sol (max)",
+          "model": "GPT-6.2 Sol (max)",
           "company": "OpenAI",
-          "score": 54.6087338138148,
-          "displayScore": "54.6",
-          "barPct": 85
+          "score": 57.2576209885477,
+          "displayScore": "57.3",
+          "barPct": 89
         },
         {
           "rank": 6,
@@ -86,7 +86,7 @@
       "source": "Artificial Analysis 智能指数（近似）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "智能指数",
-      "updatedAt": "2026-11-17T05:18:07.506Z",
+      "updatedAt": "2026-11-18T04:46:30.330Z",
       "stale": false,
       "entries": [
         {
@@ -99,6 +99,14 @@
         },
         {
           "rank": 2,
+          "model": "GPT-6.2 Astra (max)",
+          "company": "OpenAI",
+          "score": 62.1387990593969,
+          "displayScore": "62.1",
+          "barPct": 96
+        },
+        {
+          "rank": 3,
           "model": "Gemini 4 Carbon (high)",
           "company": "Google",
           "score": 60.025738829526,
@@ -106,7 +114,7 @@
           "barPct": 93
         },
         {
-          "rank": 3,
+          "rank": 4,
           "model": "Claude Opus 5.5 (max)",
           "company": "Anthropic",
           "score": 59.1060336078904,
@@ -114,20 +122,12 @@
           "barPct": 92
         },
         {
-          "rank": 4,
-          "model": "GPT-6 Astra (max)",
-          "company": "OpenAI",
-          "score": 56.8538559596797,
-          "displayScore": "56.9",
-          "barPct": 88
-        },
-        {
           "rank": 5,
-          "model": "GPT-6.1 Sol (max)",
+          "model": "GPT-6.2 Sol (max)",
           "company": "OpenAI",
-          "score": 54.6087338138148,
-          "displayScore": "54.6",
-          "barPct": 85
+          "score": 57.2576209885477,
+          "displayScore": "57.3",
+          "barPct": 89
         },
         {
           "rank": 6,
@@ -163,7 +163,7 @@
       "source": "Artificial Analysis（FrontierCode）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "FrontierCode",
-      "updatedAt": "2026-11-17T05:18:07.506Z",
+      "updatedAt": "2026-11-18T04:46:30.330Z",
       "stale": false,
       "entries": [
         {
@@ -184,14 +184,6 @@
         },
         {
           "rank": 3,
-          "model": "GPT-6.1 Sol (max)",
-          "company": "OpenAI",
-          "score": 0.491209333333333,
-          "displayScore": "49.1%",
-          "barPct": 87
-        },
-        {
-          "rank": 4,
           "model": "Kimi K3.1 Pro",
           "company": "Kimi",
           "score": 0.470664,
@@ -199,15 +191,7 @@
           "barPct": 84
         },
         {
-          "rank": 5,
-          "model": "GPT-6 Astra (max)",
-          "company": "OpenAI",
-          "score": 0.469827666666667,
-          "displayScore": "47.0%",
-          "barPct": 84
-        },
-        {
-          "rank": 6,
+          "rank": 4,
           "model": "Muse Wonder (max)",
           "company": "Meta",
           "score": 0.464713333333333,
@@ -215,7 +199,7 @@
           "barPct": 83
         },
         {
-          "rank": 7,
+          "rank": 5,
           "model": "Claude Sonnet 5.5 (max)",
           "company": "Anthropic",
           "score": 0.458291333333333,
@@ -223,12 +207,28 @@
           "barPct": 82
         },
         {
-          "rank": 8,
+          "rank": 6,
           "model": "MiMo-V2.6-Pro",
           "company": "Xiaomi",
           "score": 0.454153333333333,
           "displayScore": "45.4%",
           "barPct": 81
+        },
+        {
+          "rank": 7,
+          "model": "Muse Wonder Full (max)",
+          "company": "Meta",
+          "score": 0.448865666666667,
+          "displayScore": "44.9%",
+          "barPct": 80
+        },
+        {
+          "rank": 8,
+          "model": "DeepSeek V4.1 Flash 1017 (max)",
+          "company": "DeepSeek",
+          "score": 0.436605666666667,
+          "displayScore": "43.7%",
+          "barPct": 78
         }
       ]
     },
@@ -239,40 +239,32 @@
       "source": "Artificial Analysis（GPQA）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "GPQA",
-      "updatedAt": "2026-11-17T05:18:07.506Z",
+      "updatedAt": "2026-11-18T04:46:30.330Z",
       "stale": false,
       "entries": [
         {
           "rank": 1,
-          "model": "GPT-6 Astra (max)",
-          "company": "OpenAI",
-          "score": 0.960606060606061,
-          "displayScore": "96.1%",
-          "barPct": 100
-        },
-        {
-          "rank": 2,
           "model": "GLM-5.3 (max)",
           "company": "Z AI",
           "score": 0.917171717171717,
           "displayScore": "91.7%",
-          "barPct": 95
+          "barPct": 100
         },
         {
-          "rank": 3,
+          "rank": 2,
           "model": "Qwen3.8 27B (xhigh)",
           "company": "Alibaba",
           "score": 0.905050505050505,
           "displayScore": "90.5%",
-          "barPct": 94
+          "barPct": 99
         },
         {
-          "rank": 4,
+          "rank": 3,
           "model": "K2 Horizon 375B A23B",
           "company": "Institute of Foundation Models",
           "score": 0.872727272727273,
           "displayScore": "87.3%",
-          "barPct": 91
+          "barPct": 95
         }
       ]
     }

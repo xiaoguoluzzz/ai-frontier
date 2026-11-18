@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-17T05:18:07.244Z",
-  "builtAt": "2026-11-17T05:18:07.244Z",
+  "updatedAt": "2026-11-18T04:46:29.812Z",
+  "builtAt": "2026-11-18T04:46:29.812Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -11,20 +11,20 @@
   "items": [
     {
       "id": "2",
-      "slug": "science-at-the-frontier-how-scientists-use-chatgpt-2",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "summary": "GPT-5.5 相关动态：Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "slug": "introducing-chatgpt-for-sales-2",
+      "title": "Introducing ChatGPT for Sales",
+      "summary": "GPT-5.5 相关动态：Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
       "category": "model-release",
-      "publishedAt": "2026-11-16",
+      "publishedAt": "2026-11-17",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/science-at-the-frontier",
+      "sourceUrl": "https://openai.com/index/introducing-chatgpt-for-sales",
       "relatedModels": [
         "gpt-5-5"
       ],
       "content": [
         [
           "p",
-          "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
+          "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
         ],
         [
           "p",
@@ -34,7 +34,238 @@
     },
     {
       "id": "3",
-      "slug": "q-a-why-building-math-muscles-remains-important-in-3",
+      "slug": "nvidia-s-startup-stakes-ballooned-to-65b-but-huang-3",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "category": "industry",
+      "publishedAt": "2026-11-18",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "4",
+      "slug": "nvidia-promises-that-revenue-will-keep-soaring-for-4",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "category": "industry",
+      "publishedAt": "2026-11-18",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "5",
+      "slug": "nvidia-is-abandoning-china-after-jensen-huang-8217-5",
+      "title": "Nvidia is abandoning China after Jensen Huang&#8217;s ouster",
+      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "category": "industry",
+      "publishedAt": "2026-11-17",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?"
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "6",
+      "slug": "nvidia-says-its-open-source-ai-strategy-remains-in-6",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang&#8217;s exit",
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "category": "open-source",
+      "publishedAt": "2026-11-17",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "7",
+      "slug": "nvidia-says-it-doesn-8217-t-plan-to-reappoint-jens-7",
+      "title": "Nvidia says it doesn&#8217;t plan to reappoint Jensen Huang as CEO",
+      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "category": "industry",
+      "publishedAt": "2026-11-17",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The former CEO offered to return to his top role at the company after his resignation last week."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "8",
+      "slug": "satya-nadella-says-he-s-agi-pilled-now-8",
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy le",
+      "category": "industry",
+      "publishedAt": "2026-11-17",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy le"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "9",
+      "slug": "nvidia-s-q3-earnings-hit-the-mark-without-mentioni-9",
+      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the re",
+      "category": "industry",
+      "publishedAt": "2026-11-17",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the re"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "10",
+      "slug": "not-even-sam-altman-is-safe-from-ai-deepfakes-on-i-10",
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's",
+      "category": "industry",
+      "publishedAt": "2026-11-17",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "11",
+      "slug": "google-s-spark-ai-agent-becomes-tasks-and-now-it-s-11",
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails ",
+      "category": "industry",
+      "publishedAt": "2026-11-17",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails "
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "12",
+      "slug": "the-doj-says-it-s-investigating-megaspeed-12",
+      "title": "The DOJ says it’s investigating Megaspeed",
+      "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted",
+      "category": "industry",
+      "publishedAt": "2026-11-17",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "13",
+      "slug": "putting-a-spotlight-on-ai-society-and-humanity-13",
+      "title": "Putting a spotlight on AI, society, and humanity",
+      "summary": "Supported by the MIT Human Insight Collaborative, scholars are exploring how AI is impacting the human experience and reshaping higher education.",
+      "category": "breakthrough",
+      "publishedAt": "2026-11-17",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Supported by the MIT Human Insight Collaborative, scholars are exploring how AI is impacting the human experience and reshaping higher education."
+        ],
+        [
+          "p",
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "14",
+      "slug": "q-a-why-building-math-muscles-remains-important-in-14",
       "title": "Q&A: Why building math muscles remains important in the AI era",
       "summary": "Assistant Professor John Urschel explains why learning the fundamental skills of mathematics is still essential despite the evolution of AI tools.",
       "category": "breakthrough",
@@ -54,8 +285,8 @@
       ]
     },
     {
-      "id": "4",
-      "slug": "learning-the-language-of-machine-learning-4",
+      "id": "15",
+      "slug": "learning-the-language-of-machine-learning-15",
       "title": "Learning the language of machine learning",
       "summary": "By studying the computational foundations of language learning, Associate Professor Jacob Andreas builds intelligent systems that can communicate effectively with humans.",
       "category": "breakthrough",
@@ -67,258 +298,6 @@
         [
           "p",
           "By studying the computational foundations of language learning, Associate Professor Jacob Andreas builds intelligent systems that can communicate effectively with humans."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "5",
-      "slug": "cybersecurity-ai-startup-corma-reaches-1b-valuatio-5",
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-      "category": "industry",
-      "publishedAt": "2026-11-16",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "6",
-      "slug": "all-the-questions-nvidia-should-answer-on-tuesday--6",
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvi",
-      "category": "industry",
-      "publishedAt": "2026-11-16",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvi"
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "7",
-      "slug": "california-state-ag-sues-openai-over-rogue-agent-i-7",
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-      "category": "industry",
-      "publishedAt": "2026-11-16",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "8",
-      "slug": "trump-says-ex-nvidia-ceo-jensen-huang-8217-s-affai-8",
-      "title": "Trump says ex-Nvidia CEO Jensen Huang&#8217;s affair with an alleged Chinese spy did not threaten national security",
-      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-      "category": "industry",
-      "publishedAt": "2026-11-16",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "9",
-      "slug": "sam-altman-on-nvidia-without-jensen-huang-the-indu-9",
-      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be &#8216;fine’",
-      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-      "category": "industry",
-      "publishedAt": "2026-11-16",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "10",
-      "slug": "new-ask-maps-features-to-help-with-holiday-travel--10",
-      "title": "New Ask Maps features to help with holiday travel and prep",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp\">Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask ",
-      "category": "breakthrough",
-      "publishedAt": "2026-11-16",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp\">Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask "
-        ],
-        [
-          "p",
-          "来源：Google AI Blog。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "11",
-      "slug": "tech-leaders-are-convinced-that-jensen-huang-s-exi-11",
-      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreadi",
-      "category": "industry",
-      "publishedAt": "2026-11-16",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreadi"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "12",
-      "slug": "california-sues-openai-over-rogue-ai-hacking-incid-12",
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law ",
-      "category": "industry",
-      "publishedAt": "2026-11-16",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law "
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "13",
-      "slug": "sam-altman-says-he-wants-everyone-to-have-a-lot-of-13",
-      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-      "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman sai",
-      "category": "industry",
-      "publishedAt": "2026-11-16",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman sai"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "14",
-      "slug": "big-nuclear-isn-t-worried-about-the-democrats-stop-14",
-      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-      "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dom",
-      "category": "industry",
-      "publishedAt": "2026-11-16",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dom"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "15",
-      "slug": "us-data-centers-now-burn-more-electricity-than-a-m-15",
-      "title": "US data centers now burn more electricity than a midsized country",
-      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do,",
-      "category": "industry",
-      "publishedAt": "2026-11-16",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do,"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "16",
-      "slug": "new-ai-copilot-helps-engineers-design-better-struc-16",
-      "title": "New AI “copilot” helps engineers design better structures",
-      "summary": "The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges.",
-      "category": "breakthrough",
-      "publishedAt": "2026-11-13",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges."
         ],
         [
           "p",
