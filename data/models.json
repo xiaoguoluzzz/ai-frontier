@@ -1,12 +1,34 @@
 {
-  "updatedAt": "2026-11-18T04:46:30.332Z",
-  "builtAt": "2026-11-18T04:46:30.332Z",
+  "updatedAt": "2026-11-19T04:37:00.641Z",
+  "builtAt": "2026-11-19T04:37:00.641Z",
   "stale": false,
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/models",
   "items": [
     {
       "id": "1",
+      "slug": "gemini-4-neon",
+      "name": "Gemini 4 Neon (xhigh)",
+      "company": "Google",
+      "openWeights": false,
+      "contextLength": "1M",
+      "releaseDate": "2026-11",
+      "description": "Google 闭源大模型，2026-11 发布，上下文 1M tokens，Artificial Analysis 智能指数 61.4。",
+      "features": [
+        "智能指数 61.4",
+        "支持深度推理模式",
+        "输入 $3 / 1M tokens，输出 $15",
+        "闭源商用"
+      ],
+      "modalities": [
+        "文本",
+        "图像",
+        "音频",
+        "视频"
+      ]
+    },
+    {
+      "id": "2",
       "slug": "gpt-6-2-astra",
       "name": "GPT-6.2 Astra (max)",
       "company": "OpenAI",
@@ -26,7 +48,7 @@
       ]
     },
     {
-      "id": "2",
+      "id": "3",
       "slug": "gpt-6-2-sol",
       "name": "GPT-6.2 Sol (max)",
       "company": "OpenAI",
@@ -46,7 +68,7 @@
       ]
     },
     {
-      "id": "3",
+      "id": "4",
       "slug": "qwen4-max",
       "name": "Qwen4 Max",
       "company": "Alibaba",
@@ -67,7 +89,7 @@
       ]
     },
     {
-      "id": "4",
+      "id": "5",
       "slug": "gemini-4-hydrogen",
       "name": "Gemini 4 Hydrogen (xhigh)",
       "company": "Google",
@@ -89,7 +111,7 @@
       ]
     },
     {
-      "id": "5",
+      "id": "6",
       "slug": "claude-fable-5-2",
       "name": "Claude Fable 5.2 (max)",
       "company": "Anthropic",
@@ -109,7 +131,7 @@
       ]
     },
     {
-      "id": "6",
+      "id": "7",
       "slug": "muse-ember",
       "name": "Muse Ember (max)",
       "company": "Meta",
@@ -129,7 +151,7 @@
       ]
     },
     {
-      "id": "7",
+      "id": "8",
       "slug": "inkling-2-small",
       "name": "Inkling 2 Small",
       "company": "Thinking Machines",
@@ -150,7 +172,7 @@
       ]
     },
     {
-      "id": "8",
+      "id": "9",
       "slug": "tencent-hy4",
       "name": "Tencent Hy4",
       "company": "Tencent",
@@ -170,7 +192,7 @@
       ]
     },
     {
-      "id": "9",
+      "id": "10",
       "slug": "mistral-large-4",
       "name": "Mistral Large 4 (high)",
       "company": "Mistral",
@@ -188,28 +210,6 @@
       "modalities": [
         "文本",
         "图像"
-      ]
-    },
-    {
-      "id": "10",
-      "slug": "gemini-4-carbon",
-      "name": "Gemini 4 Carbon (high)",
-      "company": "Google",
-      "openWeights": false,
-      "contextLength": "1M",
-      "releaseDate": "2026-10",
-      "description": "Google 闭源大模型，2026-10 发布，上下文 1M tokens，Artificial Analysis 智能指数 60.0。",
-      "features": [
-        "智能指数 60.0",
-        "支持深度推理模式",
-        "输入 $2 / 1M tokens，输出 $10",
-        "闭源商用"
-      ],
-      "modalities": [
-        "文本",
-        "图像",
-        "音频",
-        "视频"
       ]
     },
     {

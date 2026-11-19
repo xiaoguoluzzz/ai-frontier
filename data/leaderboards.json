@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-18T04:46:30.330Z",
-  "builtAt": "2026-11-18T04:46:30.330Z",
+  "updatedAt": "2026-11-19T04:37:00.640Z",
+  "builtAt": "2026-11-19T04:37:00.640Z",
   "stale": false,
   "boards": [
     {
@@ -10,7 +10,7 @@
       "source": "Artificial Analysis 智能指数",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "智能指数",
-      "updatedAt": "2026-11-18T04:46:30.330Z",
+      "updatedAt": "2026-11-19T04:37:00.640Z",
       "stale": false,
       "entries": [
         {
@@ -31,11 +31,11 @@
         },
         {
           "rank": 3,
-          "model": "Gemini 4 Carbon (high)",
+          "model": "Gemini 4 Neon (xhigh)",
           "company": "Google",
-          "score": 60.025738829526,
-          "displayScore": "60.0",
-          "barPct": 93
+          "score": 61.3982491392674,
+          "displayScore": "61.4",
+          "barPct": 95
         },
         {
           "rank": 4,
@@ -86,7 +86,7 @@
       "source": "Artificial Analysis 智能指数（近似）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "智能指数",
-      "updatedAt": "2026-11-18T04:46:30.330Z",
+      "updatedAt": "2026-11-19T04:37:00.640Z",
       "stale": false,
       "entries": [
         {
@@ -107,11 +107,11 @@
         },
         {
           "rank": 3,
-          "model": "Gemini 4 Carbon (high)",
+          "model": "Gemini 4 Neon (xhigh)",
           "company": "Google",
-          "score": 60.025738829526,
-          "displayScore": "60.0",
-          "barPct": 93
+          "score": 61.3982491392674,
+          "displayScore": "61.4",
+          "barPct": 95
         },
         {
           "rank": 4,
@@ -163,7 +163,7 @@
       "source": "Artificial Analysis（FrontierCode）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "FrontierCode",
-      "updatedAt": "2026-11-18T04:46:30.330Z",
+      "updatedAt": "2026-11-19T04:37:00.640Z",
       "stale": false,
       "entries": [
         {
@@ -239,7 +239,7 @@
       "source": "Artificial Analysis（GPQA）",
       "sourceUrl": "https://artificialanalysis.ai/models",
       "scoreLabel": "GPQA",
-      "updatedAt": "2026-11-18T04:46:30.330Z",
+      "updatedAt": "2026-11-19T04:37:00.640Z",
       "stale": false,
       "entries": [
         {

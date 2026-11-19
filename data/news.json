@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-18T04:46:29.812Z",
-  "builtAt": "2026-11-18T04:46:29.812Z",
+  "updatedAt": "2026-11-19T04:37:00.431Z",
+  "builtAt": "2026-11-19T04:37:00.431Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -11,20 +11,20 @@
   "items": [
     {
       "id": "2",
-      "slug": "introducing-chatgpt-for-sales-2",
-      "title": "Introducing ChatGPT for Sales",
-      "summary": "GPT-5.5 相关动态：Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "slug": "how-sumitomo-life-s-leaders-helped-teams-adopt-cha-2",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "GPT-5.5 相关动态：Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
       "category": "model-release",
-      "publishedAt": "2026-11-17",
+      "publishedAt": "2026-11-18",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "sourceUrl": "https://openai.com/business/customer-stories/sumitomo-life",
       "relatedModels": [
         "gpt-5-5"
       ],
       "content": [
         [
           "p",
-          "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
+          "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
         ],
         [
           "p",
@@ -34,18 +34,18 @@
     },
     {
       "id": "3",
-      "slug": "nvidia-s-startup-stakes-ballooned-to-65b-but-huang-3",
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "slug": "microsoft-ceo-satya-nadella-explains-why-he-asked--3",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not ",
       "category": "industry",
-      "publishedAt": "2026-11-18",
+      "publishedAt": "2026-11-19",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "sourceUrl": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies."
+          "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not "
         ],
         [
           "p",
@@ -55,18 +55,18 @@
     },
     {
       "id": "4",
-      "slug": "nvidia-promises-that-revenue-will-keep-soaring-for-4",
-      "title": "Nvidia promises that revenue will keep soaring — for now",
-      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "slug": "amidst-fears-of-ai-cyberattacks-satya-nadella-says-4",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is &#8216;unpatchable&#8217;",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
       "category": "industry",
       "publishedAt": "2026-11-18",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "sourceUrl": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop."
+          "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
         ],
         [
           "p",
@@ -76,18 +76,18 @@
     },
     {
       "id": "5",
-      "slug": "nvidia-is-abandoning-china-after-jensen-huang-8217-5",
-      "title": "Nvidia is abandoning China after Jensen Huang&#8217;s ouster",
-      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "slug": "elon-musk-says-ousting-jensen-huang-is-like-8216-k-5",
+      "title": "Elon Musk says ousting Jensen Huang is like &#8216;kicking Michael Jordan off your team&#8217;",
+      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
       "category": "industry",
-      "publishedAt": "2026-11-17",
+      "publishedAt": "2026-11-18",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "sourceUrl": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?"
+          "“I don’t think [Huang is] disloyal to the United States,\" Musk said."
         ],
         [
           "p",
@@ -97,18 +97,18 @@
     },
     {
       "id": "6",
-      "slug": "nvidia-says-its-open-source-ai-strategy-remains-in-6",
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang&#8217;s exit",
-      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-      "category": "open-source",
-      "publishedAt": "2026-11-17",
+      "slug": "microsoft-ceo-satya-nadella-remains-confident-in-n-6",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "category": "industry",
+      "publishedAt": "2026-11-18",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "sourceUrl": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
+          "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO."
         ],
         [
           "p",
@@ -118,18 +118,18 @@
     },
     {
       "id": "7",
-      "slug": "nvidia-says-it-doesn-8217-t-plan-to-reappoint-jens-7",
-      "title": "Nvidia says it doesn&#8217;t plan to reappoint Jensen Huang as CEO",
-      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "slug": "satya-nadella-predicts-ai-agents-will-reshuffle-th-7",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
       "category": "industry",
-      "publishedAt": "2026-11-17",
+      "publishedAt": "2026-11-18",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "sourceUrl": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The former CEO offered to return to his top role at the company after his resignation last week."
+          "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
         ],
         [
           "p",
@@ -139,18 +139,18 @@
     },
     {
       "id": "8",
-      "slug": "satya-nadella-says-he-s-agi-pilled-now-8",
-      "title": "Satya Nadella says he’s AGI-pilled now",
-      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy le",
+      "slug": "the-nation-s-largest-school-districts-consider-dit-8",
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not ",
       "category": "industry",
-      "publishedAt": "2026-11-17",
+      "publishedAt": "2026-11-18",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy le"
+          "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not "
         ],
         [
           "p",
@@ -160,18 +160,18 @@
     },
     {
       "id": "9",
-      "slug": "nvidia-s-q3-earnings-hit-the-mark-without-mentioni-9",
-      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-      "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the re",
+      "slug": "trump-s-latest-land-grab-is-an-ai-hub-in-the-phili-9",
+      "title": "Trump’s latest land grab is an AI hub in the Philippines",
+      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A b",
       "category": "industry",
-      "publishedAt": "2026-11-17",
+      "publishedAt": "2026-11-18",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "sourceUrl": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the re"
+          "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A b"
         ],
         [
           "p",
@@ -181,18 +181,18 @@
     },
     {
       "id": "10",
-      "slug": "not-even-sam-altman-is-safe-from-ai-deepfakes-on-i-10",
-      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-      "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's",
+      "slug": "nvidia-s-rise-visualized-10",
+      "title": "Nvidia’s rise, visualized",
+      "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a co",
       "category": "industry",
-      "publishedAt": "2026-11-17",
+      "publishedAt": "2026-11-18",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "sourceUrl": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's"
+          "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a co"
         ],
         [
           "p",
@@ -202,18 +202,18 @@
     },
     {
       "id": "11",
-      "slug": "google-s-spark-ai-agent-becomes-tasks-and-now-it-s-11",
-      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-      "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails ",
+      "slug": "tech-lawsuits-defined-2026-and-lawmakers-want-more-11",
+      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+      "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of ",
       "category": "industry",
-      "publishedAt": "2026-11-17",
+      "publishedAt": "2026-11-18",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "sourceUrl": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails "
+          "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of "
         ],
         [
           "p",
@@ -223,18 +223,18 @@
     },
     {
       "id": "12",
-      "slug": "the-doj-says-it-s-investigating-megaspeed-12",
-      "title": "The DOJ says it’s investigating Megaspeed",
-      "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted",
+      "slug": "what-is-nvidia-without-ai-s-sugar-daddy-in-charge-12",
+      "title": "What is Nvidia without AI’s sugar daddy in charge?",
+      "summary": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For in",
       "category": "industry",
-      "publishedAt": "2026-11-17",
+      "publishedAt": "2026-11-18",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted"
+          "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For in"
         ],
         [
           "p",
@@ -244,18 +244,18 @@
     },
     {
       "id": "13",
-      "slug": "putting-a-spotlight-on-ai-society-and-humanity-13",
-      "title": "Putting a spotlight on AI, society, and humanity",
-      "summary": "Supported by the MIT Human Insight Collaborative, scholars are exploring how AI is impacting the human experience and reshaping higher education.",
+      "slug": "this-featherweight-flying-robot-carries-its-own-se-13",
+      "title": "This featherweight, flying robot carries its own sensors and computers",
+      "summary": "The speedy microrobot flies without an attached motion-capture system, moving it closer to applications like agriculture or industrial surveillance.",
       "category": "breakthrough",
-      "publishedAt": "2026-11-17",
+      "publishedAt": "2026-11-18",
       "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
+      "sourceUrl": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Supported by the MIT Human Insight Collaborative, scholars are exploring how AI is impacting the human experience and reshaping higher education."
+          "The speedy microrobot flies without an attached motion-capture system, moving it closer to applications like agriculture or industrial surveillance."
         ],
         [
           "p",
@@ -265,39 +265,18 @@
     },
     {
       "id": "14",
-      "slug": "q-a-why-building-math-muscles-remains-important-in-14",
-      "title": "Q&A: Why building math muscles remains important in the AI era",
-      "summary": "Assistant Professor John Urschel explains why learning the fundamental skills of mathematics is still essential despite the evolution of AI tools.",
+      "slug": "helping-ai-text-detectors-keep-up-with-changing-co-14",
+      "title": "Helping AI text detectors keep up with changing conditions",
+      "summary": "A more flexible training method can make AI text detectors more robust when new models emerge or AI-generated text is disguised to appear human.",
       "category": "breakthrough",
-      "publishedAt": "2026-11-17",
+      "publishedAt": "2026-11-18",
       "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117",
+      "sourceUrl": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Assistant Professor John Urschel explains why learning the fundamental skills of mathematics is still essential despite the evolution of AI tools."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "15",
-      "slug": "learning-the-language-of-machine-learning-15",
-      "title": "Learning the language of machine learning",
-      "summary": "By studying the computational foundations of language learning, Associate Professor Jacob Andreas builds intelligent systems that can communicate effectively with humans.",
-      "category": "breakthrough",
-      "publishedAt": "2026-11-17",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "By studying the computational foundations of language learning, Associate Professor Jacob Andreas builds intelligent systems that can communicate effectively with humans."
+          "A more flexible training method can make AI text detectors more robust when new models emerge or AI-generated text is disguised to appear human."
         ],
         [
           "p",
