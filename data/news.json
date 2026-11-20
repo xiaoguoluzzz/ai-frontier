@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-19T04:37:00.431Z",
-  "builtAt": "2026-11-19T04:37:00.431Z",
+  "updatedAt": "2026-11-20T04:27:48.144Z",
+  "builtAt": "2026-11-20T04:27:48.144Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -11,20 +11,20 @@
   "items": [
     {
       "id": "2",
-      "slug": "how-sumitomo-life-s-leaders-helped-teams-adopt-cha-2",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "summary": "GPT-5.5 相关动态：Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "slug": "how-openai-s-performance-factory-keeps-chatgpt-fas-2",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "summary": "GPT-5.5 相关动态：Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
       "category": "model-release",
-      "publishedAt": "2026-11-18",
+      "publishedAt": "2026-11-19",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/business/customer-stories/sumitomo-life",
+      "sourceUrl": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
       "relatedModels": [
         "gpt-5-5"
       ],
       "content": [
         [
           "p",
-          "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+          "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
         ],
         [
           "p",
@@ -34,39 +34,41 @@
     },
     {
       "id": "3",
-      "slug": "microsoft-ceo-satya-nadella-explains-why-he-asked--3",
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not ",
-      "category": "industry",
+      "slug": "gemini-on-mac-can-now-use-your-computer-3",
+      "title": "Gemini on Mac can now use your computer",
+      "summary": "Gemini 3 相关动态：Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speedi",
+      "category": "model-release",
       "publishedAt": "2026-11-19",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "relatedModels": [],
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "relatedModels": [
+        "gemini-3"
+      ],
       "content": [
         [
           "p",
-          "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not "
+          "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speedi"
         ],
         [
           "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "4",
-      "slug": "amidst-fears-of-ai-cyberattacks-satya-nadella-says-4",
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is &#8216;unpatchable&#8217;",
-      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "slug": "apple-may-be-developing-its-own-ai-agent-that-runs-4",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
       "category": "industry",
-      "publishedAt": "2026-11-18",
+      "publishedAt": "2026-11-20",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
+          "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
         ],
         [
           "p",
@@ -76,18 +78,18 @@
     },
     {
       "id": "5",
-      "slug": "elon-musk-says-ousting-jensen-huang-is-like-8216-k-5",
-      "title": "Elon Musk says ousting Jensen Huang is like &#8216;kicking Michael Jordan off your team&#8217;",
-      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+      "slug": "anthropic-8217-s-7-founders-cashed-out-nearly-2b-i-5",
+      "title": "Anthropic&#8217;s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
       "category": "industry",
-      "publishedAt": "2026-11-18",
+      "publishedAt": "2026-11-20",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "“I don’t think [Huang is] disloyal to the United States,\" Musk said."
+          "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
         ],
         [
           "p",
@@ -97,18 +99,18 @@
     },
     {
       "id": "6",
-      "slug": "microsoft-ceo-satya-nadella-remains-confident-in-n-6",
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "slug": "meta-8217-s-new-muse-charm-device-may-cost-300-6",
+      "title": "Meta&#8217;s new Muse Charm device may cost $300",
+      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
       "category": "industry",
-      "publishedAt": "2026-11-18",
+      "publishedAt": "2026-11-19",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO."
+          "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable."
         ],
         [
           "p",
@@ -118,18 +120,18 @@
     },
     {
       "id": "7",
-      "slug": "satya-nadella-predicts-ai-agents-will-reshuffle-th-7",
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "slug": "these-tech-outages-are-giving-y2k-ai-agent-style-7",
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
       "category": "industry",
-      "publishedAt": "2026-11-18",
+      "publishedAt": "2026-11-19",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
+          "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say."
         ],
         [
           "p",
@@ -139,60 +141,60 @@
     },
     {
       "id": "8",
-      "slug": "the-nation-s-largest-school-districts-consider-dit-8",
-      "title": "The nation’s largest school districts consider ditching Google Search",
-      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not ",
+      "slug": "the-unfolding-jensen-huang-scandal-a-timeline-8",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
       "category": "industry",
-      "publishedAt": "2026-11-18",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "publishedAt": "2026-11-19",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not "
+          "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
         ],
         [
           "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "9",
-      "slug": "trump-s-latest-land-grab-is-an-ai-hub-in-the-phili-9",
-      "title": "Trump’s latest land grab is an AI hub in the Philippines",
-      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A b",
-      "category": "industry",
-      "publishedAt": "2026-11-18",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "slug": "walter-isaacson-on-curiosity-and-creativity-in-the-9",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp\">Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age.",
+      "category": "breakthrough",
+      "publishedAt": "2026-11-19",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A b"
+          "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp\">Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age."
         ],
         [
           "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+          "来源：Google AI Blog。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "10",
-      "slug": "nvidia-s-rise-visualized-10",
-      "title": "Nvidia’s rise, visualized",
-      "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a co",
+      "slug": "apple-is-hiring-engineers-to-build-its-own-ai-agen-10",
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is",
       "category": "industry",
-      "publishedAt": "2026-11-18",
+      "publishedAt": "2026-11-19",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+      "sourceUrl": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a co"
+          "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is"
         ],
         [
           "p",
@@ -202,18 +204,18 @@
     },
     {
       "id": "11",
-      "slug": "tech-lawsuits-defined-2026-and-lawmakers-want-more-11",
-      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-      "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of ",
+      "slug": "a-brief-history-of-nvidia-s-recent-stock-fluctuati-11",
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40",
       "category": "industry",
-      "publishedAt": "2026-11-18",
+      "publishedAt": "2026-11-19",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of "
+          "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40"
         ],
         [
           "p",
@@ -223,18 +225,18 @@
     },
     {
       "id": "12",
-      "slug": "what-is-nvidia-without-ai-s-sugar-daddy-in-charge-12",
-      "title": "What is Nvidia without AI’s sugar daddy in charge?",
-      "summary": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For in",
+      "slug": "meta-s-muse-charm-might-cost-300-12",
+      "title": "Meta’s Muse Charm might cost $300",
+      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expect",
       "category": "industry",
-      "publishedAt": "2026-11-18",
+      "publishedAt": "2026-11-19",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+      "sourceUrl": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For in"
+          "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expect"
         ],
         [
           "p",
@@ -244,18 +246,39 @@
     },
     {
       "id": "13",
-      "slug": "this-featherweight-flying-robot-carries-its-own-se-13",
-      "title": "This featherweight, flying robot carries its own sensors and computers",
-      "summary": "The speedy microrobot flies without an attached motion-capture system, moving it closer to applications like agriculture or industrial surveillance.",
-      "category": "breakthrough",
-      "publishedAt": "2026-11-18",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
+      "slug": "google-is-putting-ai-chats-right-on-the-homepage-13",
+      "title": "Google is putting AI chats right on the homepage",
+      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, ",
+      "category": "industry",
+      "publishedAt": "2026-11-19",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The speedy microrobot flies without an attached motion-capture system, moving it closer to applications like agriculture or industrial surveillance."
+          "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, "
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "14",
+      "slug": "ai-helps-researchers-investigate-how-thousands-of--14",
+      "title": "AI helps researchers investigate how thousands of medical studies share code",
+      "summary": "An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed to scrutinize and reuse published research.",
+      "category": "breakthrough",
+      "publishedAt": "2026-11-19",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed to scrutinize and reuse published research."
         ],
         [
           "p",
@@ -264,19 +287,19 @@
       ]
     },
     {
-      "id": "14",
-      "slug": "helping-ai-text-detectors-keep-up-with-changing-co-14",
-      "title": "Helping AI text detectors keep up with changing conditions",
-      "summary": "A more flexible training method can make AI text detectors more robust when new models emerge or AI-generated text is disguised to appear human.",
+      "id": "15",
+      "slug": "study-reveals-data-centers-long-distance-damage-to-15",
+      "title": "Study reveals data centers’ long-distance damage to air quality",
+      "summary": "Researchers find air pollution from data center electricity use can affect communities far from the facilities, with some of the highest impacts in the Midwest.",
       "category": "breakthrough",
-      "publishedAt": "2026-11-18",
+      "publishedAt": "2026-11-19",
       "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
+      "sourceUrl": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "A more flexible training method can make AI text detectors more robust when new models emerge or AI-generated text is disguised to appear human."
+          "Researchers find air pollution from data center electricity use can affect communities far from the facilities, with some of the highest impacts in the Midwest."
         ],
         [
           "p",
