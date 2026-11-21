@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-20T04:27:48.674Z",
-  "builtAt": "2026-11-20T04:27:48.674Z",
+  "updatedAt": "2026-11-21T04:21:23.579Z",
+  "builtAt": "2026-11-21T04:21:23.579Z",
   "stale": false,
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/models",
@@ -176,15 +176,16 @@
       "slug": "tencent-hy4",
       "name": "Tencent Hy4",
       "company": "Tencent",
-      "openWeights": false,
+      "openWeights": true,
       "contextLength": "1M",
       "releaseDate": "2026-11",
-      "description": "Tencent 闭源大模型，2026-11 发布，上下文 1M tokens，Artificial Analysis 智能指数 34.6。",
+      "description": "Tencent 开源大模型，2026-11 发布，上下文 1M tokens，Artificial Analysis 智能指数 34.6。",
       "features": [
+        "774B 总参数 / 50.2B 激活参数",
         "智能指数 34.6",
         "支持深度推理模式",
         "输入 $0.834 / 1M tokens，输出 $2.501",
-        "闭源商用"
+        "开源权重"
       ],
       "modalities": [
         "文本",
