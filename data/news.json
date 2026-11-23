@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-22T03:35:09.466Z",
-  "builtAt": "2026-11-22T03:35:09.466Z",
+  "updatedAt": "2026-11-23T04:07:55.714Z",
+  "builtAt": "2026-11-23T04:07:55.714Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -34,7 +34,133 @@
     },
     {
       "id": "3",
-      "slug": "signal-restricts-mobile-screenshots-as-it-confront-3",
+      "slug": "how-notable-capital-gic-and-baillie-gifford-bet-bi-3",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "category": "industry",
+      "publishedAt": "2026-11-23",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Three significant backers share what gave them conviction to bet billions on Anthropic."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "4",
+      "slug": "openai-s-chief-scientist-has-thoughts-on-how-to-li-4",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "category": "industry",
+      "publishedAt": "2026-11-22",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "To establish a speed limit on AI development, you need to agree on how to measure speed."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "5",
+      "slug": "why-data-centers-are-at-the-center-of-the-big-tech-5",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "category": "industry",
+      "publishedAt": "2026-11-22",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "6",
+      "slug": "we-haven-t-seen-the-last-of-the-major-tech-outages-6",
+      "title": "We haven’t seen the last of the major tech outages",
+      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Directo",
+      "category": "industry",
+      "publishedAt": "2026-11-22",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Directo"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "7",
+      "slug": "binding-of-isaac-developer-removes-ai-music-from-r-7",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand ",
+      "category": "industry",
+      "publishedAt": "2026-11-22",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand "
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "8",
+      "slug": "the-vibe-coding-revolution-is-coming-to-all-the-ga-8",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in f",
+      "category": "industry",
+      "publishedAt": "2026-11-22",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in f"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "9",
+      "slug": "signal-restricts-mobile-screenshots-as-it-confront-9",
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
       "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
       "category": "industry",
@@ -54,8 +180,8 @@
       ]
     },
     {
-      "id": "4",
-      "slug": "a-tale-of-two-nvidias-4",
+      "id": "10",
+      "slug": "a-tale-of-two-nvidias-10",
       "title": "A tale of two Nvidias",
       "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
       "category": "industry",
@@ -75,50 +201,8 @@
       ]
     },
     {
-      "id": "5",
-      "slug": "here-are-the-top-ai-agents-that-can-live-in-your-t-5",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "category": "industry",
-      "publishedAt": "2026-11-21",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "6",
-      "slug": "is-selling-an-ai-version-of-your-face-to-this-micr-6",
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-      "category": "industry",
-      "publishedAt": "2026-11-21",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "7",
-      "slug": "the-un-fails-to-agree-on-rules-regulating-killer-r-7",
+      "id": "11",
+      "slug": "the-un-fails-to-agree-on-rules-regulating-killer-r-11",
       "title": "The UN fails to agree on rules regulating ‘killer robots’",
       "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start di",
       "category": "industry",
@@ -138,8 +222,8 @@
       ]
     },
     {
-      "id": "8",
-      "slug": "can-anthropic-afford-to-put-safety-first-8",
+      "id": "12",
+      "slug": "can-anthropic-afford-to-put-safety-first-12",
       "title": "Can Anthropic afford to put safety first?",
       "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers",
       "category": "industry",
@@ -151,90 +235,6 @@
         [
           "p",
           "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "9",
-      "slug": "chess-com-s-next-move-is-a-new-hub-for-classic-gam-9",
-      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, ",
-      "category": "industry",
-      "publishedAt": "2026-11-21",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, "
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "10",
-      "slug": "daniel-ek-backs-ai-researcher-8217-s-fusion-power--10",
-      "title": "Daniel Ek backs AI researcher&#8217;s fusion power startup. Here&#8217;s what they&#8217;re building.",
-      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-      "category": "industry",
-      "publishedAt": "2026-11-20",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
-        ],
-        [
-          "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "11",
-      "slug": "trump-threatens-tremendous-tax-for-moving-ai-data--11",
-      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to a",
-      "category": "industry",
-      "publishedAt": "2026-11-20",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to a"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "12",
-      "slug": "anthropic-mathematician-claims-to-have-solved-pres-12",
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "summary": "Anthropic mathematician Levent Alp&#246;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematic",
-      "category": "model-release",
-      "publishedAt": "2026-11-20",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Anthropic mathematician Levent Alp&#246;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematic"
         ],
         [
           "p",
