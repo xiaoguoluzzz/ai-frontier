@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-24T07:09:40.044Z",
-  "builtAt": "2026-11-24T07:09:40.044Z",
+  "updatedAt": "2026-11-25T05:43:44.379Z",
+  "builtAt": "2026-11-25T05:43:44.380Z",
   "stale": false,
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/models",
@@ -13,9 +13,9 @@
       "openWeights": false,
       "contextLength": "1M",
       "releaseDate": "2026-11",
-      "description": "Google 闭源大模型，2026-11 发布，上下文 1M tokens，Artificial Analysis 智能指数 61.4。",
+      "description": "Google 闭源大模型，2026-11 发布，上下文 1M tokens，Artificial Analysis 智能指数 61.5。",
       "features": [
-        "智能指数 61.4",
+        "智能指数 61.5",
         "支持深度推理模式",
         "输入 $3 / 1M tokens，输出 $15",
         "闭源商用"
@@ -35,9 +35,9 @@
       "openWeights": false,
       "contextLength": "1M",
       "releaseDate": "2026-11",
-      "description": "OpenAI 闭源大模型，2026-11 发布，上下文 1M tokens，Artificial Analysis 智能指数 62.1。",
+      "description": "OpenAI 闭源大模型，2026-11 发布，上下文 1M tokens，Artificial Analysis 智能指数 62.2。",
       "features": [
-        "智能指数 62.1",
+        "智能指数 62.2",
         "支持深度推理模式",
         "输入 $8 / 1M tokens，输出 $40",
         "闭源商用"
@@ -75,9 +75,9 @@
       "openWeights": false,
       "contextLength": "984K",
       "releaseDate": "2026-11",
-      "description": "Alibaba 闭源大模型，2026-11 发布，上下文 984K tokens，Artificial Analysis 智能指数 42.9。",
+      "description": "Alibaba 闭源大模型，2026-11 发布，上下文 984K tokens，Artificial Analysis 智能指数 42.8。",
       "features": [
-        "智能指数 42.9",
+        "智能指数 42.8",
         "支持深度推理模式",
         "输入 $1.5 / 1M tokens，输出 $4.5",
         "闭源商用"
@@ -96,9 +96,9 @@
       "openWeights": false,
       "contextLength": "1M",
       "releaseDate": "2026-11",
-      "description": "Google 闭源大模型，2026-11 发布，上下文 1M tokens，Artificial Analysis 智能指数 53.9。",
+      "description": "Google 闭源大模型，2026-11 发布，上下文 1M tokens，Artificial Analysis 智能指数 54.1。",
       "features": [
-        "智能指数 53.9",
+        "智能指数 54.1",
         "支持深度推理模式",
         "输入 $1.5 / 1M tokens，输出 $7.5",
         "闭源商用"
@@ -118,9 +118,9 @@
       "openWeights": false,
       "contextLength": "1M",
       "releaseDate": "2026-11",
-      "description": "Anthropic 闭源大模型，2026-11 发布，上下文 1M tokens，Artificial Analysis 智能指数 64.6。",
+      "description": "Anthropic 闭源大模型，2026-11 发布，上下文 1M tokens，Artificial Analysis 智能指数 64.8。",
       "features": [
-        "智能指数 64.6",
+        "智能指数 64.8",
         "支持深度推理模式",
         "输入 $8 / 1M tokens，输出 $40",
         "闭源商用"
@@ -138,9 +138,9 @@
       "openWeights": false,
       "contextLength": "1M",
       "releaseDate": "2026-11",
-      "description": "Meta 闭源大模型，2026-11 发布，上下文 1M tokens，Artificial Analysis 智能指数 36.0。",
+      "description": "Meta 闭源大模型，2026-11 发布，上下文 1M tokens，Artificial Analysis 智能指数 36.1。",
       "features": [
-        "智能指数 36.0",
+        "智能指数 36.1",
         "支持深度推理模式",
         "输入 $0.1 / 1M tokens，输出 $0.5",
         "闭源商用"
@@ -158,10 +158,10 @@
       "openWeights": true,
       "contextLength": "1M",
       "releaseDate": "2026-11",
-      "description": "Thinking Machines 开源大模型，2026-11 发布，上下文 1M tokens，Artificial Analysis 智能指数 30.6。",
+      "description": "Thinking Machines 开源大模型，2026-11 发布，上下文 1M tokens，Artificial Analysis 智能指数 30.7。",
       "features": [
         "594B 总参数 / 17B 激活参数",
-        "智能指数 30.6",
+        "智能指数 30.7",
         "支持深度推理模式",
         "输入 $0.3 / 1M tokens，输出 $1",
         "开源权重"
@@ -221,9 +221,9 @@
       "openWeights": false,
       "contextLength": "1M",
       "releaseDate": "2026-10",
-      "description": "Google 闭源大模型，2026-10 发布，上下文 1M tokens，Artificial Analysis 智能指数 60.0。",
+      "description": "Google 闭源大模型，2026-10 发布，上下文 1M tokens，Artificial Analysis 智能指数 60.1。",
       "features": [
-        "智能指数 60.0",
+        "智能指数 60.1",
         "支持深度推理模式",
         "输入 $4 / 1M tokens，输出 $20",
         "闭源商用"
@@ -243,9 +243,9 @@
       "openWeights": false,
       "contextLength": "1M",
       "releaseDate": "2026-10",
-      "description": "OpenAI 闭源大模型，2026-10 发布，上下文 1M tokens，Artificial Analysis 智能指数 51.3。",
+      "description": "OpenAI 闭源大模型，2026-10 发布，上下文 1M tokens，Artificial Analysis 智能指数 51.4。",
       "features": [
-        "智能指数 51.3",
+        "智能指数 51.4",
         "支持深度推理模式",
         "输入 $1 / 1M tokens，输出 $5",
         "闭源商用"
@@ -263,10 +263,10 @@
       "openWeights": true,
       "contextLength": "1M",
       "releaseDate": "2026-10",
-      "description": "Kimi 开源大模型，2026-10 发布，上下文 1M tokens，Artificial Analysis 智能指数 46.5。",
+      "description": "Kimi 开源大模型，2026-10 发布，上下文 1M tokens，Artificial Analysis 智能指数 46.6。",
       "features": [
         "2800B 总参数 / 104B 激活参数",
-        "智能指数 46.5",
+        "智能指数 46.6",
         "支持深度推理模式",
         "输入 $2 / 1M tokens，输出 $10",
         "开源权重"
@@ -284,10 +284,10 @@
       "openWeights": true,
       "contextLength": "1M",
       "releaseDate": "2026-10",
-      "description": "InclusionAI 开源大模型，2026-10 发布，上下文 1M tokens，Artificial Analysis 智能指数 29.6。",
+      "description": "InclusionAI 开源大模型，2026-10 发布，上下文 1M tokens，Artificial Analysis 智能指数 29.7。",
       "features": [
         "560B 总参数 / 25B 激活参数",
-        "智能指数 29.6",
+        "智能指数 29.7",
         "支持深度推理模式",
         "输入 $0.3 / 1M tokens，输出 $0.9",
         "开源权重"
@@ -304,10 +304,10 @@
       "openWeights": true,
       "contextLength": "1M",
       "releaseDate": "2026-10",
-      "description": "DeepSeek 开源大模型，2026-10 发布，上下文 1M tokens，Artificial Analysis 智能指数 32.6。",
+      "description": "DeepSeek 开源大模型，2026-10 发布，上下文 1M tokens，Artificial Analysis 智能指数 32.4。",
       "features": [
         "552B 总参数 / 16B 激活参数",
-        "智能指数 32.6",
+        "智能指数 32.4",
         "支持深度推理模式",
         "输入 $0.3 / 1M tokens，输出 $1.2",
         "开源权重"
@@ -366,9 +366,9 @@
       "openWeights": false,
       "contextLength": "1M",
       "releaseDate": "2026-10",
-      "description": "Meta 闭源大模型，2026-10 发布，上下文 1M tokens，Artificial Analysis 智能指数 50.1。",
+      "description": "Meta 闭源大模型，2026-10 发布，上下文 1M tokens，Artificial Analysis 智能指数 49.9。",
       "features": [
-        "智能指数 50.1",
+        "智能指数 49.9",
         "支持深度推理模式",
         "闭源商用"
       ],
@@ -387,9 +387,9 @@
       "openWeights": false,
       "contextLength": "1M",
       "releaseDate": "2026-10",
-      "description": "Meta 闭源大模型，2026-10 发布，上下文 1M tokens，Artificial Analysis 智能指数 43.6。",
+      "description": "Meta 闭源大模型，2026-10 发布，上下文 1M tokens，Artificial Analysis 智能指数 43.7。",
       "features": [
-        "智能指数 43.6",
+        "智能指数 43.7",
         "支持深度推理模式",
         "输入 $4 / 1M tokens，输出 $20",
         "闭源商用"
@@ -429,9 +429,9 @@
       "openWeights": false,
       "contextLength": "1M",
       "releaseDate": "2026-09",
-      "description": "Anthropic 闭源大模型，2026-09 发布，上下文 1M tokens，Artificial Analysis 智能指数 54.5。",
+      "description": "Anthropic 闭源大模型，2026-09 发布，上下文 1M tokens，Artificial Analysis 智能指数 54.7。",
       "features": [
-        "智能指数 54.5",
+        "智能指数 54.7",
         "支持深度推理模式",
         "输入 $2 / 1M tokens，输出 $10",
         "闭源商用"
@@ -489,9 +489,9 @@
       "openWeights": false,
       "contextLength": "500K",
       "releaseDate": "2026-09",
-      "description": "SpaceXAI 闭源大模型，2026-09 发布，上下文 500K tokens，Artificial Analysis 智能指数 35.5。",
+      "description": "SpaceXAI 闭源大模型，2026-09 发布，上下文 500K tokens，Artificial Analysis 智能指数 35.4。",
       "features": [
-        "智能指数 35.5",
+        "智能指数 35.4",
         "支持深度推理模式",
         "输入 $2 / 1M tokens，输出 $6",
         "闭源商用"
@@ -552,10 +552,10 @@
       "openWeights": true,
       "contextLength": "1M",
       "releaseDate": "2026-08",
-      "description": "Z AI 开源大模型，2026-08 发布，上下文 1M tokens，Artificial Analysis 智能指数 31.7。",
+      "description": "Z AI 开源大模型，2026-08 发布，上下文 1M tokens，Artificial Analysis 智能指数 31.6。",
       "features": [
         "753B 总参数 / 40B 激活参数",
-        "智能指数 31.7",
+        "智能指数 31.6",
         "支持深度推理模式",
         "输入 $1.4 / 1M tokens，输出 $4.4",
         "开源权重"

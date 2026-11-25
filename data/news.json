@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-24T07:09:39.747Z",
-  "builtAt": "2026-11-24T07:09:39.747Z",
+  "updatedAt": "2026-11-25T05:43:43.990Z",
+  "builtAt": "2026-11-25T05:43:43.990Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -11,39 +11,41 @@
   "items": [
     {
       "id": "2",
-      "slug": "anthropic-launches-claude-ship-letting-ai-agents-r-2",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "slug": "clay-helps-sales-teams-win-with-codex-and-chatgpt-2",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "summary": "GPT-5.5 相关动态：ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
       "category": "model-release",
-      "publishedAt": "2026-11-23",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "relatedModels": [],
+      "publishedAt": "2026-11-24",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "relatedModels": [
+        "gpt-5-5"
+      ],
       "content": [
         [
           "p",
-          "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+          "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning."
         ],
         [
           "p",
-          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+          "来源：OpenAI。点击「查看原文」阅读完整报道。"
         ]
       ]
     },
     {
       "id": "3",
-      "slug": "supertake-raises-20m-to-let-ai-agents-turn-your-ma-3",
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "slug": "yale-8217-s-sonnenfeld-nvidia-is-a-8216-detriment--3",
+      "title": "Yale&#8217;s Sonnenfeld: Nvidia is a &#8216;detriment&#8217; to US industrial might — not a champion",
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a grow",
       "category": "industry",
-      "publishedAt": "2026-11-23",
+      "publishedAt": "2026-11-25",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
+          "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a grow"
         ],
         [
           "p",
@@ -53,18 +55,18 @@
     },
     {
       "id": "4",
-      "slug": "elon-musk-and-others-rejoice-as-jensen-huang-is-re-4",
-      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "slug": "jensen-huang-still-thinks-a-succession-plan-create-4",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
       "category": "industry",
-      "publishedAt": "2026-11-23",
+      "publishedAt": "2026-11-24",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "\"The mistake has been corrected,\" Elon Musk chimed in."
+          "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder."
         ],
         [
           "p",
@@ -74,18 +76,18 @@
     },
     {
       "id": "5",
-      "slug": "megaspeed-the-company-at-the-center-of-the-jensen--5",
-      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "slug": "in-all-hands-meeting-jensen-huang-thanks-white-hou-5",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he&#8217;s in therapy",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
       "category": "industry",
-      "publishedAt": "2026-11-23",
+      "publishedAt": "2026-11-24",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government."
+          "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company."
         ],
         [
           "p",
@@ -95,18 +97,18 @@
     },
     {
       "id": "6",
-      "slug": "nvidia-employees-greet-jensen-huang-like-a-hero-as-6",
-      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company&#8217;s HQ",
-      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "slug": "even-the-best-ai-agents-struggle-with-everyday-lif-6",
+      "title": "Even the best AI agents struggle with everyday life",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
       "category": "industry",
-      "publishedAt": "2026-11-23",
+      "publishedAt": "2026-11-24",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "\"I'm going to be a better CEO the second time around,\" Huang told employees."
+          "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems."
         ],
         [
           "p",
@@ -116,7 +118,154 @@
     },
     {
       "id": "7",
-      "slug": "a-more-tailored-google-search-that-s-uniquely-your-7",
+      "slug": "walmart-teams-up-with-meta-to-bring-black-friday-d-7",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "category": "industry",
+      "publishedAt": "2026-11-24",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
+        ],
+        [
+          "p",
+          "来源：TechCrunch AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "8",
+      "slug": "jensen-huang-reportedly-tells-nvidia-staff-it-8217-8",
+      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to r",
+      "category": "industry",
+      "publishedAt": "2026-11-24",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to r"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "9",
+      "slug": "david-fincher-is-being-dragged-for-suspected-use-o-9",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used ",
+      "category": "industry",
+      "publishedAt": "2026-11-24",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used "
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "10",
+      "slug": "tidal-will-start-banning-ai-generated-music-next-m-10",
+      "title": "Tidal will start banning AI-generated music next month",
+      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert",
+      "category": "industry",
+      "publishedAt": "2026-11-24",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "11",
+      "slug": "jensen-huang-deepfakes-are-the-hot-new-ai-slop-11",
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from b",
+      "category": "industry",
+      "publishedAt": "2026-11-24",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from b"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "12",
+      "slug": "the-new-york-times-warns-photographers-not-to-upda-12",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Thread",
+      "category": "industry",
+      "publishedAt": "2026-11-24",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Thread"
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "13",
+      "slug": "agentic-system-personalizes-physical-controls-to-h-13",
+      "title": "Agentic system personalizes physical controls to help users “DJ their art”",
+      "summary": "“TangiMap” uses an AI agent to reprogram how buttons, knobs, and sliders are used, helping users do things like edit photos and perform music in a more dynamic, tactile way.",
+      "category": "breakthrough",
+      "publishedAt": "2026-11-24",
+      "source": "MIT News AI",
+      "sourceUrl": "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "“TangiMap” uses an AI agent to reprogram how buttons, knobs, and sliders are used, helping users do things like edit photos and perform music in a more dynamic, tactile way."
+        ],
+        [
+          "p",
+          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "14",
+      "slug": "a-more-tailored-google-search-that-s-uniquely-your-14",
       "title": "A more tailored Google Search that’s uniquely yours",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp\">Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to ",
       "category": "breakthrough",
@@ -136,113 +285,8 @@
       ]
     },
     {
-      "id": "8",
-      "slug": "trump-engineered-a-risky-comeback-for-jensen-huang-8",
-      "title": "Trump engineered a risky comeback for Jensen Huang",
-      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's rad",
-      "category": "industry",
-      "publishedAt": "2026-11-23",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's rad"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "9",
-      "slug": "nvidia-ceo-jensen-huang-is-back-what-happens-next-9",
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there wa",
-      "category": "industry",
-      "publishedAt": "2026-11-23",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there wa"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "10",
-      "slug": "welcome-to-elite-impunity-jensen-huang-10",
-      "title": "Welcome to elite impunity, Jensen Huang",
-      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who ",
-      "category": "industry",
-      "publishedAt": "2026-11-23",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who "
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "11",
-      "slug": "ai-data-centers-throw-another-wrench-into-chaotic--11",
-      "title": "AI data centers throw another wrench into chaotic UN climate talks",
-      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference,",
-      "category": "industry",
-      "publishedAt": "2026-11-23",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference,"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "12",
-      "slug": "claude-ai-can-review-pull-requests-and-ship-fixes--12",
-      "title": "Claude AI can review pull requests and ship fixes on its own now",
-      "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to ",
-      "category": "model-release",
-      "publishedAt": "2026-11-23",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to "
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "13",
-      "slug": "many-languages-one-common-neural-code-13",
+      "id": "15",
+      "slug": "many-languages-one-common-neural-code-15",
       "title": "Many languages, one common neural code",
       "summary": "Analyzing speakers of 21 languages, an MIT study using multilingual AI finds the human brain may represent meaning in much the same way.",
       "category": "breakthrough",
@@ -254,48 +298,6 @@
         [
           "p",
           "Analyzing speakers of 21 languages, an MIT study using multilingual AI finds the human brain may represent meaning in much the same way."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "14",
-      "slug": "ai-driven-technique-could-help-engineers-design-an-14",
-      "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
-      "summary": "The “SLIC” training method enables a small LLM to compete with much more resource-intensive models in complex circuit design tasks.",
-      "category": "breakthrough",
-      "publishedAt": "2026-11-23",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "The “SLIC” training method enables a small LLM to compete with much more resource-intensive models in complex circuit design tasks."
-        ],
-        [
-          "p",
-          "来源：MIT News AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "15",
-      "slug": "q-a-enabling-more-human-like-interactions-and-unde-15",
-      "title": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
-      "summary": "Senior Research Scientist Jim Glass discusses how his MIT-IBM Computing Research Lab collaboration connects perception and language, and addresses the shortcoming of current models.",
-      "category": "breakthrough",
-      "publishedAt": "2026-11-20",
-      "source": "MIT News AI",
-      "sourceUrl": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Senior Research Scientist Jim Glass discusses how his MIT-IBM Computing Research Lab collaboration connects perception and language, and addresses the shortcoming of current models."
         ],
         [
           "p",
