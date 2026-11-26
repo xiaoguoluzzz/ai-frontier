@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-25T05:43:43.990Z",
-  "builtAt": "2026-11-25T05:43:43.990Z",
+  "updatedAt": "2026-11-26T05:33:35.806Z",
+  "builtAt": "2026-11-26T05:33:35.806Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -34,18 +34,20 @@
     },
     {
       "id": "3",
-      "slug": "yale-8217-s-sonnenfeld-nvidia-is-a-8216-detriment--3",
-      "title": "Yale&#8217;s Sonnenfeld: Nvidia is a &#8216;detriment&#8217; to US industrial might — not a champion",
-      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a grow",
-      "category": "industry",
+      "slug": "openai-says-heavy-chatgpt-users-may-hit-limits-soo-3",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "summary": "GPT-5.5 相关动态：OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "category": "model-release",
       "publishedAt": "2026-11-25",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "relatedModels": [],
+      "sourceUrl": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "relatedModels": [
+        "gpt-5-5"
+      ],
       "content": [
         [
           "p",
-          "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a grow"
+          "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
         ],
         [
           "p",
@@ -55,18 +57,18 @@
     },
     {
       "id": "4",
-      "slug": "jensen-huang-still-thinks-a-succession-plan-create-4",
-      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "slug": "s-038-p-considers-nvidia-credit-downgrade-over-gov-4",
+      "title": "S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man&#8217; risks",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
       "category": "industry",
-      "publishedAt": "2026-11-24",
+      "publishedAt": "2026-11-25",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder."
+          "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
         ],
         [
           "p",
@@ -76,18 +78,18 @@
     },
     {
       "id": "5",
-      "slug": "in-all-hands-meeting-jensen-huang-thanks-white-hou-5",
-      "title": "In all-hands meeting, Jensen Huang thanks White House and says he&#8217;s in therapy",
-      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "slug": "jensen-huang-broke-nvidia-8217-s-code-of-conduct-a-5",
+      "title": "Jensen Huang broke Nvidia&#8217;s code of conduct, and his employees may not forget it",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
       "category": "industry",
-      "publishedAt": "2026-11-24",
+      "publishedAt": "2026-11-25",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company."
+          "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
         ],
         [
           "p",
@@ -97,18 +99,18 @@
     },
     {
       "id": "6",
-      "slug": "even-the-best-ai-agents-struggle-with-everyday-lif-6",
-      "title": "Even the best AI agents struggle with everyday life",
-      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "slug": "anthropic-s-dario-amodei-calls-accusations-of-surr-6",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
       "category": "industry",
-      "publishedAt": "2026-11-24",
+      "publishedAt": "2026-11-25",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems."
+          "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development."
         ],
         [
           "p",
@@ -118,18 +120,18 @@
     },
     {
       "id": "7",
-      "slug": "walmart-teams-up-with-meta-to-bring-black-friday-d-7",
-      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "slug": "want-to-buy-your-kid-an-ai-toy-this-christmas-not--7",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
       "category": "industry",
-      "publishedAt": "2026-11-24",
+      "publishedAt": "2026-11-25",
       "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
+          "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development."
         ],
         [
           "p",
@@ -139,18 +141,18 @@
     },
     {
       "id": "8",
-      "slug": "jensen-huang-reportedly-tells-nvidia-staff-it-8217-8",
-      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
-      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to r",
+      "slug": "google-s-patent-for-custom-ai-video-feeds-paints-a-8",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rej",
       "category": "industry",
-      "publishedAt": "2026-11-24",
+      "publishedAt": "2026-11-25",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "sourceUrl": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to r"
+          "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rej"
         ],
         [
           "p",
@@ -160,18 +162,18 @@
     },
     {
       "id": "9",
-      "slug": "david-fincher-is-being-dragged-for-suspected-use-o-9",
-      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used ",
+      "slug": "fcc-signs-off-on-spacex-s-plan-to-put-up-to-1-mill-9",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting A",
       "category": "industry",
-      "publishedAt": "2026-11-24",
+      "publishedAt": "2026-11-25",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "sourceUrl": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used "
+          "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting A"
         ],
         [
           "p",
@@ -181,18 +183,18 @@
     },
     {
       "id": "10",
-      "slug": "tidal-will-start-banning-ai-generated-music-next-m-10",
-      "title": "Tidal will start banning AI-generated music next month",
-      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert",
+      "slug": "nothing-offers-a-full-look-at-its-ai-earbuds-and-c-10",
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Li",
       "category": "industry",
-      "publishedAt": "2026-11-24",
+      "publishedAt": "2026-11-25",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "sourceUrl": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert"
+          "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Li"
         ],
         [
           "p",
@@ -202,18 +204,18 @@
     },
     {
       "id": "11",
-      "slug": "jensen-huang-deepfakes-are-the-hot-new-ai-slop-11",
-      "title": "Jensen Huang deepfakes are the hot new AI slop",
-      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from b",
+      "slug": "amazon-is-reportedly-in-talks-to-end-muse-ai-shopp-11",
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent re",
       "category": "industry",
-      "publishedAt": "2026-11-24",
+      "publishedAt": "2026-11-25",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "sourceUrl": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from b"
+          "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent re"
         ],
         [
           "p",
@@ -223,18 +225,18 @@
     },
     {
       "id": "12",
-      "slug": "the-new-york-times-warns-photographers-not-to-upda-12",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Thread",
-      "category": "industry",
-      "publishedAt": "2026-11-24",
+      "slug": "has-vibe-coding-made-open-source-the-new-normal-fo-12",
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now",
+      "category": "open-source",
+      "publishedAt": "2026-11-25",
       "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
       "relatedModels": [],
       "content": [
         [
           "p",
-          "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Thread"
+          "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now"
         ],
         [
           "p",
