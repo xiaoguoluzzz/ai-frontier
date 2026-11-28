@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-27T05:27:58.451Z",
-  "builtAt": "2026-11-27T05:27:58.451Z",
+  "updatedAt": "2026-11-28T05:03:17.701Z",
+  "builtAt": "2026-11-28T05:03:17.701Z",
   "stale": false,
   "sources": [
     "TechCrunch AI",
@@ -57,7 +57,28 @@
     },
     {
       "id": "4",
-      "slug": "nvidia-hits-pause-on-chip-shipments-to-southeast-a-4",
+      "slug": "android-s-diy-widgets-are-a-bit-of-vibe-coding-fun-4",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen ",
+      "category": "industry",
+      "publishedAt": "2026-11-27",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "relatedModels": [],
+      "content": [
+        [
+          "p",
+          "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen "
+        ],
+        [
+          "p",
+          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
+        ]
+      ]
+    },
+    {
+      "id": "5",
+      "slug": "nvidia-hits-pause-on-chip-shipments-to-southeast-a-5",
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
       "category": "industry",
@@ -77,8 +98,8 @@
       ]
     },
     {
-      "id": "5",
-      "slug": "grand-theft-auto-vi-proves-why-efficiency-isn-8217-5",
+      "id": "6",
+      "slug": "grand-theft-auto-vi-proves-why-efficiency-isn-8217-6",
       "title": "Grand Theft Auto VI proves why efficiency isn&#8217;t a virtue",
       "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
       "category": "industry",
@@ -98,8 +119,8 @@
       ]
     },
     {
-      "id": "6",
-      "slug": "42-state-ags-are-trying-to-stop-character-ai-from--6",
+      "id": "7",
+      "slug": "42-state-ags-are-trying-to-stop-character-ai-from--7",
       "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
       "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of ",
       "category": "industry",
@@ -119,8 +140,8 @@
       ]
     },
     {
-      "id": "7",
-      "slug": "s-038-p-considers-nvidia-credit-downgrade-over-gov-7",
+      "id": "8",
+      "slug": "s-038-p-considers-nvidia-credit-downgrade-over-gov-8",
       "title": "S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man&#8217; risks",
       "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
       "category": "industry",
@@ -140,8 +161,8 @@
       ]
     },
     {
-      "id": "8",
-      "slug": "jensen-huang-broke-nvidia-8217-s-code-of-conduct-a-8",
+      "id": "9",
+      "slug": "jensen-huang-broke-nvidia-8217-s-code-of-conduct-a-9",
       "title": "Jensen Huang broke Nvidia&#8217;s code of conduct, and his employees may not forget it",
       "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
       "category": "industry",
@@ -161,8 +182,8 @@
       ]
     },
     {
-      "id": "9",
-      "slug": "google-s-patent-for-custom-ai-video-feeds-paints-a-9",
+      "id": "10",
+      "slug": "google-s-patent-for-custom-ai-video-feeds-paints-a-10",
       "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
       "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rej",
       "category": "industry",
@@ -182,8 +203,8 @@
       ]
     },
     {
-      "id": "10",
-      "slug": "fcc-signs-off-on-spacex-s-plan-to-put-up-to-1-mill-10",
+      "id": "11",
+      "slug": "fcc-signs-off-on-spacex-s-plan-to-put-up-to-1-mill-11",
       "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
       "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting A",
       "category": "industry",
@@ -203,8 +224,8 @@
       ]
     },
     {
-      "id": "11",
-      "slug": "nothing-offers-a-full-look-at-its-ai-earbuds-and-c-11",
+      "id": "12",
+      "slug": "nothing-offers-a-full-look-at-its-ai-earbuds-and-c-12",
       "title": "Nothing offers a full look at its AI earbuds and charging case",
       "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Li",
       "category": "industry",
@@ -216,27 +237,6 @@
         [
           "p",
           "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Li"
-        ],
-        [
-          "p",
-          "来源：The Verge AI。点击「查看原文」阅读完整报道。"
-        ]
-      ]
-    },
-    {
-      "id": "12",
-      "slug": "amazon-is-reportedly-in-talks-to-end-muse-ai-shopp-12",
-      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent re",
-      "category": "industry",
-      "publishedAt": "2026-11-25",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-      "relatedModels": [],
-      "content": [
-        [
-          "p",
-          "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent re"
         ],
         [
           "p",

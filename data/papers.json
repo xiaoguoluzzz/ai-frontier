@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-27T05:27:58.694Z",
-  "builtAt": "2026-11-27T05:27:58.694Z",
-  "stale": false,
+  "builtAt": "2026-11-28T05:03:18.322Z",
+  "stale": true,
   "sources": [
     "arXiv cs.AI",
     "arXiv cs.LG",
